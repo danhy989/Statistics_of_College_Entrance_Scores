@@ -1,25 +1,25 @@
-Sinh học
-Sinh học (Tuyển sinh đào tạo tại Phân hiệu ĐHQG-HCM tại tỉnh Bến Tre)
-Công nghệ sinh học
-Công nghệ Sinh học (Chương trình Chất lượng cao)
-Vật lý học
-Hoá học
-Hoá học (Chương trình liên kết Việt - Pháp)
-Khoa học vật liệu
-Địa chất học
-Hải dương học
-Khoa học môi trường
-Khoa học Môi trường (Tuyển sinh đào tạo tại Phân hiệu ĐHQG-HCM tại tỉnh Bến Tre)
-Toán học
-Khoa học máy tính (Chương trình Tiên tiến)
-Công nghệ thông tin (Chương trình Chất lượng cao)
-Nhóm ngành máy tính và Công nghệ thông tin
-Công nghệ thông tin (Chương trình liên kết Việt - Pháp)
-Công nghệ kỹ thuật Hoá học(Chương trình Chất lượng cao)
-Công nghệ kỹ thuật môi trường
-Kỹ thuật điện tử - viễn thông
-Kỹ thuật điện tử - viễn thông (Chương trình Chất lượng cao)
-Kỹ thuật hạt nhân
+Sinh học	16
+Sinh học (Tuyển sinh đào tạo tại Phân hiệu ĐHQG-HCM tại tỉnh Bến Tre)	16
+Công nghệ sinh học	22.12
+Công nghệ Sinh học (Chương trình Chất lượng cao)	20.4
+Vật lý học	16.05
+Hoá học	21.8
+Hoá học (Chương trình liên kết Việt - Pháp)	19.25
+Khoa học vật liệu	16.05
+Địa chất học	16.05
+Hải dương học	16.15
+Khoa học môi trường	16
+Khoa học Môi trường (Tuyển sinh đào tạo tại Phân hiệu ĐHQG-HCM tại tỉnh Bến Tre)	16
+Toán học	16.1
+Khoa học máy tính (Chương trình Tiên tiến)	24.6
+Công nghệ thông tin (Chương trình Chất lượng cao)	23.2
+Nhóm ngành máy tính và Công nghệ thông tin	25
+Công nghệ thông tin (Chương trình liên kết Việt - Pháp)	21
+Công nghệ kỹ thuật Hoá học(Chương trình Chất lượng cao)	19.45
+Công nghệ kỹ thuật môi trường	16.05
+Kỹ thuật điện tử - viễn thông	20
+Kỹ thuật điện tử - viễn thông (Chương trình Chất lượng cao)	16.1
+Kỹ thuật hạt nhân	17
 
 
 

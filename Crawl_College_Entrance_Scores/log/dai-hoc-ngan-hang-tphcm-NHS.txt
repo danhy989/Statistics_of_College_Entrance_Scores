@@ -1,12 +1,12 @@
-Chương trình cử nhân chất lượng cao
-Chương trình đại học chính quy quốc tế cấp song bằng ngành Quản trị kinh doanh
-Tài chính Ngân hàng
-Kế toán
-Quản trị kinh doanh
-Hệ thống thông tin quản lý
-Luật kinh tế
-Kinh tế quốc tế
-Ngôn ngữ Anh
+Chương trình cử nhân chất lượng cao	20.15
+Chương trình đại học chính quy quốc tế cấp song bằng ngành Quản trị kinh doanh	15.56
+Tài chính Ngân hàng	21.75
+Kế toán	21.9
+Quản trị kinh doanh	22.5
+Hệ thống thông tin quản lý	21.2
+Luật kinh tế	21.3
+Kinh tế quốc tế	22.8
+Ngôn ngữ Anh	22.3
 
 
 

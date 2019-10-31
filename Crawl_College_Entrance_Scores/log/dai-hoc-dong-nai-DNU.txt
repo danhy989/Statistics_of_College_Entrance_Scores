@@ -1,24 +1,24 @@
-Giáo dục Mầm non
-Giáo dục Tiểu học
-Sư phạm Toán học
-Sư phạm Vật lý
-Sư phạm Hoá học
-Sư phạm Sinh học
-Sư phạm Ngữ văn
-Sư phạm Lịch sử
-Sư phạm Tiếng Anh
-Ngôn ngữ Anh
-Quản trị kinh doanh
-Kế toán
-Khoa học môi trường
-Quản lý đất đai
-Giáo dục Mầm non
-Giáo dục Tiểu học
-Sư phạm Toán học
-Sư phạm Vật lý
-Sư phạm Hoá học
-Sư phạm Ngữ văn
-Sư phạm Tiếng Anh
+Giáo dục Mầm non	18
+Giáo dục Tiểu học	18.5
+Sư phạm Toán học	18
+Sư phạm Vật lý	24.7
+Sư phạm Hoá học	18
+Sư phạm Sinh học	18.5
+Sư phạm Ngữ văn	18
+Sư phạm Lịch sử	22.6
+Sư phạm Tiếng Anh	18
+Ngôn ngữ Anh	16
+Quản trị kinh doanh	16
+Kế toán	15
+Khoa học môi trường	15
+Quản lý đất đai	20.8
+Giáo dục Mầm non	16
+Giáo dục Tiểu học	16
+Sư phạm Toán học	19
+Sư phạm Vật lý	16
+Sư phạm Hoá học	19.5
+Sư phạm Ngữ văn	19.8
+Sư phạm Tiếng Anh	16
 
 
 

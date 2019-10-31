@@ -1,13 +1,13 @@
-Ngôn ngữ Anh đối với Nam
-Ngôn ngữ Anh đối với Nữ
-Ngôn ngữ Nga đối với Nam
-Ngôn ngữ Nga đối với Nữ
-Ngôn ngữ Trung Quốc đối với Nam
-Ngôn ngữ Trung Quốc đối với Nữ
-Quan hệ quốc tế đối với Nam
-Quan hệ quốc tế đối với Nữ
-Trinh sát kỹ thuật đới với Nam phía Bắc
-Trinh sát kỹ thuật đới với Nam phía Nam
+Ngôn ngữ Anh đối với Nam	23.98
+Ngôn ngữ Anh đối với Nữ	27.09
+Ngôn ngữ Nga đối với Nam	18.64
+Ngôn ngữ Nga đối với Nữ	25.78
+Ngôn ngữ Trung Quốc đối với Nam	21.78
+Ngôn ngữ Trung Quốc đối với Nữ	25.91
+Quan hệ quốc tế đối với Nam	23.54
+Quan hệ quốc tế đối với Nữ	24.61
+Trinh sát kỹ thuật đới với Nam phía Bắc	21.25
+Trinh sát kỹ thuật đới với Nam phía Nam	20.25
 
 
 

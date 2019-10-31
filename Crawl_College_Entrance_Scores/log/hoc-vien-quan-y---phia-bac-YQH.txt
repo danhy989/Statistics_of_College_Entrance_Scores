@@ -1,11 +1,11 @@
-Y khoa phía Bắc đối với Nam
-Y khoa phía Bắc đối với Nam
-Y khoa phía Bắc đối với Nữ
-Y khoa phía Bắc đối với Nữ
-Y khoa phía Nam đối với Nam
-Y khoa phía Nam đối với Nam
-Y khoa phía Nam đối với Nữ
-Y khoa phía Nam đối với Nữ
+Y khoa phía Bắc đối với Nam	25.25
+Y khoa phía Bắc đối với Nam	23.55
+Y khoa phía Bắc đối với Nữ	26.15
+Y khoa phía Bắc đối với Nữ	26.65
+Y khoa phía Nam đối với Nam	23.7
+Y khoa phía Nam đối với Nam	22.1
+Y khoa phía Nam đối với Nữ	23.65
+Y khoa phía Nam đối với Nữ	25.35
 
 
 

@@ -1,19 +1,19 @@
-Y khoa
-Y khoa (có CC Tiếng Anh)
-Y học dự phòng
-Y học cổ truyền
-Dược học
-Dược học (có CC Tiếng Anh)
-Điều dưỡng
-Điều dưỡng chuyên ngành Hộ sinh
-Điều dưỡng chuyên ngành Gây mê hồi sức
-Dinh dưỡng
-Răng - Hàm - Mặt
-Kỹ thuật phục hình răng
-Kỹ thuật xét nghiệm y học
-Kỹ thuật hình ảnh y học
-Kỹ thuật phục hồi chức năng
-Y tế công cộng
+Y khoa	26.7
+Y khoa (có CC Tiếng Anh)	24.7
+Y học dự phòng	20.5
+Y học cổ truyền	22.4
+Dược học	23.85
+Dược học (có CC Tiếng Anh)	21.85
+Điều dưỡng	21.5
+Điều dưỡng chuyên ngành Hộ sinh	20
+Điều dưỡng chuyên ngành Gây mê hồi sức	21.25
+Dinh dưỡng	21.7
+Răng - Hàm - Mặt	26.1
+Kỹ thuật phục hình răng	22.55
+Kỹ thuật xét nghiệm y học	23
+Kỹ thuật hình ảnh y học	22
+Kỹ thuật phục hồi chức năng	21.1
+Y tế công cộng	18.5
 
 
 

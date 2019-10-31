@@ -1,24 +1,24 @@
-Quản trị kinh doanh
-Marketing
-Bất động sản
-Kinh doanh quốc tế
-Tài chính Ngân hàng
-Kế toán
-Ngôn ngữ Anh
-Hệ thống thông tin quản lý (Chương trình đặc thù)
-Quản trị dịch vụ du lịch và lữ hành (Chương trình đặc thù)
-Quản trị khách sạn (Chương trình đặc thù)
-Quản trị nhà hàng và dịch vụ ăn uống (Chương trình đặc thù)
-Quản trị kinh doanh (Chương trình chất lượng cao)
-Marketing (Chương trình chất lượng cao)
-Kế toán (Chương trình chất lượng cao)
-Tài chính – Ngân hàng (Chương trình chất lượng cao)
-Kinh doanh quốc tế (Chương trình chất lượng cao)
-Quản trị khách sạn (Chương trình chất lượng cao)
-Quản trị kinh doanh (Chương trình quốc tế)
-Marketing (Chương trình quốc tế)
-Kế toán (Chương trình quốc tế)
-Kinh doanh quốc tế (Chương trình quốc tế)
+Quản trị kinh doanh	22.3
+Marketing	24.5
+Bất động sản	19.4
+Kinh doanh quốc tế	23.75
+Tài chính Ngân hàng	21.1
+Kế toán	21.9
+Ngôn ngữ Anh	20
+Hệ thống thông tin quản lý (Chương trình đặc thù)	18.8
+Quản trị dịch vụ du lịch và lữ hành (Chương trình đặc thù)	21.67
+Quản trị khách sạn (Chương trình đặc thù)	22.3
+Quản trị nhà hàng và dịch vụ ăn uống (Chương trình đặc thù)	21.2
+Quản trị kinh doanh (Chương trình chất lượng cao)	19
+Marketing (Chương trình chất lượng cao)	19.2
+Kế toán (Chương trình chất lượng cao)	17.2
+Tài chính – Ngân hàng (Chương trình chất lượng cao)	17
+Kinh doanh quốc tế (Chương trình chất lượng cao)	20
+Quản trị khách sạn (Chương trình chất lượng cao)	17.8
+Quản trị kinh doanh (Chương trình quốc tế)	18.7
+Marketing (Chương trình quốc tế)	18.5
+Kế toán (Chương trình quốc tế)	16.45
+Kinh doanh quốc tế (Chương trình quốc tế)	20
 
 
 

@@ -1,17 +1,17 @@
-Tiếng Việt và văn hoá Việt Nam
-Ngôn ngữ Anh
-Quản trị kinh doanh
-Tài chính Ngân hàng
-Kế toán
-Khoa học môi trường
-Công nghệ thông tin
-Chăn nuôi
-Bảo vệ thực vật
-Nuôi trồng thuỷ sản
-Giáo dục Mầm non
-Giáo dục Tiểu học
-Giáo dục Thể chất
-Sư phạm Âm nhạc
+Tiếng Việt và văn hoá Việt Nam	14
+Ngôn ngữ Anh	14
+Quản trị kinh doanh	14
+Tài chính Ngân hàng	14
+Kế toán	14
+Khoa học môi trường	14
+Công nghệ thông tin	14
+Chăn nuôi	14
+Bảo vệ thực vật	14
+Nuôi trồng thuỷ sản	14
+Giáo dục Mầm non	16
+Giáo dục Tiểu học	18.5
+Giáo dục Thể chất	12
+Sư phạm Âm nhạc	12
 
 
 

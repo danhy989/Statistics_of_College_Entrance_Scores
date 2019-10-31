@@ -1,16 +1,16 @@
-Ngôn ngữ Anh
-Ngôn ngữ Trung Quốc
-Quan hệ công chúng
-Quản trị kinh doanh
-Tài chính Ngân hàng
-Kế toán
-Luật kinh tế
-Công nghệ thông tin
-Kiến trúc cảnh quan
-Kỹ thuật xây dựng
-Dược học
-Điều dưỡng
-Quản trị dịch vụ du lịch và lữ hành
+Ngôn ngữ Anh	15
+Ngôn ngữ Trung Quốc	15
+Quan hệ công chúng	15
+Quản trị kinh doanh	15
+Tài chính Ngân hàng	15
+Kế toán	15
+Luật kinh tế	15
+Công nghệ thông tin	15
+Kiến trúc cảnh quan	15
+Kỹ thuật xây dựng	15
+Dược học	20
+Điều dưỡng	18
+Quản trị dịch vụ du lịch và lữ hành	15
 
 
 

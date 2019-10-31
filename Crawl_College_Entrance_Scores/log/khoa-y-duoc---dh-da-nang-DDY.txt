@@ -1,8 +1,8 @@
-Y khoa
-Dược học
-Dược học
-Điều dưỡng
-Răng - Hàm - Mặt
+Y khoa	23.8
+Dược học	22.55
+Dược học	22.75
+Điều dưỡng	18
+Răng - Hàm - Mặt	23.65
 
 
 

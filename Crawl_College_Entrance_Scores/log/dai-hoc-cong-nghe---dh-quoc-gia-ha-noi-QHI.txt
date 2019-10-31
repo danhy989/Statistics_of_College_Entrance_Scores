@@ -1,14 +1,14 @@
-Công nghệ thông tin
-Máy tính và Robot
-Vật lý kỹ thuật
-Cơ kỹ thuật
-Công nghệ kỹ thuật xây dựng
-Công nghệ Hàng không vũ trụ
-Công nghệ nông nghiệp
-Kỹ thuật điều khiển và tự động hóa
-Công nghệ kỹ thuật cơ điện tử**(CLC theo TT23)
-Công nghệ thông tin**(CLC theo TT23)
-Công nghệ kỹ thuật điện tử - viến thông**(CLC theo TT23)
+Công nghệ thông tin	25.85
+Máy tính và Robot	24.45
+Vật lý kỹ thuật	21
+Cơ kỹ thuật	23.15
+Công nghệ kỹ thuật xây dựng	20.25
+Công nghệ Hàng không vũ trụ	22.25
+Công nghệ nông nghiệp	20
+Kỹ thuật điều khiển và tự động hóa	24.65
+Công nghệ kỹ thuật cơ điện tử**(CLC theo TT23)	23.1
+Công nghệ thông tin**(CLC theo TT23)	25
+Công nghệ kỹ thuật điện tử - viến thông**(CLC theo TT23)	23.1
 
 
 

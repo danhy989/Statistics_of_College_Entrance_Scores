@@ -1,11 +1,11 @@
-Kỹ thuật điện tử viễn thông
-Công nghệ kỹ thuật điện, điện tử
-Công nghệ thông tin
-An toàn thông tin
-Công nghệ đa phương tiện
-Quản trị kinh doanh
-Marketing
-Kế toán
+Kỹ thuật điện tử viễn thông	17
+Công nghệ kỹ thuật điện, điện tử	17
+Công nghệ thông tin	22
+An toàn thông tin	20
+Công nghệ đa phương tiện	21
+Quản trị kinh doanh	19.7
+Marketing	21.2
+Kế toán	18
 
 
 

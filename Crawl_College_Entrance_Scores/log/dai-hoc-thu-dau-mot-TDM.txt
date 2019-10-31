@@ -1,41 +1,41 @@
-Giáo dục học
-Giáo dục Mầm non
-Giáo dục Tiểu học
-Thiết kế đồ họa
-Ngôn ngữ Anh
-Ngôn ngữ Trung Quốc
-Lịch sử
-Văn học
-Văn hoá học
-Chính trị học
-Quản lý nhà nước
-Tâm lý học
-Địa lý học
-Quốc tế học
-Quản trị kinh doanh
-Tài chính Ngân hàng
-Kế toán
-Luật
-Sinh học ứng dụng
-Vật lý học
-Hoá học
-Khoa học môi trường
-Toán học
-Kỹ thuật phần mềm
-Hệ thống thông tin
-Công nghệ kỹ thuật ô tô
-Quản lý công nghiệp
-Logistics và Quản lý chuỗi cung ứng
-Kỹ thuật cơ điện tử
-Kỹ thuật điện
-Kỹ thuật điều khiển và tự động hoá
-Công nghệ chế biến lâm sản
-Kiến trúc
-Quy hoạch vùng và đô thị
-Kỹ thuật xây dựng
-Công tác xã hội
-Quản lý tài nguyên và môi trường
-Quản lý đất đai
+Giáo dục học	14
+Giáo dục Mầm non	19
+Giáo dục Tiểu học	20
+Thiết kế đồ họa	14
+Ngôn ngữ Anh	16
+Ngôn ngữ Trung Quốc	16
+Lịch sử	14.25
+Văn học	15
+Văn hoá học	14
+Chính trị học	14.5
+Quản lý nhà nước	15
+Tâm lý học	14
+Địa lý học	14
+Quốc tế học	14.25
+Quản trị kinh doanh	16.5
+Tài chính Ngân hàng	16
+Kế toán	16.5
+Luật	16.5
+Sinh học ứng dụng	14.25
+Vật lý học	15
+Hoá học	14.5
+Khoa học môi trường	14
+Toán học	15
+Kỹ thuật phần mềm	14
+Hệ thống thông tin	14
+Công nghệ kỹ thuật ô tô	14
+Quản lý công nghiệp	14
+Logistics và Quản lý chuỗi cung ứng	14.5
+Kỹ thuật cơ điện tử	14
+Kỹ thuật điện	14
+Kỹ thuật điều khiển và tự động hoá	14
+Công nghệ chế biến lâm sản	14.75
+Kiến trúc	14
+Quy hoạch vùng và đô thị	14.75
+Kỹ thuật xây dựng	14
+Công tác xã hội	14
+Quản lý tài nguyên và môi trường	14
+Quản lý đất đai	14
 
 
 

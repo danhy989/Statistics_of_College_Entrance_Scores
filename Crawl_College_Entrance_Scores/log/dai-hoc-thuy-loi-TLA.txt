@@ -1,28 +1,28 @@
-Chương trình tiên tiến ngành Kỹ thuật xây dựng (Hợp tác với Đại học Arkansas, Hoa Kỳ, học bằng Tiếng Anh)
-Chương trình tiên tiến ngành Kỹ thuật tài nguyên nước (Hợp tác với Đại học bang Colorado, Hoa Kỳ, học bằng Tiếng Anh)
-Kỹ thuật xây dựng công trình thủy
-Kỹ thuật xây dựng
-Công nghệ kỹ thuật xây dựng
-Kỹ thuật xây dựng công trình giao thông
-Quản lý xây dựng
-Kỹ thuật tài nguyên nước
-Kỹ thuật cấp thoát nước
-Kỹ thuật cơ sở hạ tầng
-Thuỷ văn học (Đào tạo các chuyên ngành: Thủy văn và tài nguyên nước; Quản lý và giảm nhẹ thiên tai)
-Kỹ thuật môi trường
-Kỹ thuật hóa học
-Công nghệ sinh học
-Nhóm ngành Công nghệ thông tin (Công nghệ thông tin; Công nghệ thông tin Việt - Nhật; Hệ thống thông tin; Kỹ thuật phần mềm)
-Kỹ thuật trắc địa - bản đồ
-Kỹ thuật cơ khí (Đào tạo các chuyên ngành: Kỹ thuật cơ khí; Kỹ thuật cơ khí định hướng việc làm tại Hàn Quốc.)
-Kỹ thuật Ô tô (Đào tạo các chuyên ngành: Kỹ thuật ô tô; Công nghệ ô tô định hướng việc làm tại Nhật Bản.)
-Công nghệ chế tạo máy (Đào tạo các chuyên ngành: Công nghệ chế tạo máy; Công nghệ chế tạo máy định hướng việc làm tại Nhật Bản.
-Kỹ thuật cơ điện tử
-Kỹ thuật điện (Đào tạo các chuyên ngành: Hệ thống điện; Điện công nghiệp và dân dụng; Năng lượng mới và tái tạo.)
-Kỹ thuật điều khiển và tự động hóa
-Kinh tế (Đào tạo các chuyên ngành: Kinh tế đầu tư; Kinh tế quốc tế; Kinh tế phát triển; Kinh tế tài nguyên thiên nhiên.)
-Quản trị kinh doanh (Đào tạo các chuyên ngành: Quản trị kinh doanh thương mại điện tử; Quản trị marketing; Quản trị kinh doanh quốc tế.)
-Kế toán
+Chương trình tiên tiến ngành Kỹ thuật xây dựng (Hợp tác với Đại học Arkansas, Hoa Kỳ, học bằng Tiếng Anh)	14
+Chương trình tiên tiến ngành Kỹ thuật tài nguyên nước (Hợp tác với Đại học bang Colorado, Hoa Kỳ, học bằng Tiếng Anh)	14
+Kỹ thuật xây dựng công trình thủy	14
+Kỹ thuật xây dựng	15
+Công nghệ kỹ thuật xây dựng	14
+Kỹ thuật xây dựng công trình giao thông	14
+Quản lý xây dựng	15
+Kỹ thuật tài nguyên nước	14
+Kỹ thuật cấp thoát nước	14
+Kỹ thuật cơ sở hạ tầng	14
+Thuỷ văn học (Đào tạo các chuyên ngành: Thủy văn và tài nguyên nước; Quản lý và giảm nhẹ thiên tai)	14
+Kỹ thuật môi trường	14
+Kỹ thuật hóa học	15
+Công nghệ sinh học	15
+Nhóm ngành Công nghệ thông tin (Công nghệ thông tin; Công nghệ thông tin Việt - Nhật; Hệ thống thông tin; Kỹ thuật phần mềm)	19.5
+Kỹ thuật trắc địa - bản đồ	14
+Kỹ thuật cơ khí (Đào tạo các chuyên ngành: Kỹ thuật cơ khí; Kỹ thuật cơ khí định hướng việc làm tại Hàn Quốc.)	14.95
+Kỹ thuật Ô tô (Đào tạo các chuyên ngành: Kỹ thuật ô tô; Công nghệ ô tô định hướng việc làm tại Nhật Bản.)	16.4
+Công nghệ chế tạo máy (Đào tạo các chuyên ngành: Công nghệ chế tạo máy; Công nghệ chế tạo máy định hướng việc làm tại Nhật Bản.	14
+Kỹ thuật cơ điện tử	15.7
+Kỹ thuật điện (Đào tạo các chuyên ngành: Hệ thống điện; Điện công nghiệp và dân dụng; Năng lượng mới và tái tạo.)	15
+Kỹ thuật điều khiển và tự động hóa	16.7
+Kinh tế (Đào tạo các chuyên ngành: Kinh tế đầu tư; Kinh tế quốc tế; Kinh tế phát triển; Kinh tế tài nguyên thiên nhiên.)	18.35
+Quản trị kinh doanh (Đào tạo các chuyên ngành: Quản trị kinh doanh thương mại điện tử; Quản trị marketing; Quản trị kinh doanh quốc tế.)	19.05
+Kế toán	19.05
 
 
 

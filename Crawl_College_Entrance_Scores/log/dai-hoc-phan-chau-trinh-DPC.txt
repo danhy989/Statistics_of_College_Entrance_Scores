@@ -1,8 +1,8 @@
-Ngôn ngữ Anh
-Quản trị kinh doanh
-Y khoa
-Điều dưỡng
-Kỹ thuật xét nghiệm y học
+Ngôn ngữ Anh	19
+Quản trị kinh doanh	19
+Y khoa	21
+Điều dưỡng	19
+Kỹ thuật xét nghiệm y học	19
 
 
 

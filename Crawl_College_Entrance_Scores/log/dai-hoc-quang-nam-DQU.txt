@@ -1,16 +1,16 @@
-Sư phạm Vật lý
-Sư phạm Sinh học
-Sư phạm Toán học
-Giáo dục Mầm non
-Giáo dục Tiểu học
-Sư phạm Ngữ văn
-Vật lý học
-Công nghệ thông tin
-Bảo vệ thực vật
-Văn học
-Ngôn ngữ Anh
-Việt Nam học
-Lịch sử
+Sư phạm Vật lý	18
+Sư phạm Sinh học	18
+Sư phạm Toán học	18
+Giáo dục Mầm non	18
+Giáo dục Tiểu học	18
+Sư phạm Ngữ văn	18
+Vật lý học	13
+Công nghệ thông tin	13
+Bảo vệ thực vật	13
+Văn học	13
+Ngôn ngữ Anh	13
+Việt Nam học	13
+Lịch sử	13
 
 
 

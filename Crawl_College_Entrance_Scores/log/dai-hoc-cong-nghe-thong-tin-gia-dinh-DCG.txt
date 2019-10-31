@@ -1,9 +1,9 @@
-Ngôn ngữ Anh
-Quản trị kinh doanh
-Tài chính Ngân hàng
-Kế toán
-Mạng máy tính và truyền thông dữ liệu
-Kỹ thuật phần mềm
+Ngôn ngữ Anh	14.5
+Quản trị kinh doanh	14
+Tài chính Ngân hàng	15
+Kế toán	14.5
+Mạng máy tính và truyền thông dữ liệu	14
+Kỹ thuật phần mềm	14.5
 
 
 

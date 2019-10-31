@@ -1,12 +1,12 @@
-Ngôn ngữ Anh
-Quản trị kinh doanh
-Công nghệ thông tin
-Quản trị dịch vụ du lịch và lữ hành
-Công nghệ kỹ thuật môi trường
-Kỹ thuật điện
-Kỹ thuật điều khiển và tự động hóa
-Kỹ thuật Xây dựng
-Kinh tế xây dựng
+Ngôn ngữ Anh	19.75
+Quản trị kinh doanh	18
+Công nghệ thông tin	13.5
+Quản trị dịch vụ du lịch và lữ hành	18
+Công nghệ kỹ thuật môi trường	14
+Kỹ thuật điện	14
+Kỹ thuật điều khiển và tự động hóa	15
+Kỹ thuật Xây dựng	14
+Kinh tế xây dựng	13
 
 
 

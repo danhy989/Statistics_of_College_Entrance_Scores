@@ -1,24 +1,24 @@
-Giáo dục Mầm non
-Giáo dục Tiểu học
-Giáo dục Công dân
-Giáo dục Chính trị
-Giáo dục Quốc phòng - An ninh
-Sư phạm Toán học
-Sư phạm Tin học
-Sư phạm Vật lý
-Sư phạm Hoá học
-Sư phạm Sinh học
-Sư phạm Ngữ văn
-Sư phạm Lịch sử
-Sư phạm Địa lý
-Sư phạm Âm nhạc
-Sư phạm công nghệ
-Sư phạm khoa học tự nhiên
-Giáo dục pháp luật
-Sư phạm Lịch sử - Địa lý
-Tâm lý học giáo dục
-Hệ thống thông tin
-Vật lý (chương trình tiên tiến)
+Giáo dục Mầm non	17
+Giáo dục Tiểu học	18
+Giáo dục Công dân	18
+Giáo dục Chính trị	18
+Giáo dục Quốc phòng - An ninh	18
+Sư phạm Toán học	18
+Sư phạm Tin học	18
+Sư phạm Vật lý	18
+Sư phạm Hoá học	18
+Sư phạm Sinh học	18
+Sư phạm Ngữ văn	18
+Sư phạm Lịch sử	18
+Sư phạm Địa lý	18
+Sư phạm Âm nhạc	20
+Sư phạm công nghệ	18
+Sư phạm khoa học tự nhiên	18
+Giáo dục pháp luật	18
+Sư phạm Lịch sử - Địa lý	18
+Tâm lý học giáo dục	15
+Hệ thống thông tin	15
+Vật lý (chương trình tiên tiến)	15
 
 
 

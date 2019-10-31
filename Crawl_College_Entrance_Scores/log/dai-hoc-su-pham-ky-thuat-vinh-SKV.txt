@@ -1,15 +1,15 @@
-Sư phạm công nghệ
-Quản trị kinh doanh
-Kế toán
-Quản trị nhân lực
-Công nghệ kỹ thuật máy tính
-Công nghệ thông tin
-Công nghệ kỹ thuật cơ khí
-Công nghệ chế tạo máy
-Công nghệ kỹ thuật ô tô
-Công nghệ kỹ thuật điện, điện tử
-Công nghệ kỹ thuật điện tử - viễn thông
-Công nghệ kỹ thuật điều khiển và tự động hóa
+Sư phạm công nghệ	18
+Quản trị kinh doanh	14.5
+Kế toán	14.5
+Quản trị nhân lực	14.5
+Công nghệ kỹ thuật máy tính	14.5
+Công nghệ thông tin	14.5
+Công nghệ kỹ thuật cơ khí	14.5
+Công nghệ chế tạo máy	14.5
+Công nghệ kỹ thuật ô tô	14.5
+Công nghệ kỹ thuật điện, điện tử	14.5
+Công nghệ kỹ thuật điện tử - viễn thông	14.5
+Công nghệ kỹ thuật điều khiển và tự động hóa	14.5
 
 
 

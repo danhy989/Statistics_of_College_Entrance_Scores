@@ -1,37 +1,37 @@
-Ngôn ngữ Anh
-Kinh tế (chuyên ngành Luật kinh tế)
-Kinh tế (chuyên ngành Kinh tế thủy sản)
-Kinh tế phát triển
-Quản trị kinh doanh
-Quản trị kinh doanh (chương trình song ngữ Anh - Việt)
-Marketing
-Kinh doanh thương mại
-Tài chính Ngân hàng
-Kế toán
-Hệ thống thông tin quản lý
-Công nghệ sinh học
-Công nghệ thông tin
-Công nghệ thông tin (chương trình định hướng nghề nghiệp, đào tạo song ngữ Anh - Việt)
-Công nghệ kỹ thuật điện, điện tử
-Nhóm ngành Kỹ thuật cơ khí (2 ngành: Kỹ thuật cơ khí; Công nghệ chế tạo máy)
-Kỹ thuật cơ khí (chuyên ngành Kỹ thuật cơ khí động lực)
-Kỹ thuật cơ điện tử
-Kỹ thuật nhiệt
-Kỹ thuật tàu thuỷ
-Kỹ thuật ô tô
-Kỹ thuật hoá học
-Kỹ thuật môi trường
-Công nghệ thực phẩm
-Công nghệ sau thu hoạch
-Công nghệ chế biến thuỷ sản
-Kỹ thuật xây dựng
-Nuôi trồng thuỷ sản
-Khai thác thuỷ sản
-Quản lý thủy sản
-Quản trị dịch vụ du lịch và lữ hành
-Quản trị dịch vụ du lịch và lữ hành (chuyên ngành song ngữ Pháp - Việt)
-Quản trị dịch vụ du lịch và lữ hành (chuyên ngành Quản trị khách sạn, chương trình định hướng nghề nghiệp, đào tạo song ngữ Anh - Việt)
-Khoa học hàng hải
+Ngôn ngữ Anh	21
+Kinh tế (chuyên ngành Luật kinh tế)	17
+Kinh tế (chuyên ngành Kinh tế thủy sản)	15
+Kinh tế phát triển	15.5
+Quản trị kinh doanh	20
+Quản trị kinh doanh (chương trình song ngữ Anh - Việt)	20
+Marketing	18.5
+Kinh doanh thương mại	17
+Tài chính Ngân hàng	17
+Kế toán	17.5
+Hệ thống thông tin quản lý	15
+Công nghệ sinh học	15
+Công nghệ thông tin	17
+Công nghệ thông tin (chương trình định hướng nghề nghiệp, đào tạo song ngữ Anh - Việt)	17
+Công nghệ kỹ thuật điện, điện tử	15.5
+Nhóm ngành Kỹ thuật cơ khí (2 ngành: Kỹ thuật cơ khí; Công nghệ chế tạo máy)	15
+Kỹ thuật cơ khí (chuyên ngành Kỹ thuật cơ khí động lực)	15
+Kỹ thuật cơ điện tử	15
+Kỹ thuật nhiệt	15
+Kỹ thuật tàu thuỷ	15
+Kỹ thuật ô tô	16.5
+Kỹ thuật hoá học	15
+Kỹ thuật môi trường	15
+Công nghệ thực phẩm	15.5
+Công nghệ sau thu hoạch	15
+Công nghệ chế biến thuỷ sản	15
+Kỹ thuật xây dựng	15
+Nuôi trồng thuỷ sản	15
+Khai thác thuỷ sản	15
+Quản lý thủy sản	15
+Quản trị dịch vụ du lịch và lữ hành	21
+Quản trị dịch vụ du lịch và lữ hành (chuyên ngành song ngữ Pháp - Việt)	16
+Quản trị dịch vụ du lịch và lữ hành (chuyên ngành Quản trị khách sạn, chương trình định hướng nghề nghiệp, đào tạo song ngữ Anh - Việt)	21
+Khoa học hàng hải	15
 
 
 

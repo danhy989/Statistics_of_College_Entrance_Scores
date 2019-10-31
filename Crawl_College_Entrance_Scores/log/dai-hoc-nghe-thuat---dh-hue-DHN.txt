@@ -1,9 +1,9 @@
-Sư phạm Mỹ thuật
-Hội họa
-Điêu khắc
-Thiết kế Đồ họa
-Thiết kế Thời trang
-Thiết kế Nội thất
+Sư phạm Mỹ thuật	21.75
+Hội họa	20.75
+Điêu khắc	20.5
+Thiết kế Đồ họa	15.75
+Thiết kế Thời trang	18.5
+Thiết kế Nội thất	19.75
 
 
 

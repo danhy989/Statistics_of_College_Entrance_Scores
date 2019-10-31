@@ -1,22 +1,22 @@
-Thương mại điện tử
-Thương mại điện tử (chất lượng cao)
-Khoa học máy tính
-Khoa học máy tính (chất lượng cao)
-Mạng máy tính và truyền thông dữ liệu
-Mạng máy tính và truyền thông dữ liệu (chất lượng cao)
-Kỹ thuật phần mềm
-Kỹ thuật phần mềm (chất lượng cao)
-Hệ thống thông tin
-Hệ thống thông tin (chất lượng cao)
-Hệ thống thông tin (tiên tiến)
-Kỹ thuật máy tính
-Kỹ thuật máy tính (chất lượng cao)
-Khoa học dữ liệu
-Công nghệ thông tin
-Công nghệ thông tin (Đào tạo tại Phân hiệu ĐHQG-HCM tại Bến Tre)
-Công nghệ thông tin (chất lượng cao định hướng Nhật Bản)
-An toàn thông tin
-An toàn thông tin (chất lượng cao)
+Thương mại điện tử	23.9
+Thương mại điện tử (chất lượng cao)	21.05
+Khoa học máy tính	25.55
+Khoa học máy tính (chất lượng cao)	22.65
+Mạng máy tính và truyền thông dữ liệu	23.2
+Mạng máy tính và truyền thông dữ liệu (chất lượng cao)	20
+Kỹ thuật phần mềm	25.3
+Kỹ thuật phần mềm (chất lượng cao)	23.2
+Hệ thống thông tin	23.5
+Hệ thống thông tin (chất lượng cao)	21.4
+Hệ thống thông tin (tiên tiến)	17.8
+Kỹ thuật máy tính	23.8
+Kỹ thuật máy tính (chất lượng cao)	21
+Khoa học dữ liệu	23.5
+Công nghệ thông tin	24.65
+Công nghệ thông tin (Đào tạo tại Phân hiệu ĐHQG-HCM tại Bến Tre)	22.9
+Công nghệ thông tin (chất lượng cao định hướng Nhật Bản)	21.3
+An toàn thông tin	24.45
+An toàn thông tin (chất lượng cao)	22
 
 
 

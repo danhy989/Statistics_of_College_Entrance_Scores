@@ -1,6 +1,6 @@
-Sư phạm Toán và Khoa học tự nhiên (gồm các ngành: Sư phạm Toán học; Sư phạm Vật lý; Sư phạm Hóa học; Sư phạm Sinh học; Sư phạm Khoa học tự nhiên)
-Sư phạm Ngữ văn và Lịch sử ( Gồm các ngành: Sư phạm ngữ Văn; Sư phạm Lịch sử)
-Khoa học giáo dục (Gồm các ngành: Quản trị trường học; Quản trị công nghệ giáo dục; Quản trị Chất lượng giáo dục; Tham vấn học đường; Khoa học giáo dục)
+Sư phạm Toán và Khoa học tự nhiên (gồm các ngành: Sư phạm Toán học; Sư phạm Vật lý; Sư phạm Hóa học; Sư phạm Sinh học; Sư phạm Khoa học tự nhiên)	19.5
+Sư phạm Ngữ văn và Lịch sử ( Gồm các ngành: Sư phạm ngữ Văn; Sư phạm Lịch sử)	22
+Khoa học giáo dục (Gồm các ngành: Quản trị trường học; Quản trị công nghệ giáo dục; Quản trị Chất lượng giáo dục; Tham vấn học đường; Khoa học giáo dục)	16
 
 
 

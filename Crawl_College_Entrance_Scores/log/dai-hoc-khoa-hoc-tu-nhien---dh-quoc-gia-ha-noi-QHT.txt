@@ -1,32 +1,32 @@
-Toán học
-Toán tin
-Máy tính và khoa học thông tin*
-Máy tính và khoa học thông tin**
-Vật lý học
-Khoa học vật liệu
-Công nghệ kỹ thuật hạt nhân
-Hoá học
-Hoá học**
-Công nghệ kỹ thuật hoá học
-Công nghệ kỹ thuật hoá học**
-Hoá dược**
-Sinh học
-Công nghệ sinh học
-Công nghệ sinh học**
-Địa lý tự nhiên
-Khoa học thông tin địa không gian*
-Quản lý đất đai
-Khoa học môi trường
-Khoa học môi trường**
-Khoa học đất
-Công nghệ kỹ thuật môi trường
-Công nghệ kỹ thuật môi trường**
-Khí tượng và khí hậu học
-Hải dương học
-Tài nguyên và môi trường nước*
-Địa chất học
-Kỹ thuật địa chất
-Quản lý tài nguyên và môi trường
+Toán học	20
+Toán tin	22
+Máy tính và khoa học thông tin*	23.5
+Máy tính và khoa học thông tin**	20.75
+Vật lý học	18
+Khoa học vật liệu	16.25
+Công nghệ kỹ thuật hạt nhân	16.25
+Hoá học	20.5
+Hoá học**	16
+Công nghệ kỹ thuật hoá học	21.75
+Công nghệ kỹ thuật hoá học**	16
+Hoá dược**	20.25
+Sinh học	20
+Công nghệ sinh học	22.75
+Công nghệ sinh học**	18.75
+Địa lý tự nhiên	16
+Khoa học thông tin địa không gian*	16
+Quản lý đất đai	16
+Khoa học môi trường	17
+Khoa học môi trường**	16
+Khoa học đất	17
+Công nghệ kỹ thuật môi trường	17
+Công nghệ kỹ thuật môi trường**	16
+Khí tượng và khí hậu học	16
+Hải dương học	16
+Tài nguyên và môi trường nước*	16
+Địa chất học	16
+Kỹ thuật địa chất	16
+Quản lý tài nguyên và môi trường	16
 
 
 

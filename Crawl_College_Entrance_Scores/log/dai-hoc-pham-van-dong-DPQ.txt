@@ -1,13 +1,13 @@
-Sư phạm Ngữ văn
-Sư phạm Tiếng Anh
-Ngôn ngữ Anh
-Kinh tế phát triển
-Sinh học ứng dụng
-Công nghệ thông tin
-Công nghệ kỹ thuật cơ khí
-Kỹ thuật cơ điện tử
-Kỹ thuật điện tử - viễn thông
-Giáo dục Mầm non
+Sư phạm Ngữ văn	18
+Sư phạm Tiếng Anh	18
+Ngôn ngữ Anh	13
+Kinh tế phát triển	13
+Sinh học ứng dụng	13
+Công nghệ thông tin	13
+Công nghệ kỹ thuật cơ khí	13
+Kỹ thuật cơ điện tử	13
+Kỹ thuật điện tử - viễn thông	13
+Giáo dục Mầm non	16
 
 
 

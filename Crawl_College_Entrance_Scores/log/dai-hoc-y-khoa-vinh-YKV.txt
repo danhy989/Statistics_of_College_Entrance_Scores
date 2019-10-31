@@ -1,9 +1,9 @@
-Y khoa
-Y khoa liên thông Chính qui
-Y học dự phòng
-Dược học
-Điều dưỡng
-Kỹ thuật xét nghiệm y học
+Y khoa	22.4
+Y khoa liên thông Chính qui	23.55
+Y học dự phòng	18
+Dược học	21
+Điều dưỡng	18
+Kỹ thuật xét nghiệm y học	18
 
 
 

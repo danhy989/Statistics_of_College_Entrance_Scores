@@ -1,14 +1,14 @@
-Công nghệ kỹ thuật Ô tô
-Công nghệ kỹ thuật Điện, Điện tử
-Công nghệ thông tin
-Kế toán
-Quản trị Kinh doanh
-Quản trị Khách sạn
-Quản trị Văn phòng
-Việt Nam học (Hướng dẫn Du lịch)
-Ngôn ngữ Anh
-Quản lý Tài nguyên môi trường
-Dược học (Cấp bằng Dược sĩ)
+Công nghệ kỹ thuật Ô tô	14.5
+Công nghệ kỹ thuật Điện, Điện tử	14.5
+Công nghệ thông tin	14.5
+Kế toán	14.5
+Quản trị Kinh doanh	14.5
+Quản trị Khách sạn	14.5
+Quản trị Văn phòng	14.5
+Việt Nam học (Hướng dẫn Du lịch)	14.5
+Ngôn ngữ Anh	14.5
+Quản lý Tài nguyên môi trường	14.5
+Dược học (Cấp bằng Dược sĩ)	20
 
 
 

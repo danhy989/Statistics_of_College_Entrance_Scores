@@ -1,20 +1,20 @@
-Nghiệp vụ An ninh phía Bắc đối với Nam
-Nghiệp vụ An ninh phía Bắc đối với Nam
-Nghiệp vụ An ninh phía Bắc đối với Nam
-Nghiệp vụ An ninh phía Bắc đối với Nữ
-Nghiệp vụ An ninh phía Bắc đối với Nữ
-Nghiệp vụ An ninh phía Bắc đối với Nữ
-Nghiệp vụ An ninh phía Nam đối với Nam
-Nghiệp vụ An ninh phía Nam đối với Nam
-Nghiệp vụ An ninh phía Nam đối với Nam
-Nghiệp vụ An ninh phía Nam đối với Nữ
-Nghiệp vụ An ninh phía Nam đối với Nữ
-Nghiệp vụ An ninh phía Nam đối với Nữ
-An toàn thông tin phía Bắc
-An toàn thông tin phía Bắc
-An toàn thông tin phía Nam
-An toàn thông tin phía Nam
-Gửi đào tạo ngành Y
+Nghiệp vụ An ninh phía Bắc đối với Nam	25
+Nghiệp vụ An ninh phía Bắc đối với Nam	23.32
+Nghiệp vụ An ninh phía Bắc đối với Nam	22.35
+Nghiệp vụ An ninh phía Bắc đối với Nữ	26.65
+Nghiệp vụ An ninh phía Bắc đối với Nữ	26.64
+Nghiệp vụ An ninh phía Bắc đối với Nữ	25.9
+Nghiệp vụ An ninh phía Nam đối với Nam	21.42
+Nghiệp vụ An ninh phía Nam đối với Nam	22.95
+Nghiệp vụ An ninh phía Nam đối với Nam	20.55
+Nghiệp vụ An ninh phía Nam đối với Nữ	26.24
+Nghiệp vụ An ninh phía Nam đối với Nữ	25.68
+Nghiệp vụ An ninh phía Nam đối với Nữ	26.05
+An toàn thông tin phía Bắc	26.72
+An toàn thông tin phía Bắc	24.75
+An toàn thông tin phía Nam	24.64
+An toàn thông tin phía Nam	21.28
+Gửi đào tạo ngành Y	19.79
 
 
 

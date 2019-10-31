@@ -1,20 +1,20 @@
-Luật
-Ngôn ngữ Anh
-Công nghệ sinh học
-Hoá dược
-Du lịch
-Quản trị dịch vụ du lịch và lữ hành
-Quản lý tài nguyên và môi trường
-Công tác xã hội
-Công nghệ kỹ thuật hoá học
-Khoa học môi trường
-Toán ứng dụng
-Địa lý tự nhiên
-Khoa học quản lý
-Thông tin - thư viện
-Báo chí
-Văn học
-Lịch sử
+Luật	14
+Ngôn ngữ Anh	13.5
+Công nghệ sinh học	15
+Hoá dược	13.5
+Du lịch	14
+Quản trị dịch vụ du lịch và lữ hành	13.5
+Quản lý tài nguyên và môi trường	13.5
+Công tác xã hội	13.5
+Công nghệ kỹ thuật hoá học	13.5
+Khoa học môi trường	13.5
+Toán ứng dụng	19
+Địa lý tự nhiên	13.5
+Khoa học quản lý	13.5
+Thông tin - thư viện	13.5
+Báo chí	13.5
+Văn học	13.5
+Lịch sử	13.5
 
 
 

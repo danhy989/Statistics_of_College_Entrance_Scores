@@ -1,7 +1,7 @@
-Kinh tế, Quản trị kinh doanh
-Kinh tế, Quản trị kinh doanh
-Tài chính-Ngân hàng, Kế toán
-Tài chính-Ngân hàng, Kế toán
+Kinh tế, Quản trị kinh doanh	26.4
+Kinh tế, Quản trị kinh doanh	25.9
+Tài chính-Ngân hàng, Kế toán	25.9
+Tài chính-Ngân hàng, Kế toán	25.4
 
 
 

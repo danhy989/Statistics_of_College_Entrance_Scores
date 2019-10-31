@@ -1,15 +1,15 @@
-Ngôn ngữ Anh
-Ngôn ngữ Trung Quốc
-Quan hệ quốc tế
-Đông phương học
-Quản trị kinh doanh
-Kinh doanh quốc tế
-Tài chính Ngân hàng
-Kế toán
-Luật kinh tế
-Công nghệ thông tin
-Quản trị dịch vụ du lịch và lữ hành
-Quản trị khách sạn
+Ngôn ngữ Anh	30
+Ngôn ngữ Trung Quốc	22.25
+Quan hệ quốc tế	24
+Đông phương học	20.25
+Quản trị kinh doanh	23.75
+Kinh doanh quốc tế	25
+Tài chính Ngân hàng	16
+Kế toán	15
+Luật kinh tế	15
+Công nghệ thông tin	19.75
+Quản trị dịch vụ du lịch và lữ hành	20.5
+Quản trị khách sạn	19
 
 
 

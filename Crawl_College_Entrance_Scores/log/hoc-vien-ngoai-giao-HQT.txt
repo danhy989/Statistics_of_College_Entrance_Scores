@@ -1,8 +1,8 @@
-Ngôn ngữ Anh
-Kinh tế quốc tế
-Quan hệ quốc tế
-Truyền thông quốc tế
-Luật quốc tế
+Ngôn ngữ Anh	33.25
+Kinh tế quốc tế	24.85
+Quan hệ quốc tế	25.1
+Truyền thông quốc tế	25.2
+Luật quốc tế	23.95
 
 
 

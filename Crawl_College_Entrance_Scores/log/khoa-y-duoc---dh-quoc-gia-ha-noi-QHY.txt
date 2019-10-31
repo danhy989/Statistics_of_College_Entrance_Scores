@@ -1,8 +1,8 @@
-Y khoa
-Dược học
-Răng - Hàm - Mặt (CTĐT CLC theo đặc thù đơn vị)
-Kỹ thuật Xét nghiệm Y học
-Kỹ thuật Hình ảnh Y học
+Y khoa	25.6
+Dược học	24.2
+Răng - Hàm - Mặt (CTĐT CLC theo đặc thù đơn vị)	23.6
+Kỹ thuật Xét nghiệm Y học	22.2
+Kỹ thuật Hình ảnh Y học	21
 
 
 

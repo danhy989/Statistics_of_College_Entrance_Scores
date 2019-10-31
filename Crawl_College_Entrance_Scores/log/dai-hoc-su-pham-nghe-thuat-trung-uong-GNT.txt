@@ -1,15 +1,15 @@
-Sư phạm Âm nhạc
-Sư phạm Âm nhạc Mầm non
-Sư phạm Mỹ thuật
-Hội hoạ
-Thanh nhạc
-Piano
-Diễn viên kịch, điện ảnh - truyền hình
-Thiết kế đồ họa
-Thiết kế thời trang
-Quản lý văn hoá
-Công nghệ dệt, may
-Sư phạm Mỹ thuật Mầm non
+Sư phạm Âm nhạc	27
+Sư phạm Âm nhạc Mầm non	27
+Sư phạm Mỹ thuật	27
+Hội hoạ	27
+Thanh nhạc	36
+Piano	34.5
+Diễn viên kịch, điện ảnh - truyền hình	27
+Thiết kế đồ họa	31
+Thiết kế thời trang	29
+Quản lý văn hoá	27
+Công nghệ dệt, may	17
+Sư phạm Mỹ thuật Mầm non	27
 
 
 

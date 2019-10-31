@@ -1,10 +1,10 @@
-Kinh tế
-Kinh tế phát triển
-Kinh tế quốc tế
-Quản lý nhà nước
-Quản trị kinh doanh
-Tài chính Ngân hàng
-Luật kinh tế
+Kinh tế	17.5
+Kinh tế phát triển	17.2
+Kinh tế quốc tế	20
+Quản lý nhà nước	17.15
+Quản trị kinh doanh	19.25
+Tài chính Ngân hàng	19
+Luật kinh tế	17.15
 
 
 

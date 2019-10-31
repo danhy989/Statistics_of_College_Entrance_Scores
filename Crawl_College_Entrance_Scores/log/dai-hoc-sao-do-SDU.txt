@@ -1,16 +1,16 @@
-Ngôn ngữ Anh
-Ngôn ngữ Trung Quốc
-Việt Nam học
-Quản trị kinh doanh
-Kế toán
-Công nghệ thông tin
-Công nghệ kỹ thuật cơ khí
-Công nghệ kỹ thuật ô tô
-Công nghệ kỹ thuật điện, điện tử
-Công nghệ kỹ thuật điện tử - viễn thông
-Kỹ thuật điều khiển và tự động hoá
-Công nghệ thực phẩm
-Công nghệ dệt, may
+Ngôn ngữ Anh	14.5
+Ngôn ngữ Trung Quốc	14.5
+Việt Nam học	14.5
+Quản trị kinh doanh	14.5
+Kế toán	14.5
+Công nghệ thông tin	14.5
+Công nghệ kỹ thuật cơ khí	14.5
+Công nghệ kỹ thuật ô tô	15.5
+Công nghệ kỹ thuật điện, điện tử	14.5
+Công nghệ kỹ thuật điện tử - viễn thông	15
+Kỹ thuật điều khiển và tự động hoá	15
+Công nghệ thực phẩm	14.5
+Công nghệ dệt, may	14.5
 
 
 

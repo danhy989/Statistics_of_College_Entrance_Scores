@@ -1,11 +1,11 @@
 Kỹ thuật hàng không -Thí sinh Nam 
-miền Bắc
+miền Bắc	23.55
 Kỹ thuật hàng không - Thí sinh Nam 
-miền Nam
+miền Nam	20.45
 Chỉ huy kỹ thuật Phòng không - Thí sinh Nam 
-miền Bắc
+miền Bắc	20.95
 Chỉ huy kỹ thuật Phòng không - Thí sinh Nam 
-miền Nam
+miền Nam	15.05
 
 
 

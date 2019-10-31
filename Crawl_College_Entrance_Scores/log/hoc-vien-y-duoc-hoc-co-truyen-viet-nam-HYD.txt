@@ -1,6 +1,6 @@
-Y khoa
-Y học cổ truyền
-Dược học
+Y khoa	23.25
+Y học cổ truyền	20.55
+Dược học	21.9
 
 
 

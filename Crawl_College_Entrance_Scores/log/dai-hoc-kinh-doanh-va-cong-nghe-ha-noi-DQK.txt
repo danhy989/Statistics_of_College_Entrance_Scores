@@ -1,30 +1,30 @@
-Thiết kế công nghiệp
-Thiết kế đồ họa
-Ngôn ngữ Anh
-Ngôn ngữ Nga
-Ngôn ngữ Trung Quốc
-Kinh tế
-Quản lý nhà nước
-Quản trị kinh doanh
-Kinh doanh quốc tế
-Tài chính Ngân hàng
-Kế toán
-Luật kinh tế
-Công nghệ thông tin
-Công nghệ kỹ thuật cơ điện tử
-Công nghệ kỹ thuật ô tô
-Công nghệ kỹ thuật điện, điện tử
-Công nghệ kỹ thuật môi trường
-Kiến trúc
-Quản lý đô thị và công trình
-Thiết kế nội thất
-Kỹ thuật xây dựng
-Y khoa
-Dược học
-Điều dưỡng
-Răng - Hàm - Mặt
-Quản trị dịch vụ du lịch và lữ hành
-Quản lý tài nguyên và môi trường
+Thiết kế công nghiệp	14
+Thiết kế đồ họa	14
+Ngôn ngữ Anh	17.5
+Ngôn ngữ Nga	14
+Ngôn ngữ Trung Quốc	19
+Kinh tế	14
+Quản lý nhà nước	14
+Quản trị kinh doanh	18.5
+Kinh doanh quốc tế	20
+Tài chính Ngân hàng	14
+Kế toán	16
+Luật kinh tế	18
+Công nghệ thông tin	15.5
+Công nghệ kỹ thuật cơ điện tử	14
+Công nghệ kỹ thuật ô tô	18
+Công nghệ kỹ thuật điện, điện tử	14
+Công nghệ kỹ thuật môi trường	14
+Kiến trúc	14
+Quản lý đô thị và công trình	14
+Thiết kế nội thất	14
+Kỹ thuật xây dựng	14
+Y khoa	21
+Dược học	20
+Điều dưỡng	18
+Răng - Hàm - Mặt	21
+Quản trị dịch vụ du lịch và lữ hành	18.5
+Quản lý tài nguyên và môi trường	14
 
 
 

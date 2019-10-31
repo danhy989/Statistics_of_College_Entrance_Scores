@@ -9,6 +9,10 @@ namespace Crawl_College_Entrance_Scores.entity
 {
 	public class MajorCollege
 	{
+		[DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+		[Key]
+		public long id { get; set; }
+
 		[ForeignKey("CollegeEntity")]
 		public string CollegeEntityId { get; set; }
 	
@@ -20,6 +24,8 @@ namespace Crawl_College_Entrance_Scores.entity
 
 		public int year { get; set; }
 		public string groupCode { get; set; }
+
+		public double score { get; set; }
 
 	}
 }

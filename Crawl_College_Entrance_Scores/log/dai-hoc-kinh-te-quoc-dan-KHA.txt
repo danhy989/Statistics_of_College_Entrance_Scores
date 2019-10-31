@@ -1,50 +1,50 @@
-Ngôn ngữ Anh
-Kinh tế
-Kinh tế đầu tư
-Kinh tế phát triển
-Kinh tế quốc tế
-Thống kê kinh tế
-Toán kinh tế
-Quan hệ công chúng
-Quản trị kinh doanh
-Marketing
-Bất động sản
-Kinh doanh quốc tế
-Kinh doanh thương mại
-Thương mại điện tử
-Tài chính Ngân hàng
-Bảo hiểm
-Kế toán
-Khoa học quản lý
-Quản lý công
-Quản trị nhân lực
-Hệ thống thông tin quản lý
-Quản lý dự án
-Luật
-Luật kinh tế
-Khoa học máy tính
-Công nghệ thông tin
-Logistics và Quản lý chuỗi cung ứng
-Kinh tế nông nghiệp
-Quản trị dịch vụ du lịch và lữ hành
-Quản trị khách sạn
-Quản lý tài nguyên và môi trường
-Kinh tế tài nguyên thiên nhiên
-Quản lý đất đai
-Quản trị kinh doanh (E-BBA)
-Khởi nghiệp và phát triển kinh doanh (BBAE - tiếng Anh hệ số 2)
-Định phí Bảo hiểm & Quản trị rủi ro (Actuary)
-Khoa học dữ liệu trong Kinh tế & Kinh doanh (DSEB)
-Kế toán tích hợp chứng chỉ quốc tế (ICAEW CFAB)
-Kinh doanh số (E-BDB)
-Phân tích kinh doanh (BA)
-Quản trị điều hành thông minh (E-SOM)
-Quản trị chất lượng và Đổi mới (E-MQI)
-Công nghệ tài chính (BFT)
-Đầu tư tài chính (BFI - tiếng Anh hệ số 2)
-Quản trị khách sạn quốc tế (IHME - tiếng Anh hệ số 2)
-Quản lý công và Chính sách (E-PMP)
-Các chương trình định hướng ứng dụng (POHE - tiếng Anh hệ số 2)
+Ngôn ngữ Anh	33.65
+Kinh tế	24.75
+Kinh tế đầu tư	24.85
+Kinh tế phát triển	24.45
+Kinh tế quốc tế	26.15
+Thống kê kinh tế	23.75
+Toán kinh tế	24.15
+Quan hệ công chúng	25.5
+Quản trị kinh doanh	25.25
+Marketing	25.6
+Bất động sản	23.85
+Kinh doanh quốc tế	26.15
+Kinh doanh thương mại	25.1
+Thương mại điện tử	25.6
+Tài chính Ngân hàng	25
+Bảo hiểm	23.35
+Kế toán	25.35
+Khoa học quản lý	23.6
+Quản lý công	23.35
+Quản trị nhân lực	24.9
+Hệ thống thông tin quản lý	24.3
+Quản lý dự án	24.4
+Luật	23.1
+Luật kinh tế	24.5
+Khoa học máy tính	23.7
+Công nghệ thông tin	24.1
+Logistics và Quản lý chuỗi cung ứng	26
+Kinh tế nông nghiệp	22.6
+Quản trị dịch vụ du lịch và lữ hành	24.85
+Quản trị khách sạn	25.4
+Quản lý tài nguyên và môi trường	22.65
+Kinh tế tài nguyên thiên nhiên	22.3
+Quản lý đất đai	22.5
+Quản trị kinh doanh (E-BBA)	24.25
+Khởi nghiệp và phát triển kinh doanh (BBAE - tiếng Anh hệ số 2)	31
+Định phí Bảo hiểm & Quản trị rủi ro (Actuary)	23.5
+Khoa học dữ liệu trong Kinh tế & Kinh doanh (DSEB)	23
+Kế toán tích hợp chứng chỉ quốc tế (ICAEW CFAB)	24.65
+Kinh doanh số (E-BDB)	23.35
+Phân tích kinh doanh (BA)	23.35
+Quản trị điều hành thông minh (E-SOM)	23.15
+Quản trị chất lượng và Đổi mới (E-MQI)	22.75
+Công nghệ tài chính (BFT)	22.75
+Đầu tư tài chính (BFI - tiếng Anh hệ số 2)	31.75
+Quản trị khách sạn quốc tế (IHME - tiếng Anh hệ số 2)	33.35
+Quản lý công và Chính sách (E-PMP)	21.5
+Các chương trình định hướng ứng dụng (POHE - tiếng Anh hệ số 2)	31.75
 
 
 

@@ -1,41 +1,41 @@
-Sư phạm Kỹ thuật nông nghiệp
-Ngôn ngữ Anh
-Kinh tế
-Quản trị kinh doanh
-Quản trị kinh doanh (CLC)
-Kế toán
-Công nghệ sinh học
-Công nghệ sinh học (CLC)
-Bản đồ học
-Khoa học môi trường
-Công nghệ thông tin
-Công nghệ kỹ thuật cơ khí
-Công nghệ kỹ thuật cơ khí (CLC)
-Công nghệ kỹ thuật cơ điện tử
-Công nghệ kỹ thuật ô tô
-Công nghệ kỹ thuật nhiệt
-Công nghệ kỹ thuật hoá học
-Kỹ thuật điều khiển và tự động hoá
-Kỹ thuật môi trường
-Kỹ thuật môi trường (CLC)
-Công nghệ thực phẩm
-Công nghệ thực phẩm (CLC)
-Công nghệ thực phẩm(CTTT)
-Công nghệ chế biến thuỷ sản
-Công nghệ chế biến lâm sản
-Chăn nuôi
-Nông học
-Bảo vệ thực vật
-Công nghệ rau hoa quả và cảnh quan
-Kinh doanh nông nghiệp
-Phát triển nông thôn
-Lâm học
-Quản lý tài nguyên rừng
-Nuôi trồng thuỷ sản
-Thú y
-Thú y ( CTTT)
-Quản lý tài nguyên và môi trường
-Quản lý đất đai
+Sư phạm Kỹ thuật nông nghiệp	18
+Ngôn ngữ Anh	14
+Kinh tế	19
+Quản trị kinh doanh	20.5
+Quản trị kinh doanh (CLC)	19
+Kế toán	20.25
+Công nghệ sinh học	20.25
+Công nghệ sinh học (CLC)	17
+Bản đồ học	16
+Khoa học môi trường	16
+Công nghệ thông tin	19.75
+Công nghệ kỹ thuật cơ khí	18
+Công nghệ kỹ thuật cơ khí (CLC)	16
+Công nghệ kỹ thuật cơ điện tử	19
+Công nghệ kỹ thuật ô tô	20.5
+Công nghệ kỹ thuật nhiệt	17
+Công nghệ kỹ thuật hoá học	19
+Kỹ thuật điều khiển và tự động hoá	19
+Kỹ thuật môi trường	16
+Kỹ thuật môi trường (CLC)	16
+Công nghệ thực phẩm	20
+Công nghệ thực phẩm (CLC)	18
+Công nghệ thực phẩm(CTTT)	18
+Công nghệ chế biến thuỷ sản	16
+Công nghệ chế biến lâm sản	15
+Chăn nuôi	16
+Nông học	18
+Bảo vệ thực vật	18
+Công nghệ rau hoa quả và cảnh quan	16
+Kinh doanh nông nghiệp	16.75
+Phát triển nông thôn	16
+Lâm học	15
+Quản lý tài nguyên rừng	15
+Nuôi trồng thuỷ sản	16
+Thú y	21.25
+Thú y ( CTTT)	21.25
+Quản lý tài nguyên và môi trường	16
+Quản lý đất đai	16
 
 
 

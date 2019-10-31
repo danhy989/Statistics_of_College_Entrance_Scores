@@ -1,22 +1,22 @@
-Giáo dục Mầm non
-Giáo dục Tiểu học
-Giáo dục Chính trị
-Sư phạm Toán học
-Sư phạm Tiếng Anh
-Ngôn ngữ Anh
-Ngôn ngữ Trung Quốc
-Chính trị học
-Quản trị kinh doanh
-Tài chính Ngân hàng
-Kế toán
-Luật
-Khoa học môi trường
-Công nghệ thông tin
-Kỹ thuật xây dựng
-Khoa học cây trồng
-Quản trị dịch vụ du lịch và lữ hành
-Giáo dục Mầm non
-Giáo dục Tiểu học
+Giáo dục Mầm non	18
+Giáo dục Tiểu học	18
+Giáo dục Chính trị	18
+Sư phạm Toán học	18
+Sư phạm Tiếng Anh	18
+Ngôn ngữ Anh	13.5
+Ngôn ngữ Trung Quốc	13.5
+Chính trị học	13.5
+Quản trị kinh doanh	13.5
+Tài chính Ngân hàng	13.5
+Kế toán	13.5
+Luật	13.5
+Khoa học môi trường	13.5
+Công nghệ thông tin	13.5
+Kỹ thuật xây dựng	13.5
+Khoa học cây trồng	13.5
+Quản trị dịch vụ du lịch và lữ hành	13.5
+Giáo dục Mầm non	16
+Giáo dục Tiểu học	16
 
 
 

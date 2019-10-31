@@ -1,20 +1,20 @@
-Sư phạm Tiếng Anh
-Sư phạm Tiếng Pháp
-Sư phạm Tiếng Trung Quốc
-Ngôn ngữ Anh
-Ngôn ngữ Anh CLC
-Ngôn ngữ Nga
-Ngôn ngữ Pháp
-Ngôn ngữ Trung Quốc
-Ngôn ngữ Trung Quốc CLC
-Ngôn ngữ Nhật
-Ngôn ngữ Nhật CLC
-Ngôn ngữ Hàn Quốc
-Ngôn ngữ Hàn Quốc CLC
-Ngôn ngữ Thái Lan
-Quốc tế học
-Quốc tế học CLC
-Đông phương học
+Sư phạm Tiếng Anh	23.63
+Sư phạm Tiếng Pháp	16.54
+Sư phạm Tiếng Trung Quốc	22.54
+Ngôn ngữ Anh	22.33
+Ngôn ngữ Anh CLC	20
+Ngôn ngữ Nga	18.13
+Ngôn ngữ Pháp	19.28
+Ngôn ngữ Trung Quốc	23.34
+Ngôn ngữ Trung Quốc CLC	22.05
+Ngôn ngữ Nhật	22.86
+Ngôn ngữ Nhật CLC	21.56
+Ngôn ngữ Hàn Quốc	23.58
+Ngôn ngữ Hàn Quốc CLC	22.06
+Ngôn ngữ Thái Lan	20.3
+Quốc tế học	20.25
+Quốc tế học CLC	19.39
+Đông phương học	20.89
 
 
 

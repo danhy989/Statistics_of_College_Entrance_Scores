@@ -1,38 +1,38 @@
-Giáo dục Mầm non
-Giáo dục Tiểu học
-Giáo dục Tiểu học - Tiếng Jrai
-Giáo dục Chính trị
-Giáo dục Thể chất
-Sư phạm Toán học
-Sư phạm Vật lý
-Sư phạm Hoá học
-Sư phạm Sinh học
-Sư phạm Ngữ văn
-Sư phạm Tiếng Anh
-Ngôn ngữ Anh
-Triết học
-Văn học
-Kinh tế
-Quản trị kinh doanh
-Kinh doanh thương mại
-Tài chính Ngân hàng
-Kế toán
-Sinh học
-Công nghệ sinh học
-Công nghệ thông tin
-Công nghệ kỹ thuật môi trường
-Công nghệ thực phẩm
-Công nghệ sau thu hoạch
-Chăn nuôi
-Khoa học cây trồng
-Bảo vệ thực vật
-Lâm sinh
-Quản lý tài nguyên rừng
-Thú y
-Y khoa
-Điều dưỡng
-Kỹ thuật xét nghiệm y học
-Quản lý đất đai
+Giáo dục Mầm non	18
+Giáo dục Tiểu học	18
+Giáo dục Tiểu học - Tiếng Jrai	18
+Giáo dục Chính trị	18.5
+Giáo dục Thể chất	18
+Sư phạm Toán học	18
+Sư phạm Vật lý	18
+Sư phạm Hoá học	18
+Sư phạm Sinh học	18
+Sư phạm Ngữ văn	18.5
+Sư phạm Tiếng Anh	18
+Ngôn ngữ Anh	18
+Triết học	14
+Văn học	14
+Kinh tế	14
+Quản trị kinh doanh	17.5
+Kinh doanh thương mại	14
+Tài chính Ngân hàng	14
+Kế toán	15.5
+Sinh học	14
+Công nghệ sinh học	14
+Công nghệ thông tin	14
+Công nghệ kỹ thuật môi trường	14
+Công nghệ thực phẩm	14
+Công nghệ sau thu hoạch	14
+Chăn nuôi	14
+Khoa học cây trồng	14
+Bảo vệ thực vật	14
+Lâm sinh	14
+Quản lý tài nguyên rừng	14
+Thú y	14
+Y khoa	23
+Điều dưỡng	19
+Kỹ thuật xét nghiệm y học	20
+Quản lý đất đai	14
 
 
 

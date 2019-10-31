@@ -1,7 +1,7 @@
-Điều dưỡng
-Hộ sinh
-Y tế công cộng
-Dinh dưỡng
+Điều dưỡng	18
+Hộ sinh	18
+Y tế công cộng	17
+Dinh dưỡng	18
 
 
 

@@ -1,7 +1,7 @@
-Quản trị kinh doanh
-Kinh doanh quốc tế
-Kế toán
-Quản lý tài nguyên và môi trường
+Quản trị kinh doanh	13.5
+Kinh doanh quốc tế	14
+Kế toán	13.5
+Quản lý tài nguyên và môi trường	13.5
 
 
 

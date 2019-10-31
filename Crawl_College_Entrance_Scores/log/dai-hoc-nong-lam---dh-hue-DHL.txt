@@ -1,28 +1,28 @@
-Bất động sản
-Sinh học ứng dụng
-Công nghệ kỹ thuật cơ khí
-Kỹ thuật cơ điện tử
-Kỹ thuật trắc địa - bản đồ
-Công nghệ thực phẩm
-Công nghệ sau thu hoạch
-Đảm bảo chất lượng và an toàn thực phẩm
-Công nghệ chế biến lâm sản
-Kỹ thuật cơ sở hạ tầng
-Khuyến nông
-Chăn nuôi
-Nông học
-Khoa học cây trồng
-Bảo vệ thực vật
-Công nghệ rau hoa quả và cảnh quan
-Phát triển nông thôn
-Lâm học
-Lâm nghiệp đô thị
-Quản lý tài nguyên rừng
-Nuôi trồng thuỷ sản
-Bệnh học thủy sản
-Quản lý thủy sản
-Thú y
-Quản lý đất đai
+Bất động sản	15
+Sinh học ứng dụng	13
+Công nghệ kỹ thuật cơ khí	13.5
+Kỹ thuật cơ điện tử	13.5
+Kỹ thuật trắc địa - bản đồ	13
+Công nghệ thực phẩm	16
+Công nghệ sau thu hoạch	13
+Đảm bảo chất lượng và an toàn thực phẩm	13
+Công nghệ chế biến lâm sản	15
+Kỹ thuật cơ sở hạ tầng	13.5
+Khuyến nông	13
+Chăn nuôi	13.5
+Nông học	13.5
+Khoa học cây trồng	13.5
+Bảo vệ thực vật	13.5
+Công nghệ rau hoa quả và cảnh quan	13.5
+Phát triển nông thôn	13
+Lâm học	13
+Lâm nghiệp đô thị	13
+Quản lý tài nguyên rừng	13
+Nuôi trồng thuỷ sản	13
+Bệnh học thủy sản	13
+Quản lý thủy sản	13
+Thú y	15
+Quản lý đất đai	13.5
 
 
 

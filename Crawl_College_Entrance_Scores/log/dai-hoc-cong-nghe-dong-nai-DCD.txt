@@ -1,18 +1,18 @@
-Ngôn ngữ Anh
-Quản trị kinh doanh
-Tài chính Ngân hàng
-Kế toán
-Công nghệ thông tin
-Công nghệ kỹ thuật xây dựng
-Công nghệ chế tạo máy
-Công nghệ kỹ thuật ô tô
-Công nghệ kỹ thuật điện, điện tử
-Công nghệ kỹ thuật hoá học
-Công nghệ kỹ thuật môi trường
-Công nghệ thực phẩm
-Điều dưỡng
-Kỹ thuật xét nghiệm y học
-Quản trị dịch vụ du lịch và lữ hành
+Ngôn ngữ Anh	15.5
+Quản trị kinh doanh	15.5
+Tài chính Ngân hàng	14
+Kế toán	14
+Công nghệ thông tin	14
+Công nghệ kỹ thuật xây dựng	14
+Công nghệ chế tạo máy	14
+Công nghệ kỹ thuật ô tô	16
+Công nghệ kỹ thuật điện, điện tử	14
+Công nghệ kỹ thuật hoá học	14.5
+Công nghệ kỹ thuật môi trường	14
+Công nghệ thực phẩm	14
+Điều dưỡng	18
+Kỹ thuật xét nghiệm y học	18
+Quản trị dịch vụ du lịch và lữ hành	17
 
 
 

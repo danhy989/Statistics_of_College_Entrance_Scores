@@ -1,37 +1,37 @@
-Thiết kế thời trang
-Quản trị kinh doanh
-Marketing
-Tài chính – Ngân hàng
-Kế toán
-Kiểm toán
-Quản trị nhân lực
-Quản trị văn phòng
-Khoa học máy tính
-Mạng máy tính và truyền thông dữ liệu
-Kỹ thuật phần mềm
-Hệ thống thông tin
-Công nghệ kỹ thuật máy tính
-Công nghệ thông tin
-Công nghệ kỹ thuật cơ khí
-Công nghệ kỹ thuật cơ điện tử
-Công nghệ kỹ thuật ô tô
-Công nghệ kỹ thuật nhiệt
-Công nghệ kỹ thuật điện, điện tử
-Công nghệ kỹ thuật điện tử - viễn thông
-Công nghệ kỹ thuật điều khiển và TĐH
-Công nghệ kỹ thuật hoá học
-Công nghệ kỹ thuật môi trường
-Công nghệ thực phẩm
-Công nghệ dệt, may
-Công nghệ vật liệu dệt, may
-Kỹ thuật hệ thống công nghiệp
-Ngôn ngữ Anh
-Ngôn ngữ Trung Quốc
-Ngôn ngữ Hàn Quốc
-Kinh tế đầu tư
-Du lịch
-Quản trị dịch vụ du lịch và lữ hành
-Quản trị khách sạn
+Thiết kế thời trang	20.35
+Quản trị kinh doanh	20.5
+Marketing	21.65
+Tài chính – Ngân hàng	20.2
+Kế toán	20
+Kiểm toán	19.3
+Quản trị nhân lực	20.65
+Quản trị văn phòng	19.3
+Khoa học máy tính	21.15
+Mạng máy tính và truyền thông dữ liệu	19.65
+Kỹ thuật phần mềm	21.05
+Hệ thống thông tin	20.2
+Công nghệ kỹ thuật máy tính	20.5
+Công nghệ thông tin	22.8
+Công nghệ kỹ thuật cơ khí	20.85
+Công nghệ kỹ thuật cơ điện tử	22.35
+Công nghệ kỹ thuật ô tô	22.1
+Công nghệ kỹ thuật nhiệt	19.15
+Công nghệ kỹ thuật điện, điện tử	20.9
+Công nghệ kỹ thuật điện tử - viễn thông	19.75
+Công nghệ kỹ thuật điều khiển và TĐH	23.1
+Công nghệ kỹ thuật hoá học	16.95
+Công nghệ kỹ thuật môi trường	16
+Công nghệ thực phẩm	19.05
+Công nghệ dệt, may	20.75
+Công nghệ vật liệu dệt, may	16.2
+Kỹ thuật hệ thống công nghiệp	17.85
+Ngôn ngữ Anh	21.05
+Ngôn ngữ Trung Quốc	21.5
+Ngôn ngữ Hàn Quốc	21.23
+Kinh tế đầu tư	18.95
+Du lịch	22.25
+Quản trị dịch vụ du lịch và lữ hành	20.2
+Quản trị khách sạn	20.85
 
 
 

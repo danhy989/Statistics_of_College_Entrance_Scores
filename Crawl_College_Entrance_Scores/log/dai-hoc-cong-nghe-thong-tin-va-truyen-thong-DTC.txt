@@ -1,26 +1,26 @@
-Thiết kế đồ họa
-Truyền thông đa phương tiện
-Công nghệ truyền thông
-Thương mại điện tử
-Thương mại điện tử (Theo đặt hàng Doanh nghiệp)
-Hệ thống thông tin quản lý
-Quản trị văn phòng
-Khoa học máy tính
-Mạng máy tính và truyền thông dữ liệu
-Kỹ thuật phần mềm
-Kỹ thuật phần mềm (Theo đặt hàng Doanh nghiệp)
-Hệ thống thông tin
-Công nghệ kỹ thuật máy tính
-Công nghệ kỹ thuật máy tính (Theo đặt hàng Doanh nghiệp)
-Công nghệ thông tin
-Công nghệ thông tin (Chất lượng cao)
-Công nghệ thông tin (Theo đặt hàng Doanh nghiệp)
-An toàn thông tin
-Công nghệ kỹ thuật điện, điện tử
-Công nghệ kỹ thuật điện tử - viễn thông
-Công nghệ kỹ thuật điện tử - viễn thông (Liên kết với Đài Loan)
-Công nghệ kỹ thuật điều khiển và tự động hóa
-Kỹ thuật y sinh
+Thiết kế đồ họa	13.5
+Truyền thông đa phương tiện	13
+Công nghệ truyền thông	13.5
+Thương mại điện tử	13
+Thương mại điện tử (Theo đặt hàng Doanh nghiệp)	15
+Hệ thống thông tin quản lý	13.5
+Quản trị văn phòng	13
+Khoa học máy tính	14
+Mạng máy tính và truyền thông dữ liệu	13.5
+Kỹ thuật phần mềm	13
+Kỹ thuật phần mềm (Theo đặt hàng Doanh nghiệp)	14
+Hệ thống thông tin	16
+Công nghệ kỹ thuật máy tính	13.5
+Công nghệ kỹ thuật máy tính (Theo đặt hàng Doanh nghiệp)	14
+Công nghệ thông tin	13
+Công nghệ thông tin (Chất lượng cao)	16
+Công nghệ thông tin (Theo đặt hàng Doanh nghiệp)	13.5
+An toàn thông tin	13.5
+Công nghệ kỹ thuật điện, điện tử	13
+Công nghệ kỹ thuật điện tử - viễn thông	13
+Công nghệ kỹ thuật điện tử - viễn thông (Liên kết với Đài Loan)	14
+Công nghệ kỹ thuật điều khiển và tự động hóa	13
+Kỹ thuật y sinh	14
 
 
 

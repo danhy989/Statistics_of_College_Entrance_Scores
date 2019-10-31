@@ -1,11 +1,11 @@
-Ngôn ngữ Anh
-Kinh tế
-Quản trị kinh doanh
-Tài chính Ngân hàng
-Tài chính - Ngân hàng
-Kế toán
-Kế toán
-Hệ thống thông tin quản lý
+Ngôn ngữ Anh	29.82
+Kinh tế	21.65
+Quản trị kinh doanh	25.55
+Tài chính Ngân hàng	21.45
+Tài chính - Ngân hàng	22
+Kế toán	23.3
+Kế toán	23
+Hệ thống thông tin quản lý	21.25
 
 
 

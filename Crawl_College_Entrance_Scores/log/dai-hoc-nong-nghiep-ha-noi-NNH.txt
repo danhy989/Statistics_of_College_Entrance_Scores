@@ -1,46 +1,46 @@
-Ngôn ngữ Anh
-Kinh tế
-Kinh tế đầu tư
-Kinh tế tài chính
-Kinh tế tài chính chất lượng cao
-Quản lý kinh tế
-Xã hội học
-Quản trị kinh doanh
-Quản trị kinh doanh nông nghiệp tiên tiến
-Kế toán
-Quản lý và phát triển nguồn nhân lực
-Quản lý và phát triển du lịch
-Công nghệ sinh học
-Công nghệ sinh học chất lượng cao
-Khoa học môi trường
-Công nghệ thông tin
-Công nghệ kỹ thuật cơ điện tử
-Công nghệ kỹ thuật ô tô
-Công nghệ kỹ thuật môi trường
-Kỹ thuật cơ khí
-Kỹ thuật điện
-Công nghệ thực phẩm
-Công nghệ sau thu hoạch
-Công nghệ và kinh doanh thực phẩm
-Nông nghiệp
-Khoa học đất
-Chăn nuôi
-Chăn nuôi thú y
-Phân bón và dinh dưỡng cây trồng
-Khoa học cây trồng
-Khoa học cây trồng Tiên tiến
-Bảo vệ thực vật
-Công nghệ rau hoa quả và cảnh quan
-Kinh doanh nông nghiệp
-Kinh tế nông nghiệp
-Kinh tế nông nghiệp chất lượng cao
-Phát triển nông thôn
-Nông nghiệp công nghệ cao
-Nuôi trồng thuỷ sản
-Bệnh học thủy sản
-Thú y
-Quản lý tài nguyên và môi trường
-Quản lý đất đai
+Ngôn ngữ Anh	18
+Kinh tế	17.5
+Kinh tế đầu tư	17.5
+Kinh tế tài chính	18
+Kinh tế tài chính chất lượng cao	18.5
+Quản lý kinh tế	18
+Xã hội học	17.5
+Quản trị kinh doanh	17.5
+Quản trị kinh doanh nông nghiệp tiên tiến	17.5
+Kế toán	20
+Quản lý và phát triển nguồn nhân lực	18
+Quản lý và phát triển du lịch	18
+Công nghệ sinh học	20
+Công nghệ sinh học chất lượng cao	20
+Khoa học môi trường	18.5
+Công nghệ thông tin	20
+Công nghệ kỹ thuật cơ điện tử	17.5
+Công nghệ kỹ thuật ô tô	17.5
+Công nghệ kỹ thuật môi trường	18
+Kỹ thuật cơ khí	17.5
+Kỹ thuật điện	17.5
+Công nghệ thực phẩm	20
+Công nghệ sau thu hoạch	20
+Công nghệ và kinh doanh thực phẩm	17.5
+Nông nghiệp	17.5
+Khoa học đất	17.5
+Chăn nuôi	17.5
+Chăn nuôi thú y	17.5
+Phân bón và dinh dưỡng cây trồng	18
+Khoa học cây trồng	17.5
+Khoa học cây trồng Tiên tiến	20
+Bảo vệ thực vật	17.5
+Công nghệ rau hoa quả và cảnh quan	20
+Kinh doanh nông nghiệp	17.5
+Kinh tế nông nghiệp	18.5
+Kinh tế nông nghiệp chất lượng cao	18.5
+Phát triển nông thôn	17.5
+Nông nghiệp công nghệ cao	18
+Nuôi trồng thuỷ sản	17.5
+Bệnh học thủy sản	18
+Thú y	18
+Quản lý tài nguyên và môi trường	18
+Quản lý đất đai	17.5
 
 
 

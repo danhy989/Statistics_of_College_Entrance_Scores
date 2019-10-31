@@ -1,32 +1,32 @@
-Giáo dục Mầm non
-Giáo dục Tiểu học
-Giáo dục Thể chất
-Sư phạm Toán học
-Sư phạm Vật lý
-Sư phạm Hoá học
-Sư phạm Sinh học
-Sư phạm Ngữ văn
-Sư phạm Lịch sử
-Sư phạm Âm nhạc
-Sư phạm Tiếng Anh
-Thiết kế đồ họa
-Ngôn ngữ Anh
-Ngôn ngữ Trung Quốc
-Kinh tế
-Quản trị kinh doanh
-Tài chính Ngân hàng
-Kế toán
-Công nghệ sinh học
-Công nghệ thông tin
-Công nghệ kỹ thuật cơ khí
-Công nghệ kỹ thuật điện, điện tử
-Chăn nuôi
-Khoa học cây trồng
-Kinh tế nông nghiệp
-Thú y
-Công tác xã hội
-Du lịch
-Quản trị dịch vụ du lịch và lữ hành
+Giáo dục Mầm non	26
+Giáo dục Tiểu học	18
+Giáo dục Thể chất	26
+Sư phạm Toán học	18
+Sư phạm Vật lý	18
+Sư phạm Hoá học	18
+Sư phạm Sinh học	18
+Sư phạm Ngữ văn	18
+Sư phạm Lịch sử	18
+Sư phạm Âm nhạc	26
+Sư phạm Tiếng Anh	18
+Thiết kế đồ họa	26
+Ngôn ngữ Anh	14
+Ngôn ngữ Trung Quốc	14
+Kinh tế	14
+Quản trị kinh doanh	14
+Tài chính Ngân hàng	14
+Kế toán	14
+Công nghệ sinh học	14
+Công nghệ thông tin	14
+Công nghệ kỹ thuật cơ khí	14
+Công nghệ kỹ thuật điện, điện tử	14
+Chăn nuôi	14
+Khoa học cây trồng	14
+Kinh tế nông nghiệp	14
+Thú y	14
+Công tác xã hội	14
+Du lịch	14
+Quản trị dịch vụ du lịch và lữ hành	14
 
 
 

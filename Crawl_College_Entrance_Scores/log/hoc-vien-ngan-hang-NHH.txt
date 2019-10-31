@@ -1,20 +1,20 @@
-Tài chính Ngân hàng
-Kế toán
-Quản trị kinh doanh
-Kinh doanh quốc tế
-Kinh tế
-Hệ thống thông tin quản lý
-Luật kinh tế
-Luật kinh tế
-Ngôn ngữ Anh
-Quản trị kinh doanh (Liên kết với Đại học CityU, Hoa Kỳ)
-Quản trị kinh doanh (Liên kết với Đại học CityU, Hoa Kỳ)
-Tài chính- ngân hàng (Liên kết với Đại học Sunderland, Vương quốc Anh)
-Quản lý Tài chính- Kế toán (Liên kết với Đại học Sunderland, Vương quốc Anh)
-Kế toán
-Kế toán
-Hệ thống thông tin quản lý
-Hệ thống thông tin quản lý
+Tài chính Ngân hàng	22.25
+Kế toán	22.75
+Quản trị kinh doanh	22.25
+Kinh doanh quốc tế	22.25
+Kinh tế	22
+Hệ thống thông tin quản lý	21.75
+Luật kinh tế	21.5
+Luật kinh tế	24.75
+Ngôn ngữ Anh	23
+Quản trị kinh doanh (Liên kết với Đại học CityU, Hoa Kỳ)	20.5
+Quản trị kinh doanh (Liên kết với Đại học CityU, Hoa Kỳ)	20.5
+Tài chính- ngân hàng (Liên kết với Đại học Sunderland, Vương quốc Anh)	20.75
+Quản lý Tài chính- Kế toán (Liên kết với Đại học Sunderland, Vương quốc Anh)	20
+Kế toán	22.75
+Kế toán	22.75
+Hệ thống thông tin quản lý	21.75
+Hệ thống thông tin quản lý	21.75
 
 
 

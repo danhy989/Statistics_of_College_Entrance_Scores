@@ -1,26 +1,26 @@
-Biến đổi khí hậu và phát triển bền vững
-Luật
-Quản trị kinh doanh
-Kế toán
-Khí tượng và khí hậu học
-Thủy văn học
-Công nghệ kỹ thuật môi trường
-Công nghệ thông tin
-Kỹ thuật địa chất
-Kỹ thuật trắc địa – bản đồ
-Quản trị dịch vụ du lịch và lữ hành
-Kinh tế tài nguyên thiên nhiên
-Quản lý biển
-Quản lý đất đai
-Quản lý tài nguyên nước
-Quản lý tài nguyên và môi trường
-Kế toán
-Công nghệ kỹ thuật môi trường
-Kỹ thuật trắc địa – bản đồ
-Công nghệ thông tin
-Quản lý đất đai
-Quản trị dịch vụ du lịch và lữ hành
-Quản lý tài nguyên và môi trường
+Biến đổi khí hậu và phát triển bền vững	15.5
+Luật	14
+Quản trị kinh doanh	14.5
+Kế toán	14
+Khí tượng và khí hậu học	14
+Thủy văn học	14
+Công nghệ kỹ thuật môi trường	14
+Công nghệ thông tin	14
+Kỹ thuật địa chất	14
+Kỹ thuật trắc địa – bản đồ	14
+Quản trị dịch vụ du lịch và lữ hành	14
+Kinh tế tài nguyên thiên nhiên	15
+Quản lý biển	14
+Quản lý đất đai	14
+Quản lý tài nguyên nước	14.5
+Quản lý tài nguyên và môi trường	14
+Kế toán	14
+Công nghệ kỹ thuật môi trường	14
+Kỹ thuật trắc địa – bản đồ	14
+Công nghệ thông tin	14
+Quản lý đất đai	14
+Quản trị dịch vụ du lịch và lữ hành	14
+Quản lý tài nguyên và môi trường	14
 
 
 

@@ -1,22 +1,22 @@
-Ngôn ngữ Anh
-Văn học
-Việt Nam học
-Quản trị kinh doanh
-Tài chính Ngân hàng
-Kế toán
-Luật kinh tế
-Công nghệ thông tin
-Công nghệ kỹ thuật công trình xây dựng
-Công nghệ kỹ thuật điện, điện tử
-Công nghệ thực phẩm
-Nuôi trồng thuỷ sản
-Thú y
-Dược học
-Điều dưỡng
-Du lịch
-Quản trị dịch vụ du lịch và lữ hành
-Quản lý tài nguyên và môi trường
-Quản lý đất đai
+Ngôn ngữ Anh	14
+Văn học	14
+Việt Nam học	14
+Quản trị kinh doanh	14
+Tài chính Ngân hàng	14
+Kế toán	14
+Luật kinh tế	14
+Công nghệ thông tin	14
+Công nghệ kỹ thuật công trình xây dựng	14
+Công nghệ kỹ thuật điện, điện tử	14
+Công nghệ thực phẩm	14
+Nuôi trồng thuỷ sản	14
+Thú y	14
+Dược học	20
+Điều dưỡng	18
+Du lịch	14
+Quản trị dịch vụ du lịch và lữ hành	14
+Quản lý tài nguyên và môi trường	14
+Quản lý đất đai	14
 
 
 

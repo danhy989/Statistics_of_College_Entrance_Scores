@@ -1,31 +1,31 @@
-Giáo dục Mầm non
-Giáo dục Tiểu học
-Giáo dục Chính trị
-Giáo dục Thể chất
-Sư phạm Toán học
-Sư phạm Vật lý
-Sư phạm Hoá học
-Sư phạm Ngữ văn
-Sư phạm Địa lý
-Sư phạm Tiếng Anh
-Ngôn ngữ Anh
-Ngôn ngữ Trung Quốc
-Văn học
-Kinh tế
-Việt Nam học
-Quản trị kinh doanh
-Tài chính Ngân hàng
-Kế toán
-Công nghệ thông tin
-Công nghệ kỹ thuật xây dựng
-Công nghệ chế tạo máy
-Công nghệ kỹ thuật cơ điện tử
-Công nghệ kỹ thuật điện, điện tử
-Công nghệ kỹ thuật điều khiển và tự động hóa
-Kiến trúc
-Khoa học cây trồng
-Công tác xã hội
-Giáo dục Mầm non
+Giáo dục Mầm non	18
+Giáo dục Tiểu học	18
+Giáo dục Chính trị	18
+Giáo dục Thể chất	24
+Sư phạm Toán học	18
+Sư phạm Vật lý	18
+Sư phạm Hoá học	18
+Sư phạm Ngữ văn	18
+Sư phạm Địa lý	18
+Sư phạm Tiếng Anh	21
+Ngôn ngữ Anh	18.5
+Ngôn ngữ Trung Quốc	23
+Văn học	14
+Kinh tế	14
+Việt Nam học	16
+Quản trị kinh doanh	14
+Tài chính Ngân hàng	14
+Kế toán	14
+Công nghệ thông tin	14
+Công nghệ kỹ thuật xây dựng	14
+Công nghệ chế tạo máy	14
+Công nghệ kỹ thuật cơ điện tử	14
+Công nghệ kỹ thuật điện, điện tử	14
+Công nghệ kỹ thuật điều khiển và tự động hóa	14
+Kiến trúc	24
+Khoa học cây trồng	17
+Công tác xã hội	14
+Giáo dục Mầm non	16
 
 
 

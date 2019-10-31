@@ -1,12 +1,12 @@
-Y khoa
-Y học dự phòng
-Y học cổ truyền
-Dược học
-Điều dưỡng
-Răng - Hàm - Mặt
-Kỹ thuật xét nghiệm y học
-Kỹ thuật hình ảnh y học
-Y tế công cộng
+Y khoa	25
+Y học dự phòng	18.25
+Y học cổ truyền	21.75
+Dược học	22.75
+Điều dưỡng	19.25
+Răng - Hàm - Mặt	24.7
+Kỹ thuật xét nghiệm y học	21.25
+Kỹ thuật hình ảnh y học	20.25
+Y tế công cộng	16.5
 
 
 

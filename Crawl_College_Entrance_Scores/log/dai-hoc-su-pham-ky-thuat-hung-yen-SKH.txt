@@ -1,17 +1,17 @@
-Sư phạm công nghệ
-Ngôn ngữ Anh
-Kinh tế
-Quản trị kinh doanh
-Kế toán
-Công nghệ thông tin
-Công nghệ kỹ thuật cơ khí
-Công nghệ chế tạo máy
-Công nghệ kỹ thuật cơ điện tử
-Công nghệ kỹ thuật ô tô
-Công nghệ kỹ thuật điện, điện tử
-Công nghệ kỹ thuật hoá học
-Công nghệ kỹ thuật môi trường
-Công nghệ may
+Sư phạm công nghệ	18
+Ngôn ngữ Anh	14
+Kinh tế	14
+Quản trị kinh doanh	14
+Kế toán	14
+Công nghệ thông tin	15
+Công nghệ kỹ thuật cơ khí	14
+Công nghệ chế tạo máy	14
+Công nghệ kỹ thuật cơ điện tử	15
+Công nghệ kỹ thuật ô tô	15
+Công nghệ kỹ thuật điện, điện tử	14
+Công nghệ kỹ thuật hoá học	14
+Công nghệ kỹ thuật môi trường	14
+Công nghệ may	14
 
 
 

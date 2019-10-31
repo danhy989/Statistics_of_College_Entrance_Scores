@@ -1,35 +1,35 @@
-Giáo dục Mầm non
-Giáo dục Tiểu học
-Giáo dục Chính trị
-Giáo dục Thể chất
-Sư phạm Toán học
-Sư phạm Vật lý
-Sư phạm Hoá học
-Sư phạm Sinh học
-Sư phạm Ngữ văn
-Sư phạm Lịch sử
-Ngôn ngữ Anh
-Địa lý học
-Quản trị kinh doanh
-Kế toán
-Luật
-Kỹ thuật phần mềm
-Công nghệ thông tin
-Kỹ thuật điện
-Phát triển nông thôn
-Lâm học
-Quản lý tài nguyên rừng
-Quản trị dịch vụ du lịch và lữ hành
-Quản lý tài nguyên và môi trường
-Giáo dục Mầm non
-Giáo dục Tiểu học
-Sư phạm Toán học
-Sư phạm Vật lý
-Sư phạm Hoá học
-Sư phạm Sinh học
-Sư phạm Ngữ văn
-Sư phạm Tiếng Anh
-Sư phạm Lịch sử - Địa lý
+Giáo dục Mầm non	18
+Giáo dục Tiểu học	18
+Giáo dục Chính trị	18
+Giáo dục Thể chất	18
+Sư phạm Toán học	18
+Sư phạm Vật lý	18
+Sư phạm Hoá học	18
+Sư phạm Sinh học	18
+Sư phạm Ngữ văn	18
+Sư phạm Lịch sử	18
+Ngôn ngữ Anh	15
+Địa lý học	15
+Quản trị kinh doanh	15
+Kế toán	15
+Luật	15
+Kỹ thuật phần mềm	15
+Công nghệ thông tin	15
+Kỹ thuật điện	15
+Phát triển nông thôn	15
+Lâm học	15
+Quản lý tài nguyên rừng	15
+Quản trị dịch vụ du lịch và lữ hành	15
+Quản lý tài nguyên và môi trường	15
+Giáo dục Mầm non	16
+Giáo dục Tiểu học	16
+Sư phạm Toán học	16
+Sư phạm Vật lý	16
+Sư phạm Hoá học	16
+Sư phạm Sinh học	16
+Sư phạm Ngữ văn	16
+Sư phạm Tiếng Anh	16
+Sư phạm Lịch sử - Địa lý	16
 
 
 

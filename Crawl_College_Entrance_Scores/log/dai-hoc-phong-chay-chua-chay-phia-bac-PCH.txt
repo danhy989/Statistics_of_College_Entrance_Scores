@@ -1,8 +1,8 @@
-Phòng cháy chữa cháy và cứu nạn cứu hộ phía Bắc đối với Nam
-Phòng cháy chữa cháy và cứu nạn cứu hộ phía Bắc đối với Nữ
-Phòng cháy chữa cháy và cứu nạn cứu hộ phía Nam đối với Nam
-Phòng cháy chữa cháy và cứu nạn cứu hộ phía Nam đối với Nữ
-Phòng cháy chữa cháy và cứu nạn, cứu hộ hệ dân sự
+Phòng cháy chữa cháy và cứu nạn cứu hộ phía Bắc đối với Nam	24.9
+Phòng cháy chữa cháy và cứu nạn cứu hộ phía Bắc đối với Nữ	25.92
+Phòng cháy chữa cháy và cứu nạn cứu hộ phía Nam đối với Nam	24.36
+Phòng cháy chữa cháy và cứu nạn cứu hộ phía Nam đối với Nữ	25.6
+Phòng cháy chữa cháy và cứu nạn, cứu hộ hệ dân sự	14
 
 
 

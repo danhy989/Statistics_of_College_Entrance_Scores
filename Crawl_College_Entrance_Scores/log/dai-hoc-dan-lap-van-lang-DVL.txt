@@ -1,35 +1,35 @@
-Thanh nhạc
-Piano
-Thiết kế công nghiệp
-Thiết kế đồ họa
-Thiết kế thời trang
-Ngôn ngữ Anh
-Văn học
-Tâm lý học
-Đông phương học
-Quan hệ công chúng
-Quản trị kinh doanh
-Kinh doanh thương mại
-Tài chính Ngân hàng
-Kế toán
-Luật
-Luật kinh tế
-Công nghệ sinh học
-Kỹ thuật phần mềm
-Công nghệ thông tin
-Công nghệ kỹ thuật ô tô
-Công nghệ kỹ thuật môi trường
-Kỹ thuật nhiệt
-Kiến trúc
-Thiết kế nội thất
-Kỹ thuật xây dựng
-Kỹ thuật xây dựng công trình giao thông
-Quản lý xây dựng
-Dược học
-Điều dưỡng
-Kỹ thuật xét nghiệm y học
-Quản trị dịch vụ du lịch và lữ hành
-Quản trị khách sạn
+Thanh nhạc	21
+Piano	18
+Thiết kế công nghiệp	15
+Thiết kế đồ họa	20.5
+Thiết kế thời trang	19
+Ngôn ngữ Anh	16.5
+Văn học	15
+Tâm lý học	17
+Đông phương học	19
+Quan hệ công chúng	17
+Quản trị kinh doanh	15.5
+Kinh doanh thương mại	15
+Tài chính Ngân hàng	15
+Kế toán	15
+Luật	15
+Luật kinh tế	15
+Công nghệ sinh học	15
+Kỹ thuật phần mềm	15
+Công nghệ thông tin	15
+Công nghệ kỹ thuật ô tô	16
+Công nghệ kỹ thuật môi trường	15
+Kỹ thuật nhiệt	15
+Kiến trúc	15
+Thiết kế nội thất	15
+Kỹ thuật xây dựng	15
+Kỹ thuật xây dựng công trình giao thông	15
+Quản lý xây dựng	15
+Dược học	20
+Điều dưỡng	18
+Kỹ thuật xét nghiệm y học	18
+Quản trị dịch vụ du lịch và lữ hành	16
+Quản trị khách sạn	17
 
 
 

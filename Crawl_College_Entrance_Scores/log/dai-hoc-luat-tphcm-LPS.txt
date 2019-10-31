@@ -1,13 +1,13 @@
-Ngôn ngữ Anh
-Quản trị kinh doanh
-Quản trị - Luật
-Quản trị - Luật
-Quản trị - Luật
-Luật
-Luật
-Luật Thương mại quốc tế
-Luật Thương mại quốc tế
-Luật Thương mại quốc tế
+Ngôn ngữ Anh	17
+Quản trị kinh doanh	17
+Quản trị - Luật	20.5
+Quản trị - Luật	21
+Quản trị - Luật	21.5
+Luật	17
+Luật	21.5
+Luật Thương mại quốc tế	23
+Luật Thương mại quốc tế	22.5
+Luật Thương mại quốc tế	20
 
 
 

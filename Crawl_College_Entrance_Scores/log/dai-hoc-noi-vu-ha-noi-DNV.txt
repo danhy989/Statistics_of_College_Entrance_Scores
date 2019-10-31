@@ -1,61 +1,61 @@
-Văn hoá học
-Văn hoá học
-Văn hoá học
-CN Văn hóa du lịch
-CN Văn hóa du lịch
-CN Văn hóa du lịch
-CN Văn hóa du lịch
-CN Văn hóa truyền thông
-CN Văn hóa truyền thông
-Quản lý văn hoá
-Quản lý văn hoá
-Quản lý văn hoá
-Chính trị học
-Chính trị học
-Chính trị học
-CN Chính sách công
-CN Chính sách công
-CN Chính sách công
-Xây dựng Đảng và chính quyền nhà nước
-Xây dựng Đảng và chính quyền nhà nước
-Xây dựng Đảng và chính quyền nhà nước
-Quản lý nhà nước
-Quản lý nhà nước
-CN QLNN về Kinh tế
-CN Quản lý tài chính công
-CN QLNN về Tôn giáo
-CN QLNN về Tôn giáo
-CN QLNN về Tôn giáo
-Quản lý nhà nước
-Quản lý nhà nước
-Quản lý nhà nước
-Thông tin - thư viện
-Thông tin - thư viện
-Thông tin - thư viện
-Lưu trữ học
-Lưu trữ học
-Lưu trữ học
-Lưu trữ học
-Quản trị nhân lực
-Quản trị nhân lực
-Quản trị nhân lực
-Quản trị văn phòng
-Quản trị văn phòng
-Quản trị văn phòng
-Quản trị văn phòng
-Quản trị văn phòng
-Quản trị văn phòng
-Luật
-Luật
-CN Thanh tra
-CN Thanh tra
-CN Thanh tra
-CN Thanh tra
-Luật
-Luật
-Luật
-Luật
-Hệ thống thông tin
+Văn hoá học	18
+Văn hoá học	20
+Văn hoá học	21
+CN Văn hóa du lịch	18
+CN Văn hóa du lịch	20
+CN Văn hóa du lịch	21
+CN Văn hóa du lịch	14
+CN Văn hóa truyền thông	18
+CN Văn hóa truyền thông	21
+Quản lý văn hoá	16
+Quản lý văn hoá	18
+Quản lý văn hoá	19
+Chính trị học	15
+Chính trị học	17
+Chính trị học	18
+CN Chính sách công	15
+CN Chính sách công	17
+CN Chính sách công	18
+Xây dựng Đảng và chính quyền nhà nước	15
+Xây dựng Đảng và chính quyền nhà nước	17
+Xây dựng Đảng và chính quyền nhà nước	18
+Quản lý nhà nước	16
+Quản lý nhà nước	18
+CN QLNN về Kinh tế	16
+CN Quản lý tài chính công	16
+CN QLNN về Tôn giáo	16
+CN QLNN về Tôn giáo	18
+CN QLNN về Tôn giáo	19
+Quản lý nhà nước	14
+Quản lý nhà nước	15
+Quản lý nhà nước	14
+Thông tin - thư viện	15
+Thông tin - thư viện	17
+Thông tin - thư viện	18
+Lưu trữ học	15
+Lưu trữ học	17
+Lưu trữ học	18
+Lưu trữ học	15
+Quản trị nhân lực	19.5
+Quản trị nhân lực	21.5
+Quản trị nhân lực	14
+Quản trị văn phòng	22.5
+Quản trị văn phòng	21.5
+Quản trị văn phòng	19.5
+Quản trị văn phòng	14
+Quản trị văn phòng	14
+Quản trị văn phòng	15
+Luật	19.5
+Luật	21.5
+CN Thanh tra	19.5
+CN Thanh tra	21.5
+CN Thanh tra	14
+CN Thanh tra	15
+Luật	14
+Luật	15
+Luật	14
+Luật	15
+Hệ thống thông tin	15
 
 
 

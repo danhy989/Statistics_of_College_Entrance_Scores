@@ -1,45 +1,45 @@
-Dược học
-Công nghệ thực phẩm
-Kỹ thuật môi trường
-Công nghệ sinh học
-Thú y
-Kỹ thuật y sinh
-Kỹ thuật điện tử - viễn thông
-Kỹ thuật điện
-Kỹ thuật cơ điện tử
-Kỹ thuật cơ khí
-Kỹ thuật điều khiển và tự động hóa
-Công nghệ kỹ thuật ô tô
-Công nghệ thông tin
-An toàn thông tin
-Hệ thống thông tin quản lý
-Kỹ thuật xây dựng
-Quản lý xây dựng
-Kinh tế xây dựng
-Kỹ thuật xây dựng công trình giao thông
-Công nghệ dệt, may
-Logistics & quản lý chuỗi cung ứng
-Kế toán
-Tài chính - Ngân hàng
-Tâm lý học
-Marketing
-Quản trị kinh doanh
-Kinh doanh quốc tế
-Quản trị dịch vụ du lịch và lữ hành
-Quản trị khách sạn
-Quản trị nhà hàng và dịch vụ ăn uống
-Luật kinh tế
-Kiến trúc
-Thiết kế nội thất
-Thiết kế thời trang
-Thiết kế đồ họa
-Truyền thông đa phương tiện
-Đông phương học
-Việt Nam học
-Ngôn ngữ Hàn Quốc
-Ngôn ngữ Trung Quốc
-Ngôn ngữ Anh
-Ngôn ngữ Nhật
+Dược học	22
+Công nghệ thực phẩm	16
+Kỹ thuật môi trường	16
+Công nghệ sinh học	16
+Thú y	17
+Kỹ thuật y sinh	16
+Kỹ thuật điện tử - viễn thông	16
+Kỹ thuật điện	16
+Kỹ thuật cơ điện tử	16
+Kỹ thuật cơ khí	16
+Kỹ thuật điều khiển và tự động hóa	16
+Công nghệ kỹ thuật ô tô	17
+Công nghệ thông tin	18
+An toàn thông tin	16
+Hệ thống thông tin quản lý	16
+Kỹ thuật xây dựng	16
+Quản lý xây dựng	16
+Kinh tế xây dựng	16
+Kỹ thuật xây dựng công trình giao thông	16
+Công nghệ dệt, may	16
+Logistics & quản lý chuỗi cung ứng	17
+Kế toán	16
+Tài chính - Ngân hàng	16
+Tâm lý học	18
+Marketing	19
+Quản trị kinh doanh	17
+Kinh doanh quốc tế	20
+Quản trị dịch vụ du lịch và lữ hành	18
+Quản trị khách sạn	18
+Quản trị nhà hàng và dịch vụ ăn uống	18
+Luật kinh tế	16
+Kiến trúc	16
+Thiết kế nội thất	16
+Thiết kế thời trang	16
+Thiết kế đồ họa	16
+Truyền thông đa phương tiện	17
+Đông phương học	17
+Việt Nam học	16
+Ngôn ngữ Hàn Quốc	17
+Ngôn ngữ Trung Quốc	16
+Ngôn ngữ Anh	17
+Ngôn ngữ Nhật	17
 
 
 

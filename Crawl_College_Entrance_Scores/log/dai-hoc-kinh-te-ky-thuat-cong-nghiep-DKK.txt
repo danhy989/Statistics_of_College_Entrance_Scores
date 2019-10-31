@@ -1,18 +1,18 @@
-Ngôn ngữ Anh
-Quản trị kinh doanh
-Kinh doanh thương mại
-Tài chính Ngân hàng
-Kế toán
-Mạng máy tính và truyền thông dữ liệu
-Công nghệ thông tin
-Công nghệ kỹ thuật cơ khí
-Công nghệ kỹ thuật cơ điện tử
-Công nghệ kỹ thuật điện, điện tử
-Công nghệ kỹ thuật điện tử - viễn thông
-Công nghệ kỹ thuật điều khiển và tự động hóa
-Công nghệ thực phẩm
-Công nghệ sợi, dệt
-Công nghệ dệt, may
+Ngôn ngữ Anh	15.5
+Quản trị kinh doanh	16.75
+Kinh doanh thương mại	16.75
+Tài chính Ngân hàng	15
+Kế toán	15.5
+Mạng máy tính và truyền thông dữ liệu	16.5
+Công nghệ thông tin	18.5
+Công nghệ kỹ thuật cơ khí	16
+Công nghệ kỹ thuật cơ điện tử	16
+Công nghệ kỹ thuật điện, điện tử	17.5
+Công nghệ kỹ thuật điện tử - viễn thông	15.5
+Công nghệ kỹ thuật điều khiển và tự động hóa	18.25
+Công nghệ thực phẩm	15.5
+Công nghệ sợi, dệt	15
+Công nghệ dệt, may	17.5
 
 
 

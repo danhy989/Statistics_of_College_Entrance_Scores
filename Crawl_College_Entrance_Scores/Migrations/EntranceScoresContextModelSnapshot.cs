@@ -33,19 +33,26 @@ namespace Crawl_College_Entrance_Scores.Migrations
 
             modelBuilder.Entity("Crawl_College_Entrance_Scores.entity.MajorCollege", b =>
                 {
-                    b.Property<string>("MajorEntityId");
+                    b.Property<long>("id")
+                        .ValueGeneratedOnAdd();
 
                     b.Property<string>("CollegeEntityId");
 
-                    b.Property<int>("year");
+                    b.Property<string>("MajorEntityId");
 
                     b.Property<string>("groupCode");
 
-                    b.HasKey("MajorEntityId", "CollegeEntityId", "year");
+                    b.Property<double>("score");
+
+                    b.Property<int>("year");
+
+                    b.HasKey("id");
 
                     b.HasIndex("CollegeEntityId");
 
-                    b.ToTable("MajorCollege");
+                    b.HasIndex("MajorEntityId");
+
+                    b.ToTable("majorColleges");
                 });
 
             modelBuilder.Entity("Crawl_College_Entrance_Scores.entity.MajorEntity", b =>
@@ -64,13 +71,11 @@ namespace Crawl_College_Entrance_Scores.Migrations
                 {
                     b.HasOne("Crawl_College_Entrance_Scores.entity.CollegeEntity", "CollegeEntity")
                         .WithMany("MajorColleges")
-                        .HasForeignKey("CollegeEntityId")
-                        .OnDelete(DeleteBehavior.Cascade);
+                        .HasForeignKey("CollegeEntityId");
 
                     b.HasOne("Crawl_College_Entrance_Scores.entity.MajorEntity", "MajorEntity")
                         .WithMany("MajorColleges")
-                        .HasForeignKey("MajorEntityId")
-                        .OnDelete(DeleteBehavior.Cascade);
+                        .HasForeignKey("MajorEntityId");
                 });
 #pragma warning restore 612, 618
         }

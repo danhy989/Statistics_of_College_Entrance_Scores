@@ -1,18 +1,18 @@
-Nhóm ngành: Kỹ thuật cơ khí động lực, Kỹ thuật Cơ điện tử
-Ngành Kỹ thuật ô tô
-Ngành Kỹ thuật điện
-Ngành Kỹ thuật điện tử - viễn thông
-Ngành Kỹ thuật điều khiển và tự động hoá
-Ngành Công nghệ thông tin
-Ngành Kế toán
-Ngành Kinh tế
-Ngành Kinh tế vận tải
-Ngành Kinh tế xây dựng
-Ngành Kỹ thuật xây dựng
-Ngành Quản trị kinh doanh
-Ngành Khai thác vận tải
-Ngành Kỹ thuật xây dựng công trình giao thông
-Ngành Quản lý xây dựng
+Nhóm ngành: Kỹ thuật cơ khí động lực, Kỹ thuật Cơ điện tử	17.45
+Ngành Kỹ thuật ô tô	19.95
+Ngành Kỹ thuật điện	17.15
+Ngành Kỹ thuật điện tử - viễn thông	15
+Ngành Kỹ thuật điều khiển và tự động hoá	17.3
+Ngành Công nghệ thông tin	18.25
+Ngành Kế toán	18.7
+Ngành Kinh tế	17.5
+Ngành Kinh tế vận tải	19.85
+Ngành Kinh tế xây dựng	16.95
+Ngành Kỹ thuật xây dựng	16
+Ngành Quản trị kinh doanh	18
+Ngành Khai thác vận tải	20.8
+Ngành Kỹ thuật xây dựng công trình giao thông	14.1
+Ngành Quản lý xây dựng	16.2
 
 
 

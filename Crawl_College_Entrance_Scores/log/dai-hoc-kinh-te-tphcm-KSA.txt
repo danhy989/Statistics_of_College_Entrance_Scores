@@ -1,20 +1,20 @@
-Kinh tế
-Quản trị kinh doanh
-Kinh doanh quốc tế
-Kinh doanh thương mại
-Marketing
-Tài chính Ngân hàng
-Kế toán
-Quản trị dịch vụ du lịch và lữ hành
-Quản trị khách sạn
-Toán kinh tế
-Thống kê kinh tế
-Hệ thống thông tin quản lý
-Kỹ thuật phần mềm
-Ngôn ngữ Anh
-Luật
-Quản lý công
-Chuyên ngành Quản trị bệnh viện
+Kinh tế	23.3
+Quản trị kinh doanh	24.15
+Kinh doanh quốc tế	25.1
+Kinh doanh thương mại	24.4
+Marketing	24.9
+Tài chính Ngân hàng	23.1
+Kế toán	22.9
+Quản trị dịch vụ du lịch và lữ hành	23.9
+Quản trị khách sạn	24.4
+Toán kinh tế	21.83
+Thống kê kinh tế	21.81
+Hệ thống thông tin quản lý	23.25
+Kỹ thuật phần mềm	22.51
+Ngôn ngữ Anh	24.55
+Luật	23
+Quản lý công	21.6
+Chuyên ngành Quản trị bệnh viện	21.8
 
 
 

@@ -1,12 +1,12 @@
-Xã hội học
-Quản trị kinh doanh
-Tài chính Ngân hàng
-Kế toán
-Quản trị nhân lực
-Quan hệ lao động
-Luật
-Công tác xã hội
-Bảo hộ lao động
+Xã hội học	14
+Quản trị kinh doanh	19.1
+Tài chính Ngân hàng	18.65
+Kế toán	19.55
+Quản trị nhân lực	18.45
+Quan hệ lao động	14.1
+Luật	19.25
+Công tác xã hội	14
+Bảo hộ lao động	14.1
 
 
 

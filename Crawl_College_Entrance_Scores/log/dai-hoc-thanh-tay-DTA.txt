@@ -1,21 +1,21 @@
-Ngôn ngữ Anh
-Quản trị kinh doanh
-Tài chính Ngân hàng
-Kế toán
-Luật kinh tế
-Công nghệ sinh học
-Khoa học môi trường
-Khoa học máy tính
-Công nghệ thông tin
-Công nghệ thông tin (chương trình đào tạo CNTT Việt Nhật)
-Công nghệ vật liệu
-Kỹ thuật cơ điện tử
-Kỹ thuật ô tô
-Kỹ thuật y sinh
-Kỹ thuật điều khiển và tự động hoá
-Kỹ thuật xây dựng
-Dược học
-Điều dưỡng
+Ngôn ngữ Anh	17
+Quản trị kinh doanh	18
+Tài chính Ngân hàng	18
+Kế toán	18
+Luật kinh tế	18
+Công nghệ sinh học	16
+Khoa học môi trường	16
+Khoa học máy tính	18
+Công nghệ thông tin	18
+Công nghệ thông tin (chương trình đào tạo CNTT Việt Nhật)	18
+Công nghệ vật liệu	16.5
+Kỹ thuật cơ điện tử	16.5
+Kỹ thuật ô tô	16.5
+Kỹ thuật y sinh	17
+Kỹ thuật điều khiển và tự động hoá	17
+Kỹ thuật xây dựng	18
+Dược học	20
+Điều dưỡng	18
 
 
 

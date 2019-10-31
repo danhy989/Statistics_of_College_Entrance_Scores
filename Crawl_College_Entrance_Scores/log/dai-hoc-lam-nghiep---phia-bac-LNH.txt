@@ -1,34 +1,34 @@
-Kinh tế
-Quản trị kinh doanh
-Kế toán
-Công nghệ sinh học
-Khoa học môi trường
-Bất động sản
-Hệ thống thông tin
-Công nghệ kỹ thuật cơ điện tử
-Công nghệ kỹ thuật ô tô
-Kỹ thuật cơ khí
-Công nghệ chế biến lâm sản
-Kiến trúc cảnh quan
-Thiết kế nội thất
-Kỹ thuật xây dựng
-Khuyến nông
-Chăn nuôi
-Khoa học cây trồng
-Bảo vệ thực vật
-Kinh tế nông nghiệp
-Lâm học
-Lâm nghiệp đô thị
-Lâm sinh
-Quản lý tài nguyên rừng
-Thú y
-Công tác xã hội
-Quản trị dịch vụ du lịch và lữ hành
-Quản lý tài nguyên và môi trường
-Quản lý đất đai
-Du lịch sinh thái
-Quản lý tài nguyên thiên nhiên (Đào tạo bằng tiếng Việt)
-Quản lý tài nguyên thiên nhiên (Tiên tiến)
+Kinh tế	14
+Quản trị kinh doanh	14
+Kế toán	14
+Công nghệ sinh học	14
+Khoa học môi trường	14
+Bất động sản	14
+Hệ thống thông tin	14
+Công nghệ kỹ thuật cơ điện tử	14
+Công nghệ kỹ thuật ô tô	14
+Kỹ thuật cơ khí	14
+Công nghệ chế biến lâm sản	14
+Kiến trúc cảnh quan	14
+Thiết kế nội thất	14
+Kỹ thuật xây dựng	14
+Khuyến nông	15
+Chăn nuôi	17
+Khoa học cây trồng	15
+Bảo vệ thực vật	15
+Kinh tế nông nghiệp	14
+Lâm học	14
+Lâm nghiệp đô thị	14
+Lâm sinh	14
+Quản lý tài nguyên rừng	14
+Thú y	14
+Công tác xã hội	14
+Quản trị dịch vụ du lịch và lữ hành	14
+Quản lý tài nguyên và môi trường	14
+Quản lý đất đai	14
+Du lịch sinh thái	14
+Quản lý tài nguyên thiên nhiên (Đào tạo bằng tiếng Việt)	14
+Quản lý tài nguyên thiên nhiên (Tiên tiến)	18
 
 
 

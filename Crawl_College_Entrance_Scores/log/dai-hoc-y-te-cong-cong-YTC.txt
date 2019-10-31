@@ -1,7 +1,7 @@
-Y tế công cộng
-Kỹ thuật xét nghiệm y học
-Dinh dưỡng học
-Công tác xã hội
+Y tế công cộng	16.5
+Kỹ thuật xét nghiệm y học	18.5
+Dinh dưỡng học	18
+Công tác xã hội	15
 
 
 

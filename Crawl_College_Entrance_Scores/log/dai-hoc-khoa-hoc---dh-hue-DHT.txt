@@ -1,30 +1,30 @@
-Hán Nôm
-Triết học
-Lịch sử
-Ngôn ngữ học
-Văn học
-Toán kinh tế
-Quản lý nhà nước
-Xã hội học
-Đông phương học
-Báo chí
-Công nghệ sinh học
-Kỹ thuật sinh học
-Vật lý học
-Hoá học
-Khoa học môi trường
-Toán học
-Kỹ thuật phần mềm
-Công nghệ thông tin
-Công nghệ kỹ thuật điện tử - viễn thông
-Công nghệ kỹ thuật hoá học
-Kỹ thuật môi trường
-Kỹ thuật địa chất
-Kiến trúc
-Quy hoạch vùng và đô thị
-Địa kỹ thuật xây dựng
-Công tác xã hội
-Quản lý tài nguyên và môi trường
+Hán Nôm	13.25
+Triết học	14
+Lịch sử	13.5
+Ngôn ngữ học	13.25
+Văn học	13.25
+Toán kinh tế	13.25
+Quản lý nhà nước	13.25
+Xã hội học	13.25
+Đông phương học	13
+Báo chí	13.5
+Công nghệ sinh học	14
+Kỹ thuật sinh học	14
+Vật lý học	14
+Hoá học	13.25
+Khoa học môi trường	14
+Toán học	14
+Kỹ thuật phần mềm	13
+Công nghệ thông tin	13.5
+Công nghệ kỹ thuật điện tử - viễn thông	13
+Công nghệ kỹ thuật hoá học	13.25
+Kỹ thuật môi trường	14
+Kỹ thuật địa chất	14
+Kiến trúc	15
+Quy hoạch vùng và đô thị	15
+Địa kỹ thuật xây dựng	13
+Công tác xã hội	13.25
+Quản lý tài nguyên và môi trường	13
 
 
 

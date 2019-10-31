@@ -1,13 +1,13 @@
-Ngôn ngữ Anh
-Quản trị kinh doanh
-Công nghệ sinh học
-Khoa học môi trường
-Công nghệ thông tin
-Kiến trúc
-Thiết kế nội thất
-Dược học
-Điều dưỡng
-Quản trị dịch vụ du lịch và lữ hành
+Ngôn ngữ Anh	14
+Quản trị kinh doanh	14
+Công nghệ sinh học	14
+Khoa học môi trường	14
+Công nghệ thông tin	14
+Kiến trúc	14
+Thiết kế nội thất	14
+Dược học	20
+Điều dưỡng	18
+Quản trị dịch vụ du lịch và lữ hành	14
 
 
 

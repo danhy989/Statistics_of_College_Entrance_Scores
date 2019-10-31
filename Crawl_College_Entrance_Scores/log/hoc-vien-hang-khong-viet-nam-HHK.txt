@@ -1,7 +1,7 @@
-Quản trị kinh doanh
-Công nghệ kỹ thuật điện tử - viễn thông
-Kỹ thuật hàng không
-Quản lý hoạt động bay
+Quản trị kinh doanh	20.6
+Công nghệ kỹ thuật điện tử - viễn thông	18
+Kỹ thuật hàng không	22.35
+Quản lý hoạt động bay	24.2
 
 
 

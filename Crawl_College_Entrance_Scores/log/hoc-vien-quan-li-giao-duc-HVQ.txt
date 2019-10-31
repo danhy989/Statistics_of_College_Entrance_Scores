@@ -1,8 +1,8 @@
-Quản lí giáo dục
-Tâm lí học giáo dục
-Công nghệ thông tin
-Giáo dục học
-Kinh tế giáo dục
+Quản lí giáo dục	15
+Tâm lí học giáo dục	15.5
+Công nghệ thông tin	15
+Giáo dục học	15
+Kinh tế giáo dục	19
 
 
 

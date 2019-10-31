@@ -1,24 +1,24 @@
-Thanh nhạc
-Piano
-Ngôn ngữ Anh
-Ngôn ngữ Pháp
-Ngôn ngữ Trung Quốc
-Ngôn ngữ Nhật
-Văn học
-Văn hoá học
-Xã hội học
-Tâm lý học
-Đông phương học
-Việt Nam học
-Quản trị kinh doanh
-Tài chính Ngân hàng
-Công nghệ sinh học
-Công nghệ thông tin
-Logistics và Quản lý chuỗi cung ứng
-Kỹ thuật điện tử - viễn thông
-Du lịch
-Quản trị dịch vụ du lịch và lữ hành
-Quản trị khách sạn
+Thanh nhạc	5
+Piano	5
+Ngôn ngữ Anh	15
+Ngôn ngữ Pháp	17.2
+Ngôn ngữ Trung Quốc	16
+Ngôn ngữ Nhật	15.5
+Văn học	15.25
+Văn hoá học	17
+Xã hội học	15
+Tâm lý học	15
+Đông phương học	15
+Việt Nam học	18
+Quản trị kinh doanh	15
+Tài chính Ngân hàng	15
+Công nghệ sinh học	15
+Công nghệ thông tin	15
+Logistics và Quản lý chuỗi cung ứng	15
+Kỹ thuật điện tử - viễn thông	15
+Du lịch	15
+Quản trị dịch vụ du lịch và lữ hành	15
+Quản trị khách sạn	15
 
 
 

@@ -1,15 +1,15 @@
-Công nghệ Sinh học nông, y, dược
-Công nghệ Thông tin và truyền thông
-Khoa học Vật liệu tiên tiến và Công nghệ Nano
-Vũ trụ và Ứng dụng
-Năng lượng
-Nước – Môi trường – Hải dương học
-Khoa học và Công nghệ Thực phẩm
-Khoa học và Công nghệ Y khoa
-An toàn thông tin
-Hóa học
-Toán ứng dụng
-Vật lý kỹ thuật và điện tử
+Công nghệ Sinh học nông, y, dược	18.55
+Công nghệ Thông tin và truyền thông	19.05
+Khoa học Vật liệu tiên tiến và Công nghệ Nano	18.6
+Vũ trụ và Ứng dụng	19.25
+Năng lượng	22.25
+Nước – Môi trường – Hải dương học	22.1
+Khoa học và Công nghệ Thực phẩm	18.45
+Khoa học và Công nghệ Y khoa	18.9
+An toàn thông tin	18.6
+Hóa học	23.45
+Toán ứng dụng	23.15
+Vật lý kỹ thuật và điện tử	18.25
 
 
 

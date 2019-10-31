@@ -1,14 +1,14 @@
-Kinh tế
-Kinh tế đầu tư
-Kinh tế phát triển
-Quản trị kinh doanh
-Marketing
-Tài chính Ngân hàng
-Kế toán
-Quản lý công
-Luật kinh tế
-Logistics và Quản lý chuỗi cung ứng
-Quản trị dịch vụ du lịch và lữ hành
+Kinh tế	13.5
+Kinh tế đầu tư	13.5
+Kinh tế phát triển	13.5
+Quản trị kinh doanh	14
+Marketing	13.5
+Tài chính Ngân hàng	13.5
+Kế toán	14
+Quản lý công	14
+Luật kinh tế	13.5
+Logistics và Quản lý chuỗi cung ứng	15
+Quản trị dịch vụ du lịch và lữ hành	13.5
 
 
 

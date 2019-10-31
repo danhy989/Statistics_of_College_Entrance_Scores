@@ -1,10 +1,10 @@
-Sư phạm mỹ thuật
-Hội họa
-Đồ họa
-Điêu khắc
+Sư phạm mỹ thuật	28.5
+Hội họa	29.75
+Đồ họa	27.75
+Điêu khắc	28
 Lý luận, lịch sử và 
-phê bình mỹ thuật
-Thiết kế đồ họa
+phê bình mỹ thuật	32.5
+Thiết kế đồ họa	28.5
 
 
 

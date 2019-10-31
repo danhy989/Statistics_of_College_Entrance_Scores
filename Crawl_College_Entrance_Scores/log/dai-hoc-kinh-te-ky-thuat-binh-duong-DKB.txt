@@ -1,11 +1,11 @@
-Quản trị kinh doanh
-Tài chính Ngân hàng
-Kế toán
-Quản trị văn phòng
-Công nghệ thông tin
-Công nghệ kỹ thuật điện, điện tử
-Kỹ thuật xây dựng công trình giao thông
-Dược học
+Quản trị kinh doanh	14
+Tài chính Ngân hàng	14
+Kế toán	14
+Quản trị văn phòng	14
+Công nghệ thông tin	14
+Công nghệ kỹ thuật điện, điện tử	14
+Kỹ thuật xây dựng công trình giao thông	14
+Dược học	20
 
 
 

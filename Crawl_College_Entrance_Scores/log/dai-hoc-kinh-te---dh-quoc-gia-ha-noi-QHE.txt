@@ -1,10 +1,10 @@
-Kinh tế phát triển
-Quản trị kinh doanh
-Tài chính - Ngân hàng
-Kế toán
-Kinh tế quốc tế
-Kinh tế
-Quản trị kinh doanh
+Kinh tế phát triển	23.5
+Quản trị kinh doanh	29.6
+Tài chính - Ngân hàng	28.08
+Kế toán	28.07
+Kinh tế quốc tế	31.06
+Kinh tế	27.08
+Quản trị kinh doanh	23.45
 
 
 

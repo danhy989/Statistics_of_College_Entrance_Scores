@@ -1,13 +1,13 @@
-Truyền thông đa phương tiện
-Công nghệ đa phương tiện
-Quản trị kinh doanh
-Marketing
-Thương mại điện tử
-Kế toán
-Công nghệ thông tin
-An toàn thông tin
-Công nghệ kỹ thuật điện, điện tử
-Kỹ thuật điện tử - viễn thông
+Truyền thông đa phương tiện	22.7
+Công nghệ đa phương tiện	22.55
+Quản trị kinh doanh	21.65
+Marketing	22.35
+Thương mại điện tử	22.45
+Kế toán	21.35
+Công nghệ thông tin	24.1
+An toàn thông tin	23.35
+Công nghệ kỹ thuật điện, điện tử	21.05
+Kỹ thuật điện tử - viễn thông	21.95
 
 
 

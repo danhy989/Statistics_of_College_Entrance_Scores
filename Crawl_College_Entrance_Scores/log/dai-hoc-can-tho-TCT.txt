@@ -1,99 +1,99 @@
-Giáo dục Tiểu học
-Giáo dục Công dân
-Giáo dục Thể chất
-Sư phạm Toán học
-Sư phạm Tin học
-Sư phạm Vật lý
-Sư phạm Hóa học
-Sư phạm Sinh học
-Sư phạm Ngữ văn
-Sư phạm Lịch sử
-Sư phạm Địa lý
-Sư phạm tiếng Anh
-Sư phạm tiếng Pháp
-Ngôn ngữ Anh
-Ngôn ngữ Pháp
-Triết học
-Văn học
-Kinh tế
-Chính trị học
-Xã hội học
-Việt Nam học,
-Thông tin - thư viện
-Quản trị kinh doanh
-Marketing
-Kinh doanh quốc tế
-Kinh doanh thương mại
-Tài chính - Ngân hàng
-Kế toán
-Kiểm toán
-Luật
-Sinh học
-Công nghệ sinh học
-Sinh học ứng dụng
-Hóa học
-Khoa học môi trường
-Toán ứng dụng
-Khoa học máy tính
-Mạng máy tính và truyền thông dữ liệu
-Kỹ thuật phần mềm
-Hệ thống thông tin
-Kỹ thuật máy tính
-Công nghệ thông tin
-Công nghệ kỹ thuật hóa học
-Quản lý công nghiệp
-Kỹ thuật cơ khí
-Kỹ thuật cơ điện tử
-Kỹ thuật điện
-Kỹ thuật điện tử - viễn thông
-Kỹ thuật điều khiển và Tự động hóa
-Kỹ thuật vật liệu
-Kỹ thuật môi trường
-Vật lý kỹ thuật
-Công nghệ thực phẩm
-Công nghệ sau thu hoạch
-Công nghệ chế biến thủy sản
-Kỹ thuật xây dựng
-Kỹ thuật xây dựng công trình thủy
-Kỹ thuật xây dựng công trình giao thông
-Kỹ thuật tài nguyên nước
-Khoa học đất
-Chăn nuôi
-Nông học
-Khoa học cây trồng
-Bảo vệ thực vật
-Công nghệ rau hoa quả và cảnh quan
-Kinh tế nông nghiệp
-Phát triển nông thôn
-Nuôi trồng thủy sản
-Bệnh học thủy sản
-Quản lý thủy sản
-Thú y
-Hóa dược
-Quản trị dịch vụ du lịch và lữ hành
-Quản lý tài nguyên và môi trường
-Kinh tế tài nguyên thiên nhiên
-Quản lý đất đai
-Công nghệ sinh học (CTTT)
-Nuôi trồng thủy sản (CTTT)
-Ngôn ngữ Anh (CTCLC)
-Kinh doanh quốc tế (CTCLC)
-Tài chính – Ngân hàng (CTCLC)
-Công nghệ thông tin (CTCLC)
-Công nghệ kỹ thuật hóa học (CTCLC)
-Kỹ thuật xây dựng (CTCLC)
-Kỹ thuật điện (CTCLC)
-Công nghệ thực phẩm (CTCLC)
-Ngôn ngữ Anh
-Việt Nam học
-Quản trị kinh doanh
-Luật, Chuyên ngành Luật Hành chính
-Công nghệ thông tin
-Kỹ thuật xây dựng
-Nông học
-Kinh doanh nông nghiệp
-Kinh tế nông nghiệp
-Nuôi trồng thủy sản
+Giáo dục Tiểu học	21.25
+Giáo dục Công dân	22.5
+Giáo dục Thể chất	18.25
+Sư phạm Toán học	22.5
+Sư phạm Tin học	18.25
+Sư phạm Vật lý	21.75
+Sư phạm Hóa học	22.25
+Sư phạm Sinh học	20.75
+Sư phạm Ngữ văn	22.5
+Sư phạm Lịch sử	22.75
+Sư phạm Địa lý	22.5
+Sư phạm tiếng Anh	23.5
+Sư phạm tiếng Pháp	18.5
+Ngôn ngữ Anh	22.25
+Ngôn ngữ Pháp	17
+Triết học	19.25
+Văn học	19.75
+Kinh tế	20.75
+Chính trị học	21.25
+Xã hội học	21.25
+Việt Nam học,	22.25
+Thông tin - thư viện	16.5
+Quản trị kinh doanh	22
+Marketing	21.5
+Kinh doanh quốc tế	22.25
+Kinh doanh thương mại	21
+Tài chính - Ngân hàng	21
+Kế toán	21.25
+Kiểm toán	20.25
+Luật	21.75
+Sinh học	14
+Công nghệ sinh học	17
+Sinh học ứng dụng	14
+Hóa học	15.25
+Khoa học môi trường	14
+Toán ứng dụng	14
+Khoa học máy tính	16
+Mạng máy tính và truyền thông dữ liệu	15
+Kỹ thuật phần mềm	17.5
+Hệ thống thông tin	15
+Kỹ thuật máy tính	15
+Công nghệ thông tin	19.75
+Công nghệ kỹ thuật hóa học	15
+Quản lý công nghiệp	18
+Kỹ thuật cơ khí	18.75
+Kỹ thuật cơ điện tử	16.25
+Kỹ thuật điện	16
+Kỹ thuật điện tử - viễn thông	15
+Kỹ thuật điều khiển và Tự động hóa	16
+Kỹ thuật vật liệu	14
+Kỹ thuật môi trường	14
+Vật lý kỹ thuật	14
+Công nghệ thực phẩm	19.5
+Công nghệ sau thu hoạch	14
+Công nghệ chế biến thủy sản	16
+Kỹ thuật xây dựng	16
+Kỹ thuật xây dựng công trình thủy	14
+Kỹ thuật xây dựng công trình giao thông	14
+Kỹ thuật tài nguyên nước	14
+Khoa học đất	14
+Chăn nuôi	14
+Nông học	15
+Khoa học cây trồng	14
+Bảo vệ thực vật	15
+Công nghệ rau hoa quả và cảnh quan	14
+Kinh tế nông nghiệp	17.5
+Phát triển nông thôn	14
+Nuôi trồng thủy sản	15
+Bệnh học thủy sản	14
+Quản lý thủy sản	14
+Thú y	19.5
+Hóa dược	21
+Quản trị dịch vụ du lịch và lữ hành	21
+Quản lý tài nguyên và môi trường	15
+Kinh tế tài nguyên thiên nhiên	17.25
+Quản lý đất đai	15
+Công nghệ sinh học (CTTT)	16
+Nuôi trồng thủy sản (CTTT)	15
+Ngôn ngữ Anh (CTCLC)	19.75
+Kinh doanh quốc tế (CTCLC)	19.25
+Tài chính – Ngân hàng (CTCLC)	15
+Công nghệ thông tin (CTCLC)	17
+Công nghệ kỹ thuật hóa học (CTCLC)	15
+Kỹ thuật xây dựng (CTCLC)	15
+Kỹ thuật điện (CTCLC)	15
+Công nghệ thực phẩm (CTCLC)	15
+Ngôn ngữ Anh	19.5
+Việt Nam học	19.75
+Quản trị kinh doanh	18.5
+Luật, Chuyên ngành Luật Hành chính	19.25
+Công nghệ thông tin	14
+Kỹ thuật xây dựng	14
+Nông học	14
+Kinh doanh nông nghiệp	14
+Kinh tế nông nghiệp	14
+Nuôi trồng thủy sản	14
 
 
 

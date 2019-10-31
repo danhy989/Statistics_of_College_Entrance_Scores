@@ -1,19 +1,19 @@
-Sư phạm Tiếng Anh
-Sư phạm Tiếng Trung Quốc
-Sư phạm Tiếng Nhật
-Sư phạm Tiếng Hàn Quốc
-Ngôn ngữ Anh
-Ngôn ngữ Anh** CTĐT CLC TT23
-Ngôn ngữ Nga
-Ngôn ngữ Pháp
-Ngôn ngữ Pháp** CTĐT CLC TT23
-Ngôn ngữ Trung Quốc** CTĐT CLC TT23
-Ngôn ngữ Đức
-Ngôn ngữ Đức**CTĐT CLC TT23
-Ngôn ngữ Nhật**CTĐT CLC TT23
-Ngôn ngữ Hàn Quốc**CTĐT CLC TT23
-Ngôn ngữ Ảrập
-Kinh tế - Tài chính***
+Sư phạm Tiếng Anh	34.45
+Sư phạm Tiếng Trung Quốc	34.7
+Sư phạm Tiếng Nhật	34.52
+Sư phạm Tiếng Hàn Quốc	34.8
+Ngôn ngữ Anh	35.5
+Ngôn ngữ Anh** CTĐT CLC TT23	31.32
+Ngôn ngữ Nga	28.57
+Ngôn ngữ Pháp	32.48
+Ngôn ngữ Pháp** CTĐT CLC TT23	26.02
+Ngôn ngữ Trung Quốc** CTĐT CLC TT23	32.03
+Ngôn ngữ Đức	32.3
+Ngôn ngữ Đức**CTĐT CLC TT23	27.78
+Ngôn ngữ Nhật**CTĐT CLC TT23	31.95
+Ngôn ngữ Hàn Quốc**CTĐT CLC TT23	32.77
+Ngôn ngữ Ảrập	28.63
+Kinh tế - Tài chính***	19.07
 
 
 

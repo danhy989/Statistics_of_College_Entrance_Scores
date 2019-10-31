@@ -1,9 +1,9 @@
-Sư phạm Tiếng Anh
-Sư phạm Tiếng Trung Quốc
-Ngôn ngữ Anh
-Ngôn ngữ Nga
-Ngôn ngữ Pháp
-Ngôn ngữ Trung Quốc
+Sư phạm Tiếng Anh	18.5
+Sư phạm Tiếng Trung Quốc	20.5
+Ngôn ngữ Anh	18.5
+Ngôn ngữ Nga	13
+Ngôn ngữ Pháp	13
+Ngôn ngữ Trung Quốc	20.5
 
 
 

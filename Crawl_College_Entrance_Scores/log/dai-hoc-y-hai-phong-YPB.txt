@@ -1,15 +1,15 @@
-Y khoa (A)
-Y khoa (B)
-Y học dự phòng (B)
-Y học dự phòng (B8)
-Y học cổ truyền
-Dược học (A)
-Dược học (B)
-Dược học (D)
-Điều dưỡng (B)
-Điều dưỡng (B8)
-Răng - Hàm - Mặt
-Kỹ thuật xét nghiệm y học
+Y khoa (A)	23.2
+Y khoa (B)	23.85
+Y học dự phòng (B)	18.05
+Y học dự phòng (B8)	20.6
+Y học cổ truyền	20.1
+Dược học (A)	22.95
+Dược học (B)	23.15
+Dược học (D)	20.05
+Điều dưỡng (B)	20.35
+Điều dưỡng (B8)	18
+Răng - Hàm - Mặt	23.5
+Kỹ thuật xét nghiệm y học	20.8
 
 
 

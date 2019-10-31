@@ -1,8 +1,8 @@
-Y khoa
-Điều dưỡng
-Kỹ thuật xét nghiệm y học
-Kỹ thuật hình ảnh y học
-Kỹ thuật phục hồi chức năng
+Y khoa	23.25
+Điều dưỡng	18
+Kỹ thuật xét nghiệm y học	19.35
+Kỹ thuật hình ảnh y học	18
+Kỹ thuật phục hồi chức năng	18
 
 
 

@@ -1,14 +1,14 @@
-Sư phạm Tiếng Anh
-Sư phạm Tiếng Pháp
-Sư phạm Tiếng Trung Quốc
-Ngôn ngữ Anh
-Ngôn ngữ Nga
-Ngôn ngữ Pháp
-Ngôn ngữ Trung Quốc
-Ngôn ngữ Nhật
-Ngôn ngữ Hàn Quốc
-Quốc tế học
-Việt Nam học
+Sư phạm Tiếng Anh	21.75
+Sư phạm Tiếng Pháp	18
+Sư phạm Tiếng Trung Quốc	20.5
+Ngôn ngữ Anh	19.75
+Ngôn ngữ Nga	15
+Ngôn ngữ Pháp	15.75
+Ngôn ngữ Trung Quốc	21
+Ngôn ngữ Nhật	20.25
+Ngôn ngữ Hàn Quốc	21.5
+Quốc tế học	15
+Việt Nam học	15
 
 
 

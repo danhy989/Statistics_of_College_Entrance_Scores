@@ -1,7 +1,7 @@
 Chỉ huy tham mưu Pháo binh -Thí sinh nam 
-miền Bắc
+miền Bắc	20.35
 Chỉ huy tham mưu Pháo binh - Thí sinh nam 
-miền Nam
+miền Nam	17.25
 
 
 

@@ -1,13 +1,13 @@
-Thiết kế đồ họa
-Ngôn ngữ Nhật
-Quan hệ công chúng
-Quản trị kinh doanh
-Tài chính Ngân hàng
-Kế toán
-Công nghệ thông tin
-Công nghệ kỹ thuật công trình xây dựng
-Kiến trúc
-Thiết kế nội thất
+Thiết kế đồ họa	17.1
+Ngôn ngữ Nhật	18.5
+Quan hệ công chúng	15.5
+Quản trị kinh doanh	16.5
+Tài chính Ngân hàng	15.5
+Kế toán	15.55
+Công nghệ thông tin	16
+Công nghệ kỹ thuật công trình xây dựng	15
+Kiến trúc	15.2
+Thiết kế nội thất	15.2
 
 
 

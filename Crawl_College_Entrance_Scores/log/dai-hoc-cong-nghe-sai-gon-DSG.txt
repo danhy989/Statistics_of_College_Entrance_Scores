@@ -1,11 +1,11 @@
-Thiết kế công nghiệp
-Quản trị kinh doanh
-Công nghệ thông tin
-Công nghệ kỹ thuật cơ điện tử
-Công nghệ kỹ thuật điện, điện tử
-Công nghệ kỹ thuật điện tử - viễn thông
-Công nghệ thực phẩm
-Kỹ thuật xây dựng
+Thiết kế công nghiệp	14
+Quản trị kinh doanh	14
+Công nghệ thông tin	14
+Công nghệ kỹ thuật cơ điện tử	14
+Công nghệ kỹ thuật điện, điện tử	14
+Công nghệ kỹ thuật điện tử - viễn thông	14
+Công nghệ thực phẩm	14
+Kỹ thuật xây dựng	14
 
 
 

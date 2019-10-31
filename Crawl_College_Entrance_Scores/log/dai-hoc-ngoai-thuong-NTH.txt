@@ -1,28 +1,28 @@
-Nhóm ngành Kinh tế; Kinh tế quốc tế; Luật
-Nhóm ngành Kinh tế; Kinh tế quốc tế; Luật
-Nhóm ngành Kinh tế; Kinh tế quốc tế; Luật
-Nhóm ngành Kinh tế; Kinh tế quốc tế; Luật
-Nhóm ngành Kinh tế; Kinh tế quốc tế; Luật
-Nhóm ngành Kinh tế; Kinh tế quốc tế; Luật
-Nhóm ngành Kinh tế; Kinh tế quốc tế; Luật
-Nhóm ngành Kinh tế; Kinh tế quốc tế; Luật
-Nhóm ngành Kinh doanh quốc tế; Quản trị kinh doanh
-Nhóm ngành Kinh doanh quốc tế; Quản trị kinh doanh
-Nhóm ngành Kinh doanh quốc tế; Quản trị kinh doanh
-Nhóm ngành Kinh doanh quốc tế; Quản trị kinh doanh
-Nhóm ngành Kinh doanh quốc tế; Quản trị kinh doanh
-Nhóm ngành Tài chính-Ngân hàng; Kế toán
-Nhóm ngành Tài chính-Ngân hàng; Kế toán
-Nhóm ngành Tài chính-Ngân hàng; Kế toán
-Nhóm ngành Tài chính-Ngân hàng; Kế toán
-Ngành Ngôn ngữ Anh
-Ngành Ngôn ngữ Pháp
-Ngành Ngôn ngữ Pháp
-Ngành Ngôn ngữ Trung quốc
-Ngành Ngôn ngữ Trung quốc
-Ngành Ngôn ngữ Nhật
-Ngành Ngôn ngữ Nhật
-Kế toán, Kinh doanh quốc tế
+Nhóm ngành Kinh tế; Kinh tế quốc tế; Luật	26.2
+Nhóm ngành Kinh tế; Kinh tế quốc tế; Luật	25.7
+Nhóm ngành Kinh tế; Kinh tế quốc tế; Luật	25.7
+Nhóm ngành Kinh tế; Kinh tế quốc tế; Luật	24.2
+Nhóm ngành Kinh tế; Kinh tế quốc tế; Luật	25.7
+Nhóm ngành Kinh tế; Kinh tế quốc tế; Luật	25.7
+Nhóm ngành Kinh tế; Kinh tế quốc tế; Luật	25.7
+Nhóm ngành Kinh tế; Kinh tế quốc tế; Luật	25.7
+Nhóm ngành Kinh doanh quốc tế; Quản trị kinh doanh	26.25
+Nhóm ngành Kinh doanh quốc tế; Quản trị kinh doanh	25.75
+Nhóm ngành Kinh doanh quốc tế; Quản trị kinh doanh	25.75
+Nhóm ngành Kinh doanh quốc tế; Quản trị kinh doanh	25.75
+Nhóm ngành Kinh doanh quốc tế; Quản trị kinh doanh	25.75
+Nhóm ngành Tài chính-Ngân hàng; Kế toán	25.75
+Nhóm ngành Tài chính-Ngân hàng; Kế toán	25.25
+Nhóm ngành Tài chính-Ngân hàng; Kế toán	25.25
+Nhóm ngành Tài chính-Ngân hàng; Kế toán	25.25
+Ngành Ngôn ngữ Anh	34.3
+Ngành Ngôn ngữ Pháp	33.55
+Ngành Ngôn ngữ Pháp	31.55
+Ngành Ngôn ngữ Trung quốc	34.3
+Ngành Ngôn ngữ Trung quốc	32.3
+Ngành Ngôn ngữ Nhật	33.75
+Ngành Ngôn ngữ Nhật	31.75
+Kế toán, Kinh doanh quốc tế	17
 
 
 

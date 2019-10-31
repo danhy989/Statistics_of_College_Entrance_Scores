@@ -1,57 +1,57 @@
-Quản lý giáo dục
-Giáo dục Mầm non
-Giáo dục Tiểu học
-Giáo dục Chính trị
-Giáo dục Thể chất
-Giáo dục Quốc phòng - An ninh
-Sư phạm Toán học
-Sư phạm Tin học
-Sư phạm Vật lý
-Sư phạm Hoá học
-Sư phạm Sinh học
-Sư phạm Ngữ văn
-Sư phạm Lịch sử
-Sư phạm Địa lý
-Sư phạm Tiếng Anh
-Ngôn ngữ Anh
-Quản lý văn hoá
-Kinh tế
-Chính trị học
-Chính trị học
-Quản lý nhà nước
-Việt Nam học
-Báo chí
-Quản trị kinh doanh
-Quản trị kinh doanh
-Tài chính Ngân hàng
-Kế toán
-Luật
-Luật kinh tế
-Công nghệ sinh học
-Khoa học môi trường
-Công nghệ thông tin
-Công nghệ kỹ thuật ô tô
-Công nghệ kỹ thuật nhiệt
-Công nghệ kỹ thuật điện, điện tử
-Công nghệ kỹ thuật hoá học
-Kỹ thuật điện tử - viễn thông
-Kỹ thuật điều khiển và tự động hoá
-Công nghệ thực phẩm
-Kỹ thuật xây dựng
-Kỹ thuật xây dựng
-Kỹ thuật xây dựng công trình thuỷ
-Kỹ thuật xây dựng công trình giao thông
-Kinh tế xây dựng
-Khuyến nông
-Chăn nuôi
-Nông học
-Nông học
-Kinh tế nông nghiệp
-Nuôi trồng thuỷ sản
-Điều dưỡng
-Công tác xã hội
-Quản lý tài nguyên và môi trường
-Quản lý đất đai
+Quản lý giáo dục	14
+Giáo dục Mầm non	24
+Giáo dục Tiểu học	21
+Giáo dục Chính trị	18
+Giáo dục Thể chất	26
+Giáo dục Quốc phòng - An ninh	18
+Sư phạm Toán học	18
+Sư phạm Tin học	18
+Sư phạm Vật lý	18
+Sư phạm Hoá học	18
+Sư phạm Sinh học	18
+Sư phạm Ngữ văn	18
+Sư phạm Lịch sử	18
+Sư phạm Địa lý	18
+Sư phạm Tiếng Anh	24
+Ngôn ngữ Anh	18
+Quản lý văn hoá	14
+Kinh tế	15
+Chính trị học	14
+Chính trị học	14
+Quản lý nhà nước	14
+Việt Nam học	14
+Báo chí	14
+Quản trị kinh doanh	15
+Quản trị kinh doanh	15
+Tài chính Ngân hàng	15
+Kế toán	15
+Luật	15
+Luật kinh tế	15
+Công nghệ sinh học	14
+Khoa học môi trường	14
+Công nghệ thông tin	14
+Công nghệ kỹ thuật ô tô	14
+Công nghệ kỹ thuật nhiệt	14
+Công nghệ kỹ thuật điện, điện tử	14
+Công nghệ kỹ thuật hoá học	14
+Kỹ thuật điện tử - viễn thông	14
+Kỹ thuật điều khiển và tự động hoá	14
+Công nghệ thực phẩm	14
+Kỹ thuật xây dựng	14
+Kỹ thuật xây dựng	14
+Kỹ thuật xây dựng công trình thuỷ	14
+Kỹ thuật xây dựng công trình giao thông	14
+Kinh tế xây dựng	14
+Khuyến nông	14
+Chăn nuôi	14
+Nông học	14
+Nông học	14
+Kinh tế nông nghiệp	15
+Nuôi trồng thuỷ sản	14
+Điều dưỡng	18
+Công tác xã hội	14
+Quản lý tài nguyên và môi trường	14
+Quản lý đất đai	14
 
 
 

@@ -1,36 +1,36 @@
-Toán học
-Sư phạm Toán học
-Công nghệ thông tin
-Sư phạm Tin học
-Vật lý học
-Sư phạm Vật lý
-CNKT Điện tử - Viễn thông
-Kỹ thuật hạt nhân
-Hóa học
-Sư phạm Hóa học
-Sinh học
-Sư phạm Sinh học
-Công nghệ sinh học
-Khoa học môi trường
-Công nghệ sau thu hoạch
-Nông học
-Quản trị kinh doanh
-Kế toán
-Luật
-Văn hóa học
-Văn học
-Sư phạm Ngữ văn
-Việt Nam học
-Lịch sử
-Sư phạm Lịch sử
-QTDV du lịch và lữ hành
-Công tác xã hội
-Xã hội học
-Đông phương học
-Quốc tế học
-Ngôn ngữ Anh
-Sư phạm Tiếng Anh
-Giáo dục Tiểu học
+Toán học	18
+Sư phạm Toán học	18
+Công nghệ thông tin	15
+Sư phạm Tin học	20
+Vật lý học	18
+Sư phạm Vật lý	20
+CNKT Điện tử - Viễn thông	15
+Kỹ thuật hạt nhân	18
+Hóa học	15
+Sư phạm Hóa học	18
+Sinh học	18
+Sư phạm Sinh học	20
+Công nghệ sinh học	15
+Khoa học môi trường	18
+Công nghệ sau thu hoạch	15
+Nông học	15
+Quản trị kinh doanh	16
+Kế toán	15
+Luật	16
+Văn hóa học	14
+Văn học	14
+Sư phạm Ngữ văn	18
+Việt Nam học	14
+Lịch sử	14
+Sư phạm Lịch sử	18
+QTDV du lịch và lữ hành	17.5
+Công tác xã hội	14
+Xã hội học	14
+Đông phương học	16
+Quốc tế học	14
+Ngôn ngữ Anh	15
+Sư phạm Tiếng Anh	18
+Giáo dục Tiểu học	19
 
 
 

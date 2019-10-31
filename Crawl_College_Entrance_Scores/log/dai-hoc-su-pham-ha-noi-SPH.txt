@@ -1,89 +1,89 @@
-Giáo dục Mầm non
-Giáo dục Mầm non SP Tiếng Anh
-Giáo dục Mầm non SP Tiếng Anh
-Giáo dục Tiểu học
-Giáo dục Tiểu học SP Tiếng Anh
-Giáo dục Đặc biệt
-Giáo dục Đặc biệt
-Giáo dục Đặc biệt
-Giáo dục công dân
-Giáo dục công dân
-Giáo dục công dân
-Giáo dục chính trị
-Giáo dục chính trị
-Giáo dục Quốc phòng và An ninh
-Giáo dục Quốc phòng và An ninh
-SP Toán học
-SP Toán học (dạy Toán bằng Tiếng Anh)
-SP Toán học (dạy Toán bằng tiếng Anh)
-SP Toán học (dạy Toán bằng tiếng Anh)
-SP Tin học
-SP Tin học
-SP Tin học (dạy Tin bằng tiếng Anh)
-SP Tin học (dạy Tin bằng tiếng Anh)
-SP Tin học
-SP Tin học (dạy Tin bằng tiếng Anh)
-SP Vật lý
-SP Vật lý
-SP Vật lý
-SP Vật lý (dạy Lý bằng tiếng Anh)
-SP Vật lý (dạy Lý bằng tiếng Anh)
-SP Vật lý (dạy Lý bằng tiếng Anh)
-SP Hoá học
-SP Hoá học (dạy Hoá bằng tiếng Anh)
-SP Sinh học
-SP Sinh học
-SP Sinh học
-SP Sinh học (dạy Sinh bằng tiếng Anh)
-SP Sinh học (dạy Sinh bằng tiếng Anh)
-SP Sinh học (dạy Sinh bằng tiếng Anh)
-SP Ngữ văn
-SP Ngữ văn
-SP Lịch sử
-SP Lịch sử
-SP Địa lý
-SP Địa lý
-SP Địa lý
-SP Tiếng Anh
-SP Tiếng Pháp
-SP Tiếng Pháp
-SP Công nghệ
-SP Công nghệ
-SP Công nghệ
-Quản lí giáo dục
-Quản lí giáo dục
-Quản lí giáo dục
-Sinh học
-Sinh học
-Sinh học
-Hóa học
-Hóa học
-Toán học
-Toán học
-Toán học
-Công nghệ thông tin
-Công nghệ thông tin
-Công nghệ thông tin
-Ngôn ngữ Anh
-Triết học (Triết học Mác Lê-nin)
-Triết học (Triết học Mác Lê-nin)
-Triết học (Triết học Mác Lê-nin)
-Văn học
-Văn học
-Chính trị học
-Chính trị học
-Tâm lý học (Tâm lý học trường học)
-Tâm lý học (Tâm lý học trường học)
-Tâm lý học (Tâm lý học trường học)
-Tâm lý học giáo dục
-Tâm lý học giáo dục
-Tâm lý học giáo dục
-Việt Nam học
-Việt Nam học
-Việt Nam học
-Công tác xã hội
-Công tác xã hội
-Công tác xã hội
+Giáo dục Mầm non	20.2
+Giáo dục Mầm non SP Tiếng Anh	18.58
+Giáo dục Mầm non SP Tiếng Anh	18.75
+Giáo dục Tiểu học	22.4
+Giáo dục Tiểu học SP Tiếng Anh	22.8
+Giáo dục Đặc biệt	19.35
+Giáo dục Đặc biệt	23.5
+Giáo dục Đặc biệt	21.9
+Giáo dục công dân	24.05
+Giáo dục công dân	18.1
+Giáo dục công dân	19.5
+Giáo dục chính trị	20.2
+Giáo dục chính trị	18.2
+Giáo dục Quốc phòng và An ninh	19.8
+Giáo dục Quốc phòng và An ninh	18
+SP Toán học	23.6
+SP Toán học (dạy Toán bằng Tiếng Anh)	26.35
+SP Toán học (dạy Toán bằng tiếng Anh)	26.4
+SP Toán học (dạy Toán bằng tiếng Anh)	26
+SP Tin học	18.15
+SP Tin học	18.3
+SP Tin học (dạy Tin bằng tiếng Anh)	24.25
+SP Tin học (dạy Tin bằng tiếng Anh)	23.55
+SP Tin học	18.1
+SP Tin học (dạy Tin bằng tiếng Anh)	19.55
+SP Vật lý	20.7
+SP Vật lý	21.35
+SP Vật lý	19.6
+SP Vật lý (dạy Lý bằng tiếng Anh)	21.5
+SP Vật lý (dạy Lý bằng tiếng Anh)	22.3
+SP Vật lý (dạy Lý bằng tiếng Anh)	19.45
+SP Hoá học	20.35
+SP Hoá học (dạy Hoá bằng tiếng Anh)	21
+SP Sinh học	18.25
+SP Sinh học	18.1
+SP Sinh học	18.5
+SP Sinh học (dạy Sinh bằng tiếng Anh)	24.95
+SP Sinh học (dạy Sinh bằng tiếng Anh)	23.21
+SP Sinh học (dạy Sinh bằng tiếng Anh)	20.25
+SP Ngữ văn	24.75
+SP Ngữ văn	22.3
+SP Lịch sử	23.25
+SP Lịch sử	18.05
+SP Địa lý	18.95
+SP Địa lý	21.25
+SP Địa lý	22.75
+SP Tiếng Anh	24.04
+SP Tiếng Pháp	20.05
+SP Tiếng Pháp	20.01
+SP Công nghệ	18.1
+SP Công nghệ	18.8
+SP Công nghệ	18.3
+Quản lí giáo dục	18.05
+Quản lí giáo dục	21.75
+Quản lí giáo dục	21.25
+Sinh học	16
+Sinh học	16.1
+Sinh học	19.75
+Hóa học	16.85
+Hóa học	16.25
+Toán học	16.05
+Toán học	16.1
+Toán học	19.5
+Công nghệ thông tin	16.05
+Công nghệ thông tin	18
+Công nghệ thông tin	17
+Ngôn ngữ Anh	23.79
+Triết học (Triết học Mác Lê-nin)	16.2
+Triết học (Triết học Mác Lê-nin)	16.25
+Triết học (Triết học Mác Lê-nin)	16.9
+Văn học	20.5
+Văn học	19.95
+Chính trị học	16.75
+Chính trị học	17.75
+Tâm lý học (Tâm lý học trường học)	19.25
+Tâm lý học (Tâm lý học trường học)	21.25
+Tâm lý học (Tâm lý học trường học)	20
+Tâm lý học giáo dục	19.7
+Tâm lý học giáo dục	22
+Tâm lý học giáo dục	21.1
+Việt Nam học	16.05
+Việt Nam học	19.25
+Việt Nam học	16.05
+Công tác xã hội	16
+Công tác xã hội	18.75
+Công tác xã hội	16
 
 
 

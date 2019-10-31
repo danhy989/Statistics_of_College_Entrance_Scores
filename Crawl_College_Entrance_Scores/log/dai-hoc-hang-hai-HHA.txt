@@ -1,47 +1,47 @@
-Tiếng Anh thương mại
-Ngôn ngữ Anh
-Quản lý kinh doanh và Marketing
-Quản trị kinh doanh
-Quản trị tài chính kế toán
-Quản trị tài chính ngân hàng
-Kinh doanh quốc tế và logistics
-Kinh tế ngoại thương
-Kinh tế ngoại thương (CLC)
-Luật hàng hải
-Công nghệ thông tin
-Công nghệ phần mềm
-Kỹ thuật truyền thông và mạng máy tính
-Công nghệ thông tin (CLC)
-Máy và tự động hóa xếp dỡ
-Kỹ thuật cơ khí
-Kỹ thuật Cơ điện tử
-Kỹ thuật ô tô
-Kỹ thuật nhiệt lạnh
-Máy và tự động công nghiệp
-Máy tàu thủy
-Thiết kế tàu và công trình ngoài khơi
-Đóng tàu và công trình ngoài khơi
-Điện tử viễn thông
-Điện tự động tàu thủy
-Điện tự động công nghiệp
-Tự động hóa hệ thống điện
-Điện tự động công nghiệp (CLC)
-Kỹ thuật môi trường
-Kỹ thuật công nghệ hóa học
-Xây dựng dân dụng và công nghiệp
-Kiến trúc và nội thất
-Quản lý công trình xây dựng
-Xây dựng công trình thủy
-Kỹ thuật an toàn hàng hải
-Kỹ thuật cầu đường
-Kinh tế Hàng hải
-Kinh tế vận tải biển
-Logistics và chuỗi cung ứng
-Kinh tế vận tải thủy
-Kinh tế vận tải biển (CLC)
-Điều khiển tàu biển
-Khai thác máy tàu biển
-Quản lý hàng hải
+Tiếng Anh thương mại	27.75
+Ngôn ngữ Anh	27.5
+Quản lý kinh doanh và Marketing	17.75
+Quản trị kinh doanh	20
+Quản trị tài chính kế toán	19.75
+Quản trị tài chính ngân hàng	19.25
+Kinh doanh quốc tế và logistics	18.75
+Kinh tế ngoại thương	21.25
+Kinh tế ngoại thương (CLC)	17.25
+Luật hàng hải	17
+Công nghệ thông tin	20.25
+Công nghệ phần mềm	18.75
+Kỹ thuật truyền thông và mạng máy tính	17
+Công nghệ thông tin (CLC)	15.5
+Máy và tự động hóa xếp dỡ	14.5
+Kỹ thuật cơ khí	17.5
+Kỹ thuật Cơ điện tử	18.25
+Kỹ thuật ô tô	20.25
+Kỹ thuật nhiệt lạnh	16.25
+Máy và tự động công nghiệp	14
+Máy tàu thủy	14
+Thiết kế tàu và công trình ngoài khơi	14
+Đóng tàu và công trình ngoài khơi	14
+Điện tử viễn thông	15.5
+Điện tự động tàu thủy	14
+Điện tự động công nghiệp	18.75
+Tự động hóa hệ thống điện	14.25
+Điện tự động công nghiệp (CLC)	14
+Kỹ thuật môi trường	14
+Kỹ thuật công nghệ hóa học	14
+Xây dựng dân dụng và công nghiệp	14
+Kiến trúc và nội thất	20
+Quản lý công trình xây dựng	14
+Xây dựng công trình thủy	14
+Kỹ thuật an toàn hàng hải	14
+Kỹ thuật cầu đường	14
+Kinh tế Hàng hải	15
+Kinh tế vận tải biển	20.75
+Logistics và chuỗi cung ứng	22
+Kinh tế vận tải thủy	19
+Kinh tế vận tải biển (CLC)	14
+Điều khiển tàu biển	15
+Khai thác máy tàu biển	14
+Quản lý hàng hải	14.75
 
 
 

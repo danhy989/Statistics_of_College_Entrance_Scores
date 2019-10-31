@@ -1,43 +1,43 @@
-Kinh tế (Kinh tế học)
-Kinh tế (Kinh tế học) (Chất lượng cao)
-Kinh tế (Kinh tế và Quản lý Công)
-Kinh tế (Kinh tế và Quản lý Công) (Chất lượng cao)
-Kinh tế (Kinh tế và Quản lý công) (đào tạo tại Phân hiệu ĐHQG ở Bến Tre) *
-Kinh tế quốc tế (Kinh tế đối ngoại)
-Kinh tế quốc tế (Kinh tế đối ngoại) (Chất lượng cao)
-Toán kinh tế (Toán ứng dụng trong kinh tế, quản trị và tài chính)
-Quản trị kinh doanh
-Quản trị kinh doanh (Chất lượng cao)
-Quản trị kinh doanh (Chất lượng cao bằng tiếng Anh)
-Quản trị kinh doanh (Quản trị du lịch và lữ hành)
-Marketing
-Marketing (Chất lượng cao)
-Kinh doanh quốc tế
-Kinh doanh quốc tế (Chất lượng cao)
-Kinh doanh quốc tế (Chất lượng cao bằng tiếng Anh)
-Thương mại điện tử
-Thương mại điện tử (Chất lượng cao)
-Tài chính - Ngân hàng
-Tài chính - Ngân hàng (Chất lượng cao)
-Tài chính – Ngân hàng (Chất lượng cao bằng tiếng Anh)
-Tài chính – Ngân hàng (đào tạo tại Phân hiệu ĐHQG ở Bến Tre) *
-Tài chính - Ngân hàng (Công nghệ tài chính) (Chất lượng cao)
-Kế toán
-Kế toán (Chất lượng cao)
-Kế toán (Chất lượng cao bằng tiếng Anh)
-Kiểm toán
-Kiểm toán (Chất lượng cao)
-Hệ thống thông tin quản lý
-Hệ thống thông tin quản lý (Chất lượng cao)
-Luật (Luật dân sự)
-Luật (Luật dân sự) (Chất lượng cao)
-Luật (Luật Tài chính - Ngân hàng)
-Luật (Luật Tài chính - Ngân hàng) (Chất lượng cao)
-Luật (Luật Tài chính - Ngân hàng) (Chất lượng cao tăng cường tiếng Pháp)
-Luật kinh tế (Luật kinh doanh)
-Luật kinh tế (Luật kinh doanh) (Chất lượng cao)
-Luật kinh tế (Luật thương mại quốc tế)
-Luật kinh tế (Luật thương mại quốc tế) (Chất lượng cao)
+Kinh tế (Kinh tế học)	23.75
+Kinh tế (Kinh tế học) (Chất lượng cao)	22.9
+Kinh tế (Kinh tế và Quản lý Công)	23
+Kinh tế (Kinh tế và Quản lý Công) (Chất lượng cao)	22
+Kinh tế (Kinh tế và Quản lý công) (đào tạo tại Phân hiệu ĐHQG ở Bến Tre) *	21
+Kinh tế quốc tế (Kinh tế đối ngoại)	25.7
+Kinh tế quốc tế (Kinh tế đối ngoại) (Chất lượng cao)	25.2
+Toán kinh tế (Toán ứng dụng trong kinh tế, quản trị và tài chính)	22.1
+Quản trị kinh doanh	24.95
+Quản trị kinh doanh (Chất lượng cao)	24.15
+Quản trị kinh doanh (Chất lượng cao bằng tiếng Anh)	23
+Quản trị kinh doanh (Quản trị du lịch và lữ hành)	22.85
+Marketing	25
+Marketing (Chất lượng cao)	24.15
+Kinh doanh quốc tế	25.5
+Kinh doanh quốc tế (Chất lượng cao)	24.65
+Kinh doanh quốc tế (Chất lượng cao bằng tiếng Anh)	24.5
+Thương mại điện tử	24.65
+Thương mại điện tử (Chất lượng cao)	23.85
+Tài chính - Ngân hàng	23.65
+Tài chính - Ngân hàng (Chất lượng cao)	23
+Tài chính – Ngân hàng (Chất lượng cao bằng tiếng Anh)	21.65
+Tài chính – Ngân hàng (đào tạo tại Phân hiệu ĐHQG ở Bến Tre) *	21.65
+Tài chính - Ngân hàng (Công nghệ tài chính) (Chất lượng cao)	22.55
+Kế toán	24
+Kế toán (Chất lượng cao)	23.05
+Kế toán (Chất lượng cao bằng tiếng Anh)	21.35
+Kiểm toán	24.35
+Kiểm toán (Chất lượng cao)	24.15
+Hệ thống thông tin quản lý	23.35
+Hệ thống thông tin quản lý (Chất lượng cao)	22.85
+Luật (Luật dân sự)	22.25
+Luật (Luật dân sự) (Chất lượng cao)	21.35
+Luật (Luật Tài chính - Ngân hàng)	22.25
+Luật (Luật Tài chính - Ngân hàng) (Chất lượng cao)	21.8
+Luật (Luật Tài chính - Ngân hàng) (Chất lượng cao tăng cường tiếng Pháp)	20.4
+Luật kinh tế (Luật kinh doanh)	23.7
+Luật kinh tế (Luật kinh doanh) (Chất lượng cao)	23.55
+Luật kinh tế (Luật thương mại quốc tế)	24.3
+Luật kinh tế (Luật thương mại quốc tế) (Chất lượng cao)	23.35
 
 
 

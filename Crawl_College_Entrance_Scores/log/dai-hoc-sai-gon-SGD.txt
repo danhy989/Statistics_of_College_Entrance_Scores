@@ -1,55 +1,55 @@
-Quản lý giáo dục
-Quản lý giáo dục
-Giáo dục Mầm non
-Giáo dục Tiểu học
-Giáo dục Chính trị
-Sư phạm Toán học
-Sư phạm Vật lý
-Sư phạm Hoá học
-Sư phạm Sinh học
-Sư phạm Ngữ văn
-Sư phạm Lịch sử
-Sư phạm Địa lý
-Sư phạm Âm nhạc
-Sư phạm Mỹ thuật
-Sư phạm Tiếng Anh
-Sư phạm khoa học tự nhiên
-Sư phạm Lịch sử - Địa lí
-Thanh nhạc
-Ngôn ngữ Anh
-Tâm lý học
-Quốc tế học
-Việt Nam học
-Thông tin - thư viện
-Quản trị kinh doanh
-Quản trị kinh doanh
-Kinh doanh quốc tế
-Kinh doanh quốc tế
-Tài chính Ngân hàng
-Tài chính Ngân hàng
-Kế toán
-Kế toán
-Quản trị văn phòng
-Quản trị văn phòng
-Luật
-Luật
-Khoa học môi trường
-Khoa học môi trường
-Toán ứng dụng
-Toán ứng dụng
-Kỹ thuật phần mềm
-Công nghệ thông tin
-Công nghệ thông tin (chương trình chất lượng cao)
-Công nghệ kỹ thuật điện, điện tử
-Công nghệ kỹ thuật điện, điện tử
-Công nghệ kỹ thuật điện tử - viễn thông
-Công nghệ kỹ thuật điện tử - viễn thông
-Công nghệ kỹ thuật môi trường
-Công nghệ kỹ thuật môi trường
-Kỹ thuật điện
-Kỹ thuật điện
-Kỹ thuật điện tử - viễn thông
-Kỹ thuật điện tử - viễn thông
+Quản lý giáo dục	19.3
+Quản lý giáo dục	18.3
+Giáo dục Mầm non	22.25
+Giáo dục Tiểu học	19.95
+Giáo dục Chính trị	18
+Sư phạm Toán học	23.68
+Sư phạm Vật lý	22.34
+Sư phạm Hoá học	22.51
+Sư phạm Sinh học	19.94
+Sư phạm Ngữ văn	21.25
+Sư phạm Lịch sử	20.88
+Sư phạm Địa lý	21.91
+Sư phạm Âm nhạc	18
+Sư phạm Mỹ thuật	19.25
+Sư phạm Tiếng Anh	20.13
+Sư phạm khoa học tự nhiên	18.05
+Sư phạm Lịch sử - Địa lí	18.25
+Thanh nhạc	20.5
+Ngôn ngữ Anh	22.66
+Tâm lý học	19.65
+Quốc tế học	19.43
+Việt Nam học	20.5
+Thông tin - thư viện	17.5
+Quản trị kinh doanh	21.71
+Quản trị kinh doanh	20.71
+Kinh doanh quốc tế	23.41
+Kinh doanh quốc tế	22.41
+Tài chính Ngân hàng	20.64
+Tài chính Ngân hàng	19.64
+Kế toán	20.94
+Kế toán	19.94
+Quản trị văn phòng	21.16
+Quản trị văn phòng	20.16
+Luật	19.95
+Luật	18.95
+Khoa học môi trường	16.05
+Khoa học môi trường	15.05
+Toán ứng dụng	17.45
+Toán ứng dụng	16.45
+Kỹ thuật phần mềm	20.46
+Công nghệ thông tin	20.56
+Công nghệ thông tin (chương trình chất lượng cao)	19.28
+Công nghệ kỹ thuật điện, điện tử	19.5
+Công nghệ kỹ thuật điện, điện tử	18.5
+Công nghệ kỹ thuật điện tử - viễn thông	18
+Công nghệ kỹ thuật điện tử - viễn thông	17
+Công nghệ kỹ thuật môi trường	16.1
+Công nghệ kỹ thuật môi trường	15.1
+Kỹ thuật điện	17.8
+Kỹ thuật điện	16.8
+Kỹ thuật điện tử - viễn thông	16.7
+Kỹ thuật điện tử - viễn thông	15.7
 
 
 

@@ -1,11 +1,11 @@
-Luật
-Du lịch
-Đông Phương học
-Ngôn ngữ Anh
-Quản trị kinh doanh
-Kế toán
-Tài chính - Ngân hang
-Công nghệ thông tin
+Luật	14
+Du lịch	18
+Đông Phương học	17
+Ngôn ngữ Anh	14
+Quản trị kinh doanh	14
+Kế toán	14
+Tài chính - Ngân hang	14
+Công nghệ thông tin	14
 
 
 

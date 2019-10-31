@@ -1,31 +1,31 @@
-Mạng máy tính và truyền thông dữ liệu
-Công nghệ thông tin
-Công nghệ thông tin
-Kỹ thuật cơ khí
-Kỹ thuật cơ khí (Chuyên ngành Cơ khí ô tô)
-Kỹ thuật tàu thuỷ
-Kỹ thuật điện
-Kỹ thuật điện tử - viễn thông
-Kỹ thuật điện tử - viễn thông (Chuyên ngành Điện tử viễn thông)
-Kỹ thuật điều khiển và tự động hoá
-Kỹ thuật điều khiển và tự động hóa (chuyên ngành Tự động hóa công nghiệp)
-Kỹ thuật môi trường
-Kỹ thuật xây dựng
-Kỹ thuật xây dựng
-Kỹ thuật xây dựng công trình giao thông
-Kỹ thuật xây dựng công trình giao thông (Chuyên ngành Xây dựng cầu đường)
-Kinh tế xây dựng
-Khai thác vận tải
-Khai thác vận tải (Chuyên ngành Quản trị Logistics và vận tải đa phương thức)
-Kinh tế vận tải
-Kinh tế vận tải
-Khoa học Hàng hải (Chuyên ngành Điều khiển tàu biển)
-Khoa học Hàng hải (Chuyên ngành Điều khiển tàu biển
-Khoa học Hàng hải (Chuyên ngành Vận hành khai thác máy tàu biển)
-Khoa học hàng hải (chuyên ngành Vận hành khai thác máy tàu thủy)
-Khoa học Hàng hải (Chuyên ngành Quản lý hàng hải)
-Khoa học Hàng hải (Chuyên ngành Quản lý hàng hải)
-Khoa học hàng hải (chuyên ngành Công nghệ máy tàu thủy)
+Mạng máy tính và truyền thông dữ liệu	19.3
+Công nghệ thông tin	21.8
+Công nghệ thông tin	18.4
+Kỹ thuật cơ khí	21.1
+Kỹ thuật cơ khí (Chuyên ngành Cơ khí ô tô)	20.75
+Kỹ thuật tàu thuỷ	14
+Kỹ thuật điện	19
+Kỹ thuật điện tử - viễn thông	19.1
+Kỹ thuật điện tử - viễn thông (Chuyên ngành Điện tử viễn thông)	18.4
+Kỹ thuật điều khiển và tự động hoá	21.45
+Kỹ thuật điều khiển và tự động hóa (chuyên ngành Tự động hóa công nghiệp)	19.5
+Kỹ thuật môi trường	14
+Kỹ thuật xây dựng	19.3
+Kỹ thuật xây dựng	16.2
+Kỹ thuật xây dựng công trình giao thông	17
+Kỹ thuật xây dựng công trình giao thông (Chuyên ngành Xây dựng cầu đường)	17
+Kinh tế xây dựng	19.5
+Khai thác vận tải	23.1
+Khai thác vận tải (Chuyên ngành Quản trị Logistics và vận tải đa phương thức)	22.8
+Kinh tế vận tải	21.3
+Kinh tế vận tải	14.7
+Khoa học Hàng hải (Chuyên ngành Điều khiển tàu biển)	14.7
+Khoa học Hàng hải (Chuyên ngành Điều khiển tàu biển	14
+Khoa học Hàng hải (Chuyên ngành Vận hành khai thác máy tàu biển)	14
+Khoa học hàng hải (chuyên ngành Vận hành khai thác máy tàu thủy)	14
+Khoa học Hàng hải (Chuyên ngành Quản lý hàng hải)	19.6
+Khoa học Hàng hải (Chuyên ngành Quản lý hàng hải)	17.8
+Khoa học hàng hải (chuyên ngành Công nghệ máy tàu thủy)	14
 
 
 

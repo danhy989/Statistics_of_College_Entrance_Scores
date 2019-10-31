@@ -1,9 +1,9 @@
-Quản trị kinh doanh
-Du lịch
-Du lịch điện tử
-Quản trị dịch vụ du lịch và lữ hành
-Quản trị khách sạn
-Quản trị nhà hàng và dịch vụ ăn uống
+Quản trị kinh doanh	17.5
+Du lịch	17
+Du lịch điện tử	15.5
+Quản trị dịch vụ du lịch và lữ hành	18
+Quản trị khách sạn	17.25
+Quản trị nhà hàng và dịch vụ ăn uống	17.5
 
 
 

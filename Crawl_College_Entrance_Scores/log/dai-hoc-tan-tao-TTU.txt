@@ -1,6 +1,6 @@
-Y khoa
-Điều dưỡng
-Kỹ thuật xét nghiệm y học
+Y khoa	21
+Điều dưỡng	18
+Kỹ thuật xét nghiệm y học	18
 
 
 

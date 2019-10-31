@@ -1,14 +1,14 @@
-Ngôn ngữ Anh
-Ngôn ngữ Trung Quốc
-Ngôn ngữ Nhật
-Quản trị kinh doanh
-Tài chính Ngân hàng
-Kế toán
-Công nghệ thông tin
-Công nghệ kỹ thuật xây dựng
-Công nghệ sau thu hoạch
-Quản lý bệnh viện
-Quản trị dịch vụ du lịch và lữ hành
+Ngôn ngữ Anh	14
+Ngôn ngữ Trung Quốc	14
+Ngôn ngữ Nhật	14
+Quản trị kinh doanh	14
+Tài chính Ngân hàng	14
+Kế toán	14
+Công nghệ thông tin	14
+Công nghệ kỹ thuật xây dựng	20
+Công nghệ sau thu hoạch	22
+Quản lý bệnh viện	14
+Quản trị dịch vụ du lịch và lữ hành	14
 
 
 

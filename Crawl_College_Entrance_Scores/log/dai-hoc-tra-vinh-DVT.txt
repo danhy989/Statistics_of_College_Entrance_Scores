@@ -1,62 +1,62 @@
-CĐ Giáo dục mầm non
-Giáo dục Mầm non
-Giáo dục Tiểu học
-Sư phạm Ngữ văn
-Sư phạm Tiếng Khmer
-Âm nhạc học
-Biểu diễn nhạc cụ truyền thống
-Ngôn ngữ Khmer
-Văn hoá các dân tộc thiểu số Việt Nam
-Ngôn ngữ Anh
-Ngôn ngữ Pháp
-Ngôn ngữ Trung Quốc
-Văn hoá học
-Kinh tế
-Chính trị học
-Quản lý nhà nước
-Quản trị kinh doanh
-Thương mại điện tử
-Tài chính Ngân hàng
-Kế toán
-Hệ thống thông tin quản lý
-Quản trị văn phòng
-Luật
-Công nghệ sinh học
-Khoa học vật liệu
-Toán ứng dụng
-Mạng máy tính và truyền thông dữ liệu
-Công nghệ thông tin
-Công nghệ kỹ thuật công trình xây dựng
-Công nghệ kỹ thuật cơ khí
-Công nghệ kỹ thuật ô tô
-Công nghệ kỹ thuật điện, điện tử
-Công nghệ kỹ thuật điều khiển và tự động hóa
-Công nghệ kỹ thuật hoá học
-Quản lý công nghiệp
-Kỹ thuật cơ khí động lực
-Kỹ thuật môi trường
-Công nghệ thực phẩm
-Kỹ thuật xây dựng công trình giao thông
-Nông nghiệp
-Chăn nuôi
-Nuôi trồng thuỷ sản
-Thú y
-Y khoa
-Y học dự phòng
-Dược học
-Hoá dược
-Điều dưỡng
-Dinh dưỡng
-Răng - Hàm - Mặt
-Kỹ thuật xét nghiệm y học
-Kỹ thuật hình ảnh y học
-Kỹ thuật phục hồi chức năng
-Y tế công cộng
-Công tác xã hội
-Quản trị dịch vụ du lịch và lữ hành
-Quản trị khách sạn
-Quản trị nhà hàng và dịch vụ ăn uống
-Quản lý thể dục thể thao
+CĐ Giáo dục mầm non	16
+Giáo dục Mầm non	18
+Giáo dục Tiểu học	18
+Sư phạm Ngữ văn	18
+Sư phạm Tiếng Khmer	18
+Âm nhạc học	15
+Biểu diễn nhạc cụ truyền thống	15
+Ngôn ngữ Khmer	14
+Văn hoá các dân tộc thiểu số Việt Nam	14
+Ngôn ngữ Anh	15
+Ngôn ngữ Pháp	15
+Ngôn ngữ Trung Quốc	15
+Văn hoá học	14
+Kinh tế	15
+Chính trị học	14
+Quản lý nhà nước	14
+Quản trị kinh doanh	15
+Thương mại điện tử	15
+Tài chính Ngân hàng	15
+Kế toán	15
+Hệ thống thông tin quản lý	14
+Quản trị văn phòng	15
+Luật	15
+Công nghệ sinh học	14
+Khoa học vật liệu	14
+Toán ứng dụng	14
+Mạng máy tính và truyền thông dữ liệu	15
+Công nghệ thông tin	15
+Công nghệ kỹ thuật công trình xây dựng	15
+Công nghệ kỹ thuật cơ khí	15
+Công nghệ kỹ thuật ô tô	15
+Công nghệ kỹ thuật điện, điện tử	15
+Công nghệ kỹ thuật điều khiển và tự động hóa	14
+Công nghệ kỹ thuật hoá học	14
+Quản lý công nghiệp	14
+Kỹ thuật cơ khí động lực	15
+Kỹ thuật môi trường	14
+Công nghệ thực phẩm	14
+Kỹ thuật xây dựng công trình giao thông	14
+Nông nghiệp	14
+Chăn nuôi	14
+Nuôi trồng thuỷ sản	14
+Thú y	15
+Y khoa	22.2
+Y học dự phòng	18
+Dược học	20
+Hoá dược	15
+Điều dưỡng	18
+Dinh dưỡng	18
+Răng - Hàm - Mặt	22.1
+Kỹ thuật xét nghiệm y học	19
+Kỹ thuật hình ảnh y học	18
+Kỹ thuật phục hồi chức năng	18
+Y tế công cộng	18
+Công tác xã hội	14
+Quản trị dịch vụ du lịch và lữ hành	14
+Quản trị khách sạn	14
+Quản trị nhà hàng và dịch vụ ăn uống	14
+Quản lý thể dục thể thao	14
 
 
 

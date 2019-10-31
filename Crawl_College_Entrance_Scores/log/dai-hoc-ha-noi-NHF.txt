@@ -1,25 +1,25 @@
-Ngôn ngữ Anh
-Ngôn ngữ Nga
-Ngôn ngữ Pháp
-Ngôn ngữ Trung Quốc
-Ngôn ngữ Trung Quốc - Chất lượng cao
-Ngôn ngữ Đức
-Ngôn ngữ Tây Ban Nha
-Ngôn ngữ Bồ Đào Nha
-Ngôn ngữ Italia
-Ngôn ngữ Italia - Chất lượng cao
-Ngôn ngữ Nhật
-Ngôn ngữ Hàn Quốc
-Ngôn ngữ Hàn Quốc - Chất lượng cao
-Quốc tế học
-Truyền thông đa phương tiện
-Truyền thông doanh nghiệp
-Quản trị kinh doanh
-Marketing
-Tài chính Ngân hàng
-Kế toán
-Công nghệ thông tin
-Quản trị dịch vụ du lịch và lữ hành
+Ngôn ngữ Anh	33.23
+Ngôn ngữ Nga	25.88
+Ngôn ngữ Pháp	30.55
+Ngôn ngữ Trung Quốc	32.97
+Ngôn ngữ Trung Quốc - Chất lượng cao	21.7
+Ngôn ngữ Đức	30.4
+Ngôn ngữ Tây Ban Nha	29.6
+Ngôn ngữ Bồ Đào Nha	20.03
+Ngôn ngữ Italia	27.85
+Ngôn ngữ Italia - Chất lượng cao	22.42
+Ngôn ngữ Nhật	32.93
+Ngôn ngữ Hàn Quốc	33.85
+Ngôn ngữ Hàn Quốc - Chất lượng cao	32.15
+Quốc tế học	29.15
+Truyền thông đa phương tiện	22.8
+Truyền thông doanh nghiệp	28.25
+Quản trị kinh doanh	31.1
+Marketing	31.4
+Tài chính Ngân hàng	28.98
+Kế toán	28.65
+Công nghệ thông tin	22.15
+Quản trị dịch vụ du lịch và lữ hành	32.2
 
 
 

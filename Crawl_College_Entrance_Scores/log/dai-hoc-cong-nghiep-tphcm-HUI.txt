@@ -1,49 +1,49 @@
-Công nghệ kỹ thuật điện, điện tử
-Ngành Công nghệ kỹ thuật điện, điện tử (Hệ đào tạo chất lượng cao)
-Công nghệ kỹ thuật điện tử - viễn thông
-Ngành Công nghệ kỹ thuật điện tử - viễn thông(Hệ đào tạo Chất lượng cao)
-Công nghệ kỹ thuật máy tính
-Công nghệ kỹ thuật cơ khí
-Ngành Công nghệ kỹ thuật cơ khí (Hệ đào tạo Chất lượng cao)
-Công nghệ kỹ thuật cơ điện tử
-Ngành Công nghệ kỹ thuật cơ điện tử( Hệ đào tạo Chất lượng cao)
-Công nghệ chế tạo máy
-Ngành Công nghệ chế tạo máy (Hệ đại học Chất lượng cao)
-Công nghệ kỹ thuật ô tô
-Công nghệ kỹ thuật nhiệt
-Kỹ thuật xây dựng
-Kỹ thuật xây dựng công trình giao thông
-Công nghệ dệt, may
-Thiết kế thời trang
-Công nghệ thông tin
-Ngành Kỹ thuật phần mềm (Hệ đại học Chất lượng cao)
-Công nghệ kỹ thuật hoá học
-Ngành Công nghệ hóa học (Hệ đại học Chất lượng cao)
-Công nghệ thực phẩm
-Ngành Công nghệ thực phẩm(Hệ đại học Chất lượng cao)
-Dinh dưỡng và khoa học thực phẩm
-Đảm bảo chất lượng và an toàn thực phẩm
-Công nghệ sinh học
-Ngành Công nghệ sinh học (Hệ đại học Chất lượng cao)
-Công nghệ kỹ thuật môi trường
-Ngành Công nghệ kỹ thuật môi trường( Hệ đại học Chất lượng cao)
-Quản lý đất đai
-Bảo hộ lao động
-Kế toán
-Ngành Kế toán (Hệ đại học Chất lượng cao)
-Tài chính Ngân hàng
-Ngành Tài chính ngân hàng (Hệ đại học Chất lượng cao)
-Marketing
-Ngành Marketing (Hệ đại học Chất lượng cao)
-Quản trị kinh doanh
-Ngành Quản trị kinh doanh (Hệ đại học Chất lượng cao)
-Quản trị dịch vụ du lịch và lữ hành
-Kinh doanh quốc tế
-Ngành Kinh doanh quốc tế (Hệ đại học Chất lượng cao)
-Thương mại điện tử
-Luật kinh tế
-Luật quốc tế
-Ngôn ngữ Anh
+Công nghệ kỹ thuật điện, điện tử	19.5
+Ngành Công nghệ kỹ thuật điện, điện tử (Hệ đào tạo chất lượng cao)	16.5
+Công nghệ kỹ thuật điện tử - viễn thông	17.5
+Ngành Công nghệ kỹ thuật điện tử - viễn thông(Hệ đào tạo Chất lượng cao)	16
+Công nghệ kỹ thuật máy tính	17.5
+Công nghệ kỹ thuật cơ khí	19.5
+Ngành Công nghệ kỹ thuật cơ khí (Hệ đào tạo Chất lượng cao)	17.5
+Công nghệ kỹ thuật cơ điện tử	19.5
+Ngành Công nghệ kỹ thuật cơ điện tử( Hệ đào tạo Chất lượng cao)	16
+Công nghệ chế tạo máy	17.5
+Ngành Công nghệ chế tạo máy (Hệ đại học Chất lượng cao)	16
+Công nghệ kỹ thuật ô tô	21.5
+Công nghệ kỹ thuật nhiệt	17
+Kỹ thuật xây dựng	17
+Kỹ thuật xây dựng công trình giao thông	17
+Công nghệ dệt, may	18
+Thiết kế thời trang	17.25
+Công nghệ thông tin	19.5
+Ngành Kỹ thuật phần mềm (Hệ đại học Chất lượng cao)	17.5
+Công nghệ kỹ thuật hoá học	17
+Ngành Công nghệ hóa học (Hệ đại học Chất lượng cao)	16
+Công nghệ thực phẩm	18.5
+Ngành Công nghệ thực phẩm(Hệ đại học Chất lượng cao)	16
+Dinh dưỡng và khoa học thực phẩm	17
+Đảm bảo chất lượng và an toàn thực phẩm	17
+Công nghệ sinh học	17
+Ngành Công nghệ sinh học (Hệ đại học Chất lượng cao)	17
+Công nghệ kỹ thuật môi trường	17
+Ngành Công nghệ kỹ thuật môi trường( Hệ đại học Chất lượng cao)	17
+Quản lý đất đai	17
+Bảo hộ lao động	21.5
+Kế toán	19
+Ngành Kế toán (Hệ đại học Chất lượng cao)	16.5
+Tài chính Ngân hàng	18.5
+Ngành Tài chính ngân hàng (Hệ đại học Chất lượng cao)	16.5
+Marketing	19.5
+Ngành Marketing (Hệ đại học Chất lượng cao)	17
+Quản trị kinh doanh	19.5
+Ngành Quản trị kinh doanh (Hệ đại học Chất lượng cao)	17
+Quản trị dịch vụ du lịch và lữ hành	20
+Kinh doanh quốc tế	20.5
+Ngành Kinh doanh quốc tế (Hệ đại học Chất lượng cao)	18
+Thương mại điện tử	19.5
+Luật kinh tế	21
+Luật quốc tế	19.5
+Ngôn ngữ Anh	19.5
 
 
 

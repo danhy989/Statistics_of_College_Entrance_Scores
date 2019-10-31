@@ -1,8 +1,8 @@
-Y khoa
-Dược học
-Kế toán (liên thông)
-Tài chính - Ngân hàng (liên thông)
-Y khoa (liên thông)
+Y khoa	21
+Dược học	20
+Kế toán (liên thông)	14
+Tài chính - Ngân hàng (liên thông)	14
+Y khoa (liên thông)	14
 
 
 

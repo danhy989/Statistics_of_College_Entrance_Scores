@@ -1,47 +1,47 @@
-Thanh nhạc
-Piano
-Diễn viên kịch, điện ảnh - truyền hình
-Đạo diễn điện ảnh, truyền hình
-Quay phim
-Thiết kế đồ họa
-Tiếng Việt và văn hoá Việt Nam
-Ngôn ngữ Anh
-Ngôn ngữ Trung Quốc
-Tâm lý học
-Đông phương học
-Việt Nam học
-Truyền thông đa phương tiện
-Quan hệ công chúng
-Quản trị kinh doanh
-Marketing
-Thương mại điện tử
-Tài chính Ngân hàng
-Kế toán
-Quản trị nhân lực
-Luật kinh tế
-Công nghệ sinh học
-Công nghệ thông tin
-Công nghệ kỹ thuật cơ điện tử
-Công nghệ kỹ thuật ô tô
-Công nghệ kỹ thuật điện, điện tử
-Công nghệ kỹ thuật hoá học
-Logistics và Quản lý chuỗi cung ứng
-Kỹ thuật hệ thống công nghiệp
-Kỹ thuật y sinh
-Vật lý y khoa
-Công nghệ thực phẩm
-Kiến trúc
-Thiết kế nội thất
-Kỹ thuật xây dựng
-Y khoa
-Y học dự phòng
-Dược học
-Điều dưỡng
-Kỹ thuật xét nghiệm y học
-Quản trị dịch vụ du lịch và lữ hành
-Quản trị khách sạn
-Quản trị nhà hàng và dịch vụ ăn uống
-Quản lý tài nguyên và môi trường
+Thanh nhạc	18.5
+Piano	22
+Diễn viên kịch, điện ảnh - truyền hình	19.5
+Đạo diễn điện ảnh, truyền hình	20
+Quay phim	19
+Thiết kế đồ họa	15.5
+Tiếng Việt và văn hoá Việt Nam	16
+Ngôn ngữ Anh	15
+Ngôn ngữ Trung Quốc	17
+Tâm lý học	15
+Đông phương học	15
+Việt Nam học	15
+Truyền thông đa phương tiện	15
+Quan hệ công chúng	15
+Quản trị kinh doanh	16
+Marketing	15
+Thương mại điện tử	15.5
+Tài chính Ngân hàng	15
+Kế toán	15
+Quản trị nhân lực	15
+Luật kinh tế	15
+Công nghệ sinh học	15
+Công nghệ thông tin	15
+Công nghệ kỹ thuật cơ điện tử	15
+Công nghệ kỹ thuật ô tô	17
+Công nghệ kỹ thuật điện, điện tử	15
+Công nghệ kỹ thuật hoá học	15
+Logistics và Quản lý chuỗi cung ứng	15
+Kỹ thuật hệ thống công nghiệp	15
+Kỹ thuật y sinh	15
+Vật lý y khoa	15
+Công nghệ thực phẩm	15.5
+Kiến trúc	15
+Thiết kế nội thất	17.5
+Kỹ thuật xây dựng	15
+Y khoa	23
+Y học dự phòng	18
+Dược học	20
+Điều dưỡng	18
+Kỹ thuật xét nghiệm y học	18
+Quản trị dịch vụ du lịch và lữ hành	16
+Quản trị khách sạn	17
+Quản trị nhà hàng và dịch vụ ăn uống	17
+Quản lý tài nguyên và môi trường	15
 
 
 

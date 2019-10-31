@@ -1,46 +1,46 @@
-Giáo dục Mầm non
-Giáo dục Tiểu học
-Giáo dục Chính trị
-Sư phạm Toán học
-Sư phạm Tin học
-Sư phạm Vật lý
-Sư phạm Hoá học
-Sư phạm Sinh học
-Sư phạm Ngữ văn
-Sư phạm Lịch sử
-Sư phạm Địa lý
-Sư phạm Tiếng Anh
-Ngôn ngữ Anh
-Triết học
-Văn học
-Kinh tế quốc tế
-Việt Nam học
-Quản trị kinh doanh
-Marketing
-Tài chính Ngân hàng
-Kế toán
-Luật
-Công nghệ sinh học
-Sinh học ứng dụng
-Hoá học
-Toán ứng dụng
-Kỹ thuật phần mềm
-Công nghệ thông tin
-Công nghệ kỹ thuật hoá học
-Công nghệ kỹ thuật môi trường
-Công nghệ thực phẩm
-Chăn nuôi
-Khoa học cây trồng
-Bảo vệ thực vật
-Phát triển nông thôn
-Nuôi trồng thuỷ sản
-Quản lý tài nguyên và môi trường
-Giáo dục Mầm non
-Giáo dục Tiểu học
-Giáo dục Thể chất
-Sư phạm Âm nhạc
-Sư phạm Mỹ thuật
-Sư phạm Tiếng Anh
+Giáo dục Mầm non	18
+Giáo dục Tiểu học	18
+Giáo dục Chính trị	18
+Sư phạm Toán học	18
+Sư phạm Tin học	18
+Sư phạm Vật lý	18
+Sư phạm Hoá học	18
+Sư phạm Sinh học	18
+Sư phạm Ngữ văn	18
+Sư phạm Lịch sử	18
+Sư phạm Địa lý	18
+Sư phạm Tiếng Anh	18
+Ngôn ngữ Anh	16
+Triết học	14
+Văn học	14
+Kinh tế quốc tế	15.75
+Việt Nam học	19
+Quản trị kinh doanh	19
+Marketing	17.5
+Tài chính Ngân hàng	17
+Kế toán	17.5
+Luật	17.5
+Công nghệ sinh học	14
+Sinh học ứng dụng	14
+Hoá học	14
+Toán ứng dụng	14
+Kỹ thuật phần mềm	14
+Công nghệ thông tin	15.5
+Công nghệ kỹ thuật hoá học	14
+Công nghệ kỹ thuật môi trường	14
+Công nghệ thực phẩm	14
+Chăn nuôi	14
+Khoa học cây trồng	14
+Bảo vệ thực vật	14
+Phát triển nông thôn	14
+Nuôi trồng thuỷ sản	14
+Quản lý tài nguyên và môi trường	14
+Giáo dục Mầm non	16
+Giáo dục Tiểu học	16
+Giáo dục Thể chất	16
+Sư phạm Âm nhạc	16
+Sư phạm Mỹ thuật	16
+Sư phạm Tiếng Anh	16
 
 
 

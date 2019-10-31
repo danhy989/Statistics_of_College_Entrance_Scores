@@ -1,24 +1,24 @@
-Ngôn ngữ Anh
-Ngôn ngữ Trung Quốc
-Ngôn ngữ Nhật
-Ngôn ngữ Hàn Quốc
-Việt Nam học
-Truyền thông đa phương tiện
-Quản trị kinh doanh
-Tài chính Ngân hàng
-Kế toán
-Toán ứng dụng
-Khoa học máy tính
-Mạng máy tính và truyền thông dữ liệu
-Hệ thống thông tin
-Công nghệ thông tin
-Logistics và Quản lý chuỗi cung ứng
-Điều dưỡng
-Dinh dưỡng
-Y tế công cộng
-Quản lý bệnh viện
-Công tác xã hội
-Quản trị dịch vụ du lịch và lữ hành
+Ngôn ngữ Anh	19.8
+Ngôn ngữ Trung Quốc	21.6
+Ngôn ngữ Nhật	20.1
+Ngôn ngữ Hàn Quốc	20.7
+Việt Nam học	18
+Truyền thông đa phương tiện	19.7
+Quản trị kinh doanh	19.7
+Tài chính Ngân hàng	19.2
+Kế toán	19
+Toán ứng dụng	16
+Khoa học máy tính	15.5
+Mạng máy tính và truyền thông dữ liệu	15.5
+Hệ thống thông tin	15.5
+Công nghệ thông tin	16.5
+Logistics và Quản lý chuỗi cung ứng	19
+Điều dưỡng	18.2
+Dinh dưỡng	18.2
+Y tế công cộng	15.1
+Quản lý bệnh viện	15.4
+Công tác xã hội	17.5
+Quản trị dịch vụ du lịch và lữ hành	19.7
 
 
 

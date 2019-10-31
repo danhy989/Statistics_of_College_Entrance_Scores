@@ -1,30 +1,30 @@
-Ngôn ngữ Anh
-Ngôn ngữ Trung Quốc
-Ngôn ngữ Nhật
-Việt Nam học
-Quản trị kinh doanh
-Quản trị Kinh doanh
-Tài chính Ngân hàng
-Kế toán
-Kế toán
-Quản trị văn phòng
-Quản trị Văn phòng
-Công nghệ sinh học
-Công nghệ thông tin
-Công nghệ Thông tin
-Công nghệ kỹ thuật cơ điện tử
-Công nghệ kỹ thuật cơ điện tử
-Công nghệ kỹ thuật điện, điện tử
-Công nghệ kỹ thuật điện, điện tử
-Công nghệ kỹ thuật điện tử - viễn thông
-Công nghệ kỹ thuật môi trường
-Kiến trúc
-Kỹ thuật xây dựng
-Kỹ thuật xây dựng
-Kỹ thuật xây dựng công trình giao thông
-Kỹ thuật xây dựng công trình giao thông
-Kinh tế xây dựng
-Quản trị dịch vụ du lịch và lữ hành
+Ngôn ngữ Anh	14
+Ngôn ngữ Trung Quốc	14
+Ngôn ngữ Nhật	14
+Việt Nam học	14
+Quản trị kinh doanh	14
+Quản trị Kinh doanh	14
+Tài chính Ngân hàng	14
+Kế toán	14
+Kế toán	14
+Quản trị văn phòng	14
+Quản trị Văn phòng	14
+Công nghệ sinh học	14
+Công nghệ thông tin	14
+Công nghệ Thông tin	14
+Công nghệ kỹ thuật cơ điện tử	14
+Công nghệ kỹ thuật cơ điện tử	14
+Công nghệ kỹ thuật điện, điện tử	14
+Công nghệ kỹ thuật điện, điện tử	14
+Công nghệ kỹ thuật điện tử - viễn thông	14
+Công nghệ kỹ thuật môi trường	14
+Kiến trúc	18
+Kỹ thuật xây dựng	14
+Kỹ thuật xây dựng	14
+Kỹ thuật xây dựng công trình giao thông	14
+Kỹ thuật xây dựng công trình giao thông	14
+Kinh tế xây dựng	14
+Quản trị dịch vụ du lịch và lữ hành	14
 
 
 

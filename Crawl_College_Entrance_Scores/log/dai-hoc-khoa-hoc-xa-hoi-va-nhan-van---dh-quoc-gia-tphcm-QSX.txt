@@ -1,49 +1,49 @@
-Giáo dục học
-Ngôn ngữ Anh
-Ngôn ngữ Anh_Phân hiệu Bến Tre
-Ngôn ngữ Anh_Chất lượng cao
-Ngôn ngữ Nga
-Ngôn ngữ Pháp
-Ngôn ngữ Trung Quốc
-Ngôn ngữ Đức
-Ngôn ngữ Đức
-Ngôn ngữ Tây Ban Nha
-Ngôn ngữ Italia
-Triết học
-Lịch sử
-Ngôn ngữ học
-Văn học
-Văn hoá học
-Quan hệ quốc tế
-Quan hệ Quốc tế_Chất lượng cao
-Xã hội học
-Nhân học
-Tâm lý học
-Tâm lý học
-Địa lý học
-Đông phương học
-Nhật Bản học
-Nhật Bản học_Phân hiệu Bến Tre
-Nhật Bản học_Chất lượng cao
-Hàn Quốc học
-Báo chí
-Báo chí
-Báo chí_Phân hiệu Bến Tre
-Báo chí_Phân hiệu Bến Tre
-Báo chí_Chất lượng cao
-Truyền thông đa phương tiện
-Thông tin - thư viện
-Quản lý thông tin
-Lưu trữ học
-Đô thị học
-Đô thị học_Phân hiệu Bến Tre
-Công tác xã hội
-Công tác xã hội
-Quản trị dịch vụ du lịch và lữ hành
-Quản trị dịch vụ du lịch và lữ hành
-Quản trị dịch vụ du lịch và lữ hành _Phân hiệu Bến Tre
-Quản trị dịch vụ du lịch và lữ hành _Phân hiệu Bến Tre
-Quản trị dịch vụ du lịch và lữ hành_Chất lượng cao
+Giáo dục học	19
+Ngôn ngữ Anh	25
+Ngôn ngữ Anh_Phân hiệu Bến Tre	23
+Ngôn ngữ Anh_Chất lượng cao	24.5
+Ngôn ngữ Nga	19.8
+Ngôn ngữ Pháp	21.7
+Ngôn ngữ Trung Quốc	23.6
+Ngôn ngữ Đức	22.5
+Ngôn ngữ Đức	20.25
+Ngôn ngữ Tây Ban Nha	21.9
+Ngôn ngữ Italia	20
+Triết học	19.5
+Lịch sử	21.3
+Ngôn ngữ học	21.7
+Văn học	21.3
+Văn hoá học	23
+Quan hệ quốc tế	24.3
+Quan hệ Quốc tế_Chất lượng cao	24.3
+Xã hội học	22
+Nhân học	20.3
+Tâm lý học	23.78
+Tâm lý học	23.5
+Địa lý học	21.1
+Đông phương học	22.85
+Nhật Bản học	23.61
+Nhật Bản học_Phân hiệu Bến Tre	21.61
+Nhật Bản học_Chất lượng cao	23.3
+Hàn Quốc học	23.45
+Báo chí	24.7
+Báo chí	24.1
+Báo chí_Phân hiệu Bến Tre	22.7
+Báo chí_Phân hiệu Bến Tre	22.1
+Báo chí_Chất lượng cao	23.3
+Truyền thông đa phương tiện	24.3
+Thông tin - thư viện	19.5
+Quản lý thông tin	21
+Lưu trữ học	20.5
+Đô thị học	20.2
+Đô thị học_Phân hiệu Bến Tre	18.2
+Công tác xã hội	20.8
+Công tác xã hội	20
+Quản trị dịch vụ du lịch và lữ hành	25.5
+Quản trị dịch vụ du lịch và lữ hành	24.5
+Quản trị dịch vụ du lịch và lữ hành _Phân hiệu Bến Tre	23.5
+Quản trị dịch vụ du lịch và lữ hành _Phân hiệu Bến Tre	22.5
+Quản trị dịch vụ du lịch và lữ hành_Chất lượng cao	22.85
 
 
 

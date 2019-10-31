@@ -1,19 +1,19 @@
-Ngôn ngữ Anh
-Kỹ thuật máy tính
-Công nghệ chế tạo máy
-Công nghệ kỹ thuật ô tô
-Công nghệ kỹ thuật điện, điện tử
-Quản lý công nghiệp
-Kinh tế công nghiệp
-Kỹ thuật cơ khí
-Kỹ thuật cơ điện tử
-Kỹ thuật cơ khí động lực
-Kỹ thuật điện
-Kỹ thuật điện tử - viễn thông
-Kỹ thuật điều khiển và tự động hoá
-Kỹ thuật xây dựng
-Kỹ thuật Cơ khí (chương trình tiên tiến)
-Kỹ thuật Điện (Chương trình tiên tiến)
+Ngôn ngữ Anh	13.5
+Kỹ thuật máy tính	15
+Công nghệ chế tạo máy	13.5
+Công nghệ kỹ thuật ô tô	16
+Công nghệ kỹ thuật điện, điện tử	13.5
+Quản lý công nghiệp	13.5
+Kinh tế công nghiệp	13.5
+Kỹ thuật cơ khí	13.5
+Kỹ thuật cơ điện tử	15
+Kỹ thuật cơ khí động lực	13.5
+Kỹ thuật điện	13.5
+Kỹ thuật điện tử - viễn thông	13.5
+Kỹ thuật điều khiển và tự động hoá	15
+Kỹ thuật xây dựng	13.5
+Kỹ thuật Cơ khí (chương trình tiên tiến)	16
+Kỹ thuật Điện (Chương trình tiên tiến)	16
 
 
 

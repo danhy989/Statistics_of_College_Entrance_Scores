@@ -1,26 +1,26 @@
-Quản lý thông tin
-Bất động sản
-Kinh doanh quốc tế
-Công nghệ sinh học
-Khoa học môi trường
-Công nghệ kỹ thuật môi trường
-Công nghệ thực phẩm
-Kỹ thuật thực phẩm
-Đảm bảo chất lượng và an toàn thực phẩm
-Nông nghiệp
-Chăn nuôi
-Khoa học cây trồng
-Bảo vệ thực vật
-Kinh doanh nông nghiệp
-Kinh tế nông nghiệp
-Lâm sinh
-Quản lý tài nguyên rừng
-Thú y
-Quản lý tài nguyên và môi trường
-Quản lý đất đai
-Khoa học & Quản lý môi trường
-Công nghệ thực phẩm (CTTT)
-Kinh tế nông nghiệp (CTTT)
+Quản lý thông tin	15
+Bất động sản	13
+Kinh doanh quốc tế	17
+Công nghệ sinh học	13.5
+Khoa học môi trường	13.5
+Công nghệ kỹ thuật môi trường	15
+Công nghệ thực phẩm	13.5
+Kỹ thuật thực phẩm	13.5
+Đảm bảo chất lượng và an toàn thực phẩm	13.5
+Nông nghiệp	13
+Chăn nuôi	13
+Khoa học cây trồng	13.5
+Bảo vệ thực vật	17
+Kinh doanh nông nghiệp	16.5
+Kinh tế nông nghiệp	13.5
+Lâm sinh	20
+Quản lý tài nguyên rừng	18.5
+Thú y	13
+Quản lý tài nguyên và môi trường	13.5
+Quản lý đất đai	13
+Khoa học & Quản lý môi trường	13.5
+Công nghệ thực phẩm (CTTT)	13.5
+Kinh tế nông nghiệp (CTTT)	13.5
 
 
 

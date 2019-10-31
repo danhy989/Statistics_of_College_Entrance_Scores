@@ -1,37 +1,37 @@
-Quản lý giáo dục
-Giáo dục Mầm non
-Giáo dục Tiểu học
-Giáo dục Đặc biệt
-Giáo dục Chính trị
-Giáo dục Thể chất
-Sư phạm Toán học
-Sư phạm Tin học
-Sư phạm Vật lý
-Sư phạm Hoá học
-Sư phạm Sinh học
-Sư phạm Ngữ văn
-Sư phạm Lịch sử
-Sư phạm Địa lý
-Sư phạm Tiếng Anh
-Sư phạm Tiếng Pháp
-Sư phạm Tiếng Trung Quốc
-Sư phạm khoa học tự nhiên
-Ngôn ngữ Anh
-Ngôn ngữ Nga
-Ngôn ngữ Pháp
-Ngôn ngữ Trung Quốc
-Ngôn ngữ Nhật
-Ngôn ngữ Hàn Quốc
-Văn học
-Tâm lý học
-Tâm lý học giáo dục
-Địa lý học
-Quốc tế học
-Việt Nam học
-Vật lý học
-Hoá học
-Công nghệ thông tin
-Công tác xã hội
+Quản lý giáo dục	19.5
+Giáo dục Mầm non	19.5
+Giáo dục Tiểu học	20.25
+Giáo dục Đặc biệt	19.5
+Giáo dục Chính trị	20
+Giáo dục Thể chất	18.5
+Sư phạm Toán học	24
+Sư phạm Tin học	18.5
+Sư phạm Vật lý	22.75
+Sư phạm Hoá học	23.5
+Sư phạm Sinh học	20.5
+Sư phạm Ngữ văn	22.5
+Sư phạm Lịch sử	21.5
+Sư phạm Địa lý	21.75
+Sư phạm Tiếng Anh	24
+Sư phạm Tiếng Pháp	18.5
+Sư phạm Tiếng Trung Quốc	21.75
+Sư phạm khoa học tự nhiên	18.5
+Ngôn ngữ Anh	23.25
+Ngôn ngữ Nga	17.5
+Ngôn ngữ Pháp	17.5
+Ngôn ngữ Trung Quốc	22
+Ngôn ngữ Nhật	22
+Ngôn ngữ Hàn Quốc	22.75
+Văn học	19
+Tâm lý học	22
+Tâm lý học giáo dục	19
+Địa lý học	17.5
+Quốc tế học	19
+Việt Nam học	19
+Vật lý học	17.5
+Hoá học	18
+Công nghệ thông tin	18
+Công tác xã hội	18
 
 
 

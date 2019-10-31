@@ -1,6 +1,6 @@
-Công nghệ thông tin
-An toàn thông tin
-Kỹ thuật điện tử - viễn thông
+Công nghệ thông tin	22.9
+An toàn thông tin	21.5
+Kỹ thuật điện tử - viễn thông	20.75
 
 
 

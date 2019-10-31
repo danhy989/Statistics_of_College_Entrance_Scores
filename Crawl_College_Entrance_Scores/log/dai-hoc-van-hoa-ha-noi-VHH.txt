@@ -1,43 +1,43 @@
-Quản trị dịch vụ du lịch và lữ hành
-Quản trị dịch vụ du lịch và lữ hành
-Du lịch - Văn hoá du lịch
-Du lịch - Văn hoá du lịch
-Du lịch - Lữ hành, Hướng dẫn du lịch
-Du lịch - Lữ hành, Hướng dẫn du lịch
-Du lịch - Hướng dẫn du lịch quốc tế
-Luật
-Luật
-Báo chí
-Báo chí
-Ngôn ngữ Anh
-Văn hoá học - Nghiên cứu văn hoá
-Văn hoá học - Nghiên cứu văn hoá
-Văn hoá học - Văn hoá truyền thông
-Văn hoá học - Văn hoá truyền thông
-Văn hoá học – Văn hoá đối ngoại
-Văn hoá học – Văn hoá đối ngoại
-QLVH - Chính sách văn hoá và Quản lý nghệ thuật
-QLVH - Chính sách văn hoá và Quản lý nghệ thuật
-QLVH - Quản lý nhà nước về gia đình
-QLVH - Quản lý nhà nước về gia đình
-QLVH - Quản lý di sản văn hoá
-QLVH - Quản lý di sản văn hoá
-QLVH - Biểu diễn nghệ thuật
-QLVH - Tổ chức sự kiện văn hoá
-Kinh doanh xuất bản phẩm
-Kinh doanh xuất bản phẩm
-Quản lý thông tin
-Quản lý thông tin
-Thông tin - Thư viện
-Thông tin - Thư viện
-Văn hoá các dân tộc thiểu số Việt Nam - Tổ chức và Quản lý Văn hoá vùng dân tộc thiểu số
-Văn hoá các dân tộc thiểu số Việt Nam - Tổ chức và Quản lý Văn hoá vùng dân tộc thiểu số
-Văn hoá các dân tộc thiểu số Việt Nam - Tổ chức và Quản lý Du lịch vùng dân tộc thiểu số
-Văn hoá các dân tộc thiểu số Việt Nam - Tổ chức và Quản lý Du lịch vùng dân tộc thiểu số
-Gia đình học
-Gia đình học
-Bảo tàng học
-Bảo tàng học
+Quản trị dịch vụ du lịch và lữ hành	26
+Quản trị dịch vụ du lịch và lữ hành	23
+Du lịch - Văn hoá du lịch	24.3
+Du lịch - Văn hoá du lịch	21.3
+Du lịch - Lữ hành, Hướng dẫn du lịch	24.85
+Du lịch - Lữ hành, Hướng dẫn du lịch	21.85
+Du lịch - Hướng dẫn du lịch quốc tế	21.25
+Luật	23.5
+Luật	22.5
+Báo chí	22.25
+Báo chí	21.25
+Ngôn ngữ Anh	29.25
+Văn hoá học - Nghiên cứu văn hoá	19.75
+Văn hoá học - Nghiên cứu văn hoá	18.75
+Văn hoá học - Văn hoá truyền thông	22
+Văn hoá học - Văn hoá truyền thông	21
+Văn hoá học – Văn hoá đối ngoại	16
+Văn hoá học – Văn hoá đối ngoại	15
+QLVH - Chính sách văn hoá và Quản lý nghệ thuật	18.5
+QLVH - Chính sách văn hoá và Quản lý nghệ thuật	17.5
+QLVH - Quản lý nhà nước về gia đình	16
+QLVH - Quản lý nhà nước về gia đình	15
+QLVH - Quản lý di sản văn hoá	19.25
+QLVH - Quản lý di sản văn hoá	18.25
+QLVH - Biểu diễn nghệ thuật	27.75
+QLVH - Tổ chức sự kiện văn hoá	19.75
+Kinh doanh xuất bản phẩm	16
+Kinh doanh xuất bản phẩm	15
+Quản lý thông tin	21
+Quản lý thông tin	20
+Thông tin - Thư viện	17
+Thông tin - Thư viện	16
+Văn hoá các dân tộc thiểu số Việt Nam - Tổ chức và Quản lý Văn hoá vùng dân tộc thiểu số	16
+Văn hoá các dân tộc thiểu số Việt Nam - Tổ chức và Quản lý Văn hoá vùng dân tộc thiểu số	15
+Văn hoá các dân tộc thiểu số Việt Nam - Tổ chức và Quản lý Du lịch vùng dân tộc thiểu số	16
+Văn hoá các dân tộc thiểu số Việt Nam - Tổ chức và Quản lý Du lịch vùng dân tộc thiểu số	15
+Gia đình học	16
+Gia đình học	15
+Bảo tàng học	16
+Bảo tàng học	15
 
 
 

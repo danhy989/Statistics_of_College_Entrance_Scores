@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Source\\me\\Statistics_of_College_Entrance_Scores\\Crawl_College_Entrance_Scores\\Crawl_College_Entrance_Scores\\Crawl_College_Entrance_Scores.csproj": {}
+    "D:\\Source\\me\\.NET-Statistics_of_College_Entrance_Scores\\Crawl_College_Entrance_Scores\\Crawl_College_Entrance_Scores.csproj": {}
   },
   "projects": {
-    "D:\\Source\\me\\Statistics_of_College_Entrance_Scores\\Crawl_College_Entrance_Scores\\Crawl_College_Entrance_Scores\\Crawl_College_Entrance_Scores.csproj": {
+    "D:\\Source\\me\\.NET-Statistics_of_College_Entrance_Scores\\Crawl_College_Entrance_Scores\\Crawl_College_Entrance_Scores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Source\\me\\Statistics_of_College_Entrance_Scores\\Crawl_College_Entrance_Scores\\Crawl_College_Entrance_Scores\\Crawl_College_Entrance_Scores.csproj",
+        "projectUniqueName": "D:\\Source\\me\\.NET-Statistics_of_College_Entrance_Scores\\Crawl_College_Entrance_Scores\\Crawl_College_Entrance_Scores.csproj",
         "projectName": "Crawl_College_Entrance_Scores",
-        "projectPath": "D:\\Source\\me\\Statistics_of_College_Entrance_Scores\\Crawl_College_Entrance_Scores\\Crawl_College_Entrance_Scores\\Crawl_College_Entrance_Scores.csproj",
+        "projectPath": "D:\\Source\\me\\.NET-Statistics_of_College_Entrance_Scores\\Crawl_College_Entrance_Scores\\Crawl_College_Entrance_Scores.csproj",
         "packagesPath": "C:\\Users\\danhy\\.nuget\\packages\\",
-        "outputPath": "D:\\Source\\me\\Statistics_of_College_Entrance_Scores\\Crawl_College_Entrance_Scores\\Crawl_College_Entrance_Scores\\obj\\",
+        "outputPath": "D:\\Source\\me\\.NET-Statistics_of_College_Entrance_Scores\\Crawl_College_Entrance_Scores\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

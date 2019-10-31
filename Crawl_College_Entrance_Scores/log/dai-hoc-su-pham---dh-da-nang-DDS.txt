@@ -1,41 +1,41 @@
-Giáo dục Mầm non
-Giáo dục Tiểu học
-Giáo dục Công dân
-Giáo dục Chính trị
-Sư phạm Toán học
-Sư phạm Tin học
-Sư phạm Vật lý
-Sư phạm Hoá học
-Sư phạm Sinh học
-Sư phạm Ngữ văn
-Sư phạm Lịch sử
-Sư phạm Địa lý
-Sư phạm Âm nhạc
-Sư phạm khoa học tự nhiên
-Sư phạm Lịch sử- Địa lý
-Sư phạm Tin học và Công nghệ Tiểu học
-Lịch sử
-Văn học
-Văn hoá học
-Tâm lý học
-Tâm lý học (Chất lượng cao)
-Địa lý học
-Việt Nam học
-Việt Nam học (Chất lượng cao)
-Báo chí
-Báo chí (Chất lượng cao)
-Công nghệ sinh học
-Vật lý học
-Hoá học
-Hóa học (Chất lượng cao)
-Khoa học môi trường
-Toán ứng dụng
-Công nghệ thông tin
-Công nghệ thông tin (Chất lượng cao)
-Công nghệ thông tin (đặc thù)
-Công tác xã hội
-Quản lý tài nguyên và môi trường
-Quản lý tài nguyên và môi trường (Chất lượng cao)
+Giáo dục Mầm non	18.35
+Giáo dục Tiểu học	18
+Giáo dục Công dân	18
+Giáo dục Chính trị	18
+Sư phạm Toán học	19
+Sư phạm Tin học	19.4
+Sư phạm Vật lý	18
+Sư phạm Hoá học	18.05
+Sư phạm Sinh học	18.3
+Sư phạm Ngữ văn	19.5
+Sư phạm Lịch sử	18
+Sư phạm Địa lý	18
+Sư phạm Âm nhạc	23.55
+Sư phạm khoa học tự nhiên	18.05
+Sư phạm Lịch sử- Địa lý	18
+Sư phạm Tin học và Công nghệ Tiểu học	18.15
+Lịch sử	15.75
+Văn học	15
+Văn hoá học	15
+Tâm lý học	15
+Tâm lý học (Chất lượng cao)	15.25
+Địa lý học	15
+Việt Nam học	18
+Việt Nam học (Chất lượng cao)	15
+Báo chí	20
+Báo chí (Chất lượng cao)	20.15
+Công nghệ sinh học	15.2
+Vật lý học	117
+Hoá học	15
+Hóa học (Chất lượng cao)	15.5
+Khoa học môi trường	18.45
+Toán ứng dụng	18.5
+Công nghệ thông tin	15.05
+Công nghệ thông tin (Chất lượng cao)	15.1
+Công nghệ thông tin (đặc thù)	16.55
+Công tác xã hội	15
+Quản lý tài nguyên và môi trường	16.05
+Quản lý tài nguyên và môi trường (Chất lượng cao)	18.45
 
 
 

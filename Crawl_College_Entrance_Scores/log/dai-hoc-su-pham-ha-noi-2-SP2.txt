@@ -1,23 +1,23 @@
-Giáo dục Mầm non
-Giáo dục Tiểu học
-Giáo dục Công dân
-Giáo dục Thể chất
-Sư phạm Toán học
-Sư phạm Tin học
-Sư phạm Vật lý
-Sư phạm Hoá học
-Sư phạm Sinh học
-Sư phạm Ngữ văn
-Sư phạm Lịch sử
-Sư phạm Tiếng Anh
-Sư phạm công nghệ
-Sư phạm khoa học tự nhiên
-Ngôn ngữ Anh
-Ngôn ngữ Trung Quốc
-Văn học
-Việt Nam học
-Thông tin - thư viện
-Công nghệ thông tin
+Giáo dục Mầm non	26
+Giáo dục Tiểu học	27.5
+Giáo dục Công dân	24
+Giáo dục Thể chất	26
+Sư phạm Toán học	25
+Sư phạm Tin học	24
+Sư phạm Vật lý	24
+Sư phạm Hoá học	24
+Sư phạm Sinh học	24
+Sư phạm Ngữ văn	25
+Sư phạm Lịch sử	24
+Sư phạm Tiếng Anh	24
+Sư phạm công nghệ	24
+Sư phạm khoa học tự nhiên	24
+Ngôn ngữ Anh	22
+Ngôn ngữ Trung Quốc	23
+Văn học	20
+Việt Nam học	20
+Thông tin - thư viện	20
+Công nghệ thông tin	20
 
 
 

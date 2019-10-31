@@ -1,20 +1,20 @@
-Kinh tế
-Thống kê kinh tế
-Quản lý nhà nước
-Quản trị kinh doanh
-Marketing
-Kinh doanh quốc tế
-Kinh doanh thương mại
-Thương mại điện tử
-Tài chính Ngân hàng
-Kế toán
-Kiểm toán
-Quản trị nhân lực
-Hệ thống thông tin quản lý
-Luật
-Luật kinh tế
-Quản trị dịch vụ du lịch và lữ hành
-Quản trị khách sạn
+Kinh tế	20.75
+Thống kê kinh tế	19.75
+Quản lý nhà nước	19.5
+Quản trị kinh doanh	22
+Marketing	22.75
+Kinh doanh quốc tế	24
+Kinh doanh thương mại	21.75
+Thương mại điện tử	21.25
+Tài chính Ngân hàng	20.5
+Kế toán	21
+Kiểm toán	21
+Quản trị nhân lực	21.75
+Hệ thống thông tin quản lý	19.5
+Luật	20
+Luật kinh tế	21.25
+Quản trị dịch vụ du lịch và lữ hành	22.25
+Quản trị khách sạn	23
 
 
 

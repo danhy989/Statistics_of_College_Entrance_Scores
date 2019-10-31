@@ -1,30 +1,30 @@
-Giáo dục Mầm non
-Giáo dục Tiểu học
-Giáo dục Chính trị
-Giáo dục Thể chất
-Sư phạm Toán học
-Sư phạm Tin học
-Sư phạm Vật lý
-Sư phạm Hóa học
-Sư phạm Sinh học
-Sư phạm Ngữ văn
-Sư phạm Lịch Sử
-Sư phạm Địa lí
-Sư phạm Tiếng Anh
-Quản trị kinh doanh
-Kế Toán
-Công nghệ thông tin
-Chăn nuôi
-Lâm sinh
-Nông học
-Bảo vệ thực vật
-Quản lí tài nguyên và môi trường
-Quản trị dịch vụ du lịch và lữ hành
-Quản lí tài nguyên rừng
-Sinh học ứng dụng
-Tài chính ngân hàng
-Giáo dục mầm non
-Giáo dục Tiểu học
+Giáo dục Mầm non	18
+Giáo dục Tiểu học	18
+Giáo dục Chính trị	18
+Giáo dục Thể chất	18
+Sư phạm Toán học	18
+Sư phạm Tin học	18
+Sư phạm Vật lý	18
+Sư phạm Hóa học	18
+Sư phạm Sinh học	18
+Sư phạm Ngữ văn	18
+Sư phạm Lịch Sử	18
+Sư phạm Địa lí	18
+Sư phạm Tiếng Anh	18
+Quản trị kinh doanh	14
+Kế Toán	14
+Công nghệ thông tin	14
+Chăn nuôi	14
+Lâm sinh	14
+Nông học	14
+Bảo vệ thực vật	14
+Quản lí tài nguyên và môi trường	14
+Quản trị dịch vụ du lịch và lữ hành	14
+Quản lí tài nguyên rừng	14
+Sinh học ứng dụng	14
+Tài chính ngân hàng	14
+Giáo dục mầm non	16
+Giáo dục Tiểu học	16
 
 
 

@@ -1,24 +1,24 @@
-Quản trị kinh doanh (Quản trị kinh doanh)
-Quản trị khách sạn (Quản trị khách sạn)
-Quản trị dịch vụ du lịch và lữ hành (Quản trị dịch vụ du lịch và lữ hành)
-Marketing (Marketing thương mại)
-Marketing (Quản trị thương hiệu)
-Logistics và Quản lý chuỗi cung ứng (Logistics và Quản lý chuỗi cung ứng)
-Kế toán (Kế toán doanh nghiệp)
-Kế toán (Kế toán công)
-Kiểm toán (Kiểm toán)
-Kinh doanh quốc tế (Thương mại quốc tế)
-Kinh tế quốc tế (Kinh tế quốc tế)
-Kinh tế (Quản lý kinh tế)
-Tài chính - Ngân hàng (Tài chính – Ngân hàng thương mại)
-Tài chính - Ngân hàng (Tài chính công)
-Thương mại điện tử (Quản trị Thương mại điện tử)
-Ngôn ngữ Anh (Tiếng Anh Thương mại)
-Luật kinh tế (Luật kinh tế)
-Quản trị kinh doanh (Tiếng Pháp thương mại)
-Quản trị kinh doanh (Tiếng Trung thương mại)
-Hệ thống thông tin quản lý (Quản trị hệ thống thông tin)
-Quản trị nhân lực (Quản trị nhân lực doanh nghiệp)
+Quản trị kinh doanh (Quản trị kinh doanh)	23
+Quản trị khách sạn (Quản trị khách sạn)	23.2
+Quản trị dịch vụ du lịch và lữ hành (Quản trị dịch vụ du lịch và lữ hành)	23
+Marketing (Marketing thương mại)	24
+Marketing (Quản trị thương hiệu)	23.3
+Logistics và Quản lý chuỗi cung ứng (Logistics và Quản lý chuỗi cung ứng)	23.4
+Kế toán (Kế toán doanh nghiệp)	23.2
+Kế toán (Kế toán công)	22
+Kiểm toán (Kiểm toán)	22.3
+Kinh doanh quốc tế (Thương mại quốc tế)	23.5
+Kinh tế quốc tế (Kinh tế quốc tế)	23.7
+Kinh tế (Quản lý kinh tế)	22.2
+Tài chính - Ngân hàng (Tài chính – Ngân hàng thương mại)	22.1
+Tài chính - Ngân hàng (Tài chính công)	22
+Thương mại điện tử (Quản trị Thương mại điện tử)	23
+Ngôn ngữ Anh (Tiếng Anh Thương mại)	22.9
+Luật kinh tế (Luật kinh tế)	22
+Quản trị kinh doanh (Tiếng Pháp thương mại)	22
+Quản trị kinh doanh (Tiếng Trung thương mại)	23.1
+Hệ thống thông tin quản lý (Quản trị hệ thống thông tin)	22
+Quản trị nhân lực (Quản trị nhân lực doanh nghiệp)	22.5
 
 
 

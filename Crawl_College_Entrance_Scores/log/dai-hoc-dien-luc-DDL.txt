@@ -1,29 +1,29 @@
-Quản trị kinh doanh
-Quản trị kinh doanh
-Thương mại điện tử
-Tài chính Ngân hàng
-Tài chính – Ngân hàng
-Kế toán
-Kế toán
-Kiểm toán
-Công nghệ thông tin
-Công nghệ kỹ thuật công trình xây dựng
-Công nghệ kỹ thuật cơ khí
-Công nghệ kỹ thuật cơ điện tử
-Công nghệ kỹ thuật điện, điện tử
-Công nghệ kỹ thuật điện, điện tử
-Công nghệ kỹ thuật điện tử - viễn thông
-Công nghệ kỹ thuật điện tử - viễn thông
-Công nghệ kỹ thuật điều khiển và tự động hóa
-Công nghệ kỹ thuật điều khiển và tự động hoá
-Công nghệ kỹ thuật năng lượng
-Công nghệ kỹ thuật môi trường
-Công nghệ kỹ thuật hạt nhân
-Quản lý công nghiệp
-Quản lý công nghiệp
-Quản lý năng lượng
-Logistics và Quản lý chuỗi cung ứng
-Kỹ thuật nhiệt
+Quản trị kinh doanh	15
+Quản trị kinh doanh	14
+Thương mại điện tử	14
+Tài chính Ngân hàng	15
+Tài chính – Ngân hàng	14
+Kế toán	15
+Kế toán	14
+Kiểm toán	15
+Công nghệ thông tin	16.5
+Công nghệ kỹ thuật công trình xây dựng	14
+Công nghệ kỹ thuật cơ khí	15
+Công nghệ kỹ thuật cơ điện tử	15
+Công nghệ kỹ thuật điện, điện tử	16
+Công nghệ kỹ thuật điện, điện tử	14
+Công nghệ kỹ thuật điện tử - viễn thông	15
+Công nghệ kỹ thuật điện tử - viễn thông	14
+Công nghệ kỹ thuật điều khiển và tự động hóa	15
+Công nghệ kỹ thuật điều khiển và tự động hoá	14
+Công nghệ kỹ thuật năng lượng	14
+Công nghệ kỹ thuật môi trường	14
+Công nghệ kỹ thuật hạt nhân	14
+Quản lý công nghiệp	14
+Quản lý công nghiệp	14
+Quản lý năng lượng	14
+Logistics và Quản lý chuỗi cung ứng	14
+Kỹ thuật nhiệt	14
 
 
 

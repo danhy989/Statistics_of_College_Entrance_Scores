@@ -1,8 +1,8 @@
-Kinh doanh quốc tế (đào tạo bằng tiếng Anh)
-Kế toán, Phân tích và Kiểm toán (đào tạo bằng tiếng Anh)
-Hệ thống thông tin quản lý (đào tạo bằng tiếng Anh)
-Tin học và Kỹ thuật máy tính (chương trình LKQT do ĐHQGHN cấp bằng, đào tạo bằng tiếng Anh)
-Phân tích dữ liệu kinh doanh
+Kinh doanh quốc tế (đào tạo bằng tiếng Anh)	20.5
+Kế toán, Phân tích và Kiểm toán (đào tạo bằng tiếng Anh)	18.75
+Hệ thống thông tin quản lý (đào tạo bằng tiếng Anh)	17
+Tin học và Kỹ thuật máy tính (chương trình LKQT do ĐHQGHN cấp bằng, đào tạo bằng tiếng Anh)	17
+Phân tích dữ liệu kinh doanh	17
 
 
 

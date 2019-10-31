@@ -1,29 +1,29 @@
-Công nghệ thực phẩm
-Đảm bảo chất lượng & ATTP
-Công nghệ chế biến thủy sản
-Khoa học thủy sản
-Khoa học dinh dưỡng và ẩm thực
-Khoa học chế biến món ăn
-Kế toán
-Tài chính ngân hàng
-Quản trị kinh doanh
-Kinh doanh quốc tế
-Quản trị dịch vụ du lịch và lữ hành
-Quản trị nhà hàng và dịch vụ ăn uống
-Luật kinh tế
-Ngôn ngữ Anh
-Công nghệ thông tin
-An toàn thông tin
-Công nghệ chế tạo máy
-Công nghệ kỹ thuật điện - điện tử
-Công nghệ kỹ thuật cơ điện tử
-Công nghệ kỹ thuật ĐKvà tự động hóa
-Công nghệ kỹ thuật hóa học
-Công nghệ vật liệu
-Công nghệ dệt, may
-Công nghệ sinh học
-Công nghệ kỹ thuật môi trường
-Quản lý tài nguyên và môi trường
+Công nghệ thực phẩm	20.25
+Đảm bảo chất lượng & ATTP	16.55
+Công nghệ chế biến thủy sản	15
+Khoa học thủy sản	15.6
+Khoa học dinh dưỡng và ẩm thực	17
+Khoa học chế biến món ăn	16.5
+Kế toán	18
+Tài chính ngân hàng	18
+Quản trị kinh doanh	19
+Kinh doanh quốc tế	18
+Quản trị dịch vụ du lịch và lữ hành	18
+Quản trị nhà hàng và dịch vụ ăn uống	20
+Luật kinh tế	17.05
+Ngôn ngữ Anh	19.75
+Công nghệ thông tin	16.5
+An toàn thông tin	15.05
+Công nghệ chế tạo máy	16
+Công nghệ kỹ thuật điện - điện tử	16
+Công nghệ kỹ thuật cơ điện tử	16
+Công nghệ kỹ thuật ĐKvà tự động hóa	16
+Công nghệ kỹ thuật hóa học	16.1
+Công nghệ vật liệu	15.1
+Công nghệ dệt, may	16.5
+Công nghệ sinh học	16.05
+Công nghệ kỹ thuật môi trường	16.05
+Quản lý tài nguyên và môi trường	16
 
 
 

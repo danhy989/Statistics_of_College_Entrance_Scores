@@ -1,28 +1,28 @@
-Giáo dục Mầm non
-Giáo dục Tiểu học
-Dược học
-Điều dưỡng
-Dinh dưỡng
-Quản trị kinh doanh
-Tài chính - Ngân hàng
-Kế toán
-Quản trị nhân lực
-Quản trị văn phòng
-Luật kinh tế
-Công nghệ thông tin
-Chuyên ngành Khoa học Dữ liệu
-Công nghệ kỹ thuật xây dựng
-Công nghệ kỹ thuật Ô tô
-Công nghệ kỹ thuật Điện, điện tử
-CNKT điều khiển và tự động hóa
-Công nghệ thực phẩm
-Nông nghiệp
-Kiến trúc
-Ngôn ngữ Anh
-Ngôn ngữ Trung Quốc
-Tâm lý học
-Quản trị Khách sạn
-Quản trị DV du lịch và lữ hành
+Giáo dục Mầm non	18
+Giáo dục Tiểu học	18
+Dược học	20
+Điều dưỡng	18
+Dinh dưỡng	18
+Quản trị kinh doanh	14
+Tài chính - Ngân hàng	14
+Kế toán	14
+Quản trị nhân lực	14
+Quản trị văn phòng	14
+Luật kinh tế	14
+Công nghệ thông tin	14
+Chuyên ngành Khoa học Dữ liệu	17.5
+Công nghệ kỹ thuật xây dựng	14
+Công nghệ kỹ thuật Ô tô	14
+Công nghệ kỹ thuật Điện, điện tử	14
+CNKT điều khiển và tự động hóa	14
+Công nghệ thực phẩm	14
+Nông nghiệp	14
+Kiến trúc	18
+Ngôn ngữ Anh	14
+Ngôn ngữ Trung Quốc	14
+Tâm lý học	14
+Quản trị Khách sạn	14
+Quản trị DV du lịch và lữ hành	14
 
 
 

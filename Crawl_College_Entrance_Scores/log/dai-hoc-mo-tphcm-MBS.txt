@@ -1,32 +1,32 @@
-Ngôn ngữ Anh
-Ngôn ngữ Anh Chất lượng cao
-Ngôn ngữ Trung Quốc
-Ngôn ngữ Nhật
-Kinh tế
-Xã hội học
-Đông Nam Á học
-Quản trị kinh doanh
-Quản trị kinh doanh Chất lượng cao
-Marketing
-Kinh doanh quốc tế
-Tài chính Ngân hàng
-Tài chính – Ngân hàng Chất lượng cao
-Kế toán
-Kế toán Chất lượng cao
-Kiểm toán
-Quản trị nhân lực
-Hệ thống thông tin quản lý
-Luật
-Luật kinh tế
-Luật kinh tế Chất lượng cao
-Công nghệ sinh học
-Công nghệ sinh học Chất lượng cao
-Khoa học máy tính
-Công nghệ thông tin
-Công nghệ kỹ thuật công trình xây dựng
-CNKT công trình xây dựng Chất lượng cao
-Quản lý xây dựng
-Công tác xã hội
+Ngôn ngữ Anh	22.85
+Ngôn ngữ Anh Chất lượng cao	21.2
+Ngôn ngữ Trung Quốc	21.95
+Ngôn ngữ Nhật	21.1
+Kinh tế	20.65
+Xã hội học	15.5
+Đông Nam Á học	18.2
+Quản trị kinh doanh	21.85
+Quản trị kinh doanh Chất lượng cao	18.3
+Marketing	21.85
+Kinh doanh quốc tế	22.75
+Tài chính Ngân hàng	20.6
+Tài chính – Ngân hàng Chất lượng cao	15.5
+Kế toán	20.8
+Kế toán Chất lượng cao	15.8
+Kiểm toán	20
+Quản trị nhân lực	21.65
+Hệ thống thông tin quản lý	18.9
+Luật	19.65
+Luật kinh tế	20.55
+Luật kinh tế Chất lượng cao	16
+Công nghệ sinh học	15
+Công nghệ sinh học Chất lượng cao	15
+Khoa học máy tính	19.2
+Công nghệ thông tin	20.85
+Công nghệ kỹ thuật công trình xây dựng	15.5
+CNKT công trình xây dựng Chất lượng cao	15.3
+Quản lý xây dựng	15.5
+Công tác xã hội	15.5
 
 
 

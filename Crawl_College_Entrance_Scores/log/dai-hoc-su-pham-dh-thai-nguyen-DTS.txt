@@ -1,20 +1,20 @@
-Giáo dục học
-Quản lý giáo dục
-Giáo dục Mầm non
-Giáo dục Tiểu học
-Giáo dục Chính trị
-Giáo dục Thể chất
-Sư phạm Toán học
-Sư phạm Tin học
-Sư phạm Vật lý
-Sư phạm Hoá học
-Sư phạm Sinh học
-Sư phạm Ngữ văn
-Sư phạm Lịch sử
-Sư phạm Địa lý
-Sư phạm Tiếng Anh
-Sư phạm khoa học tự nhiên
-Tâm lý học giáo dục
+Giáo dục học	18
+Quản lý giáo dục	18
+Giáo dục Mầm non	18
+Giáo dục Tiểu học	18
+Giáo dục Chính trị	18
+Giáo dục Thể chất	19
+Sư phạm Toán học	18
+Sư phạm Tin học	18
+Sư phạm Vật lý	18
+Sư phạm Hoá học	18
+Sư phạm Sinh học	18
+Sư phạm Ngữ văn	18
+Sư phạm Lịch sử	18
+Sư phạm Địa lý	18.5
+Sư phạm Tiếng Anh	18
+Sư phạm khoa học tự nhiên	18
+Tâm lý học giáo dục	18
 
 
 

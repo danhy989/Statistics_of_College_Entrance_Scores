@@ -1,13 +1,13 @@
-Kinh tế
-Tâm lý học
-Tâm lý học
-Quản trị kinh doanh
-Bảo hiểm
-Kế toán
-Quản trị nhân lực
-Luật kinh tế
-Công tác xã hội
-Công tác xã hội
+Kinh tế	14
+Tâm lý học	15.5
+Tâm lý học	16
+Quản trị kinh doanh	16
+Bảo hiểm	14
+Kế toán	15.5
+Quản trị nhân lực	16
+Luật kinh tế	14
+Công tác xã hội	14
+Công tác xã hội	14.5
 
 
 

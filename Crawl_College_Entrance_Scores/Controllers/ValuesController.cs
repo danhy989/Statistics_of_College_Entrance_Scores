@@ -13,14 +13,12 @@ namespace Crawl_College_Entrance_Scores.Controllers
 	{
 		// GET api/values
 		[HttpGet]
-		public ActionResult<IEnumerable<CollegeEntity>> Get()
+		public ActionResult<IEnumerable<MajorEntity>> Get()
 		{
 			using (var db = new EntranceScoresContext())
 			{
-				var blogs = db.collegeEntities.ToList();
-				foreach (var name in blogs){
-
-				}
+				var blogs = db.majorEntities.ToList();
+				
 
 				return blogs;
 			}

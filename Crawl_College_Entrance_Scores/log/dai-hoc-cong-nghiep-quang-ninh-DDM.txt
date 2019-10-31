@@ -1,15 +1,15 @@
-Quản trị kinh doanh
-Tài chính Ngân hàng
-Kế toán
-Công nghệ thông tin
-Công nghệ kỹ thuật công trình xây dựng
-Công nghệ kỹ thuật cơ khí
-Công nghệ kỹ thuật điện, điện tử
-Công nghệ kỹ thuật điều khiển và tự động hóa
-Kỹ thuật địa chất
-Kỹ thuật trắc địa - bản đồ
-Kỹ thuật mỏ
-Kỹ thuật tuyển khoáng
+Quản trị kinh doanh	13
+Tài chính Ngân hàng	13
+Kế toán	13
+Công nghệ thông tin	13
+Công nghệ kỹ thuật công trình xây dựng	13
+Công nghệ kỹ thuật cơ khí	13
+Công nghệ kỹ thuật điện, điện tử	13
+Công nghệ kỹ thuật điều khiển và tự động hóa	13
+Kỹ thuật địa chất	13
+Kỹ thuật trắc địa - bản đồ	13
+Kỹ thuật mỏ	13
+Kỹ thuật tuyển khoáng	13
 
 
 

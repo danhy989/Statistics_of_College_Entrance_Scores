@@ -1,15 +1,15 @@
-Ngôn ngữ Anh
-Quản trị kinh doanh
-Kế toán
-Công nghệ sinh học
-Hoá học
-Công nghệ thông tin
-Công nghệ kỹ thuật cơ khí
-Công nghệ kỹ thuật ô tô
-Công nghệ kỹ thuật điện, điện tử
-Công nghệ kỹ thuật điều khiển và tự động hóa
-Công nghệ kỹ thuật hoá học
-Công nghệ kỹ thuật môi trường
+Ngôn ngữ Anh	13.5
+Quản trị kinh doanh	13.5
+Kế toán	13.5
+Công nghệ sinh học	13.5
+Hoá học	13.5
+Công nghệ thông tin	13.5
+Công nghệ kỹ thuật cơ khí	13.5
+Công nghệ kỹ thuật ô tô	13.5
+Công nghệ kỹ thuật điện, điện tử	13.5
+Công nghệ kỹ thuật điều khiển và tự động hóa	13.5
+Công nghệ kỹ thuật hoá học	13.5
+Công nghệ kỹ thuật môi trường	13.5
 
 
 

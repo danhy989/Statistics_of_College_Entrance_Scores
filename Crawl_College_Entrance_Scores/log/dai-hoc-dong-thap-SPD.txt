@@ -1,41 +1,41 @@
-Giáo dục Mầm non
-Giáo dục Tiểu học
-Giáo dục Chính trị
-Giáo dục Thể chất
-Sư phạm Toán học
-Sư phạm Tin học
-Sư phạm Vật lý
-Sư phạm Hoá học
-Sư phạm Sinh học
-Sư phạm Ngữ văn
-Sư phạm Lịch sử
-Sư phạm Địa lý
-Sư phạm Âm nhạc
-Sư phạm Mỹ thuật
-Sư phạm Tiếng Anh
-Ngôn ngữ Anh (Biên phiên dịch; Tiếng Anh kinh doanh)
-Ngôn ngữ Trung Quốc
-Quản lý văn hoá
-Việt Nam học (chuyên ngành Hướng dẫn viên du lịch và Quàn lý Nhà hàng - Khách sạn)
-Khoa học thư viện
-Quản trị kinh doanh
-Tài chính - Ngân hàng
-Kế toán
-Khoa học môi trường
-Khoa học máy tính (Công nghệ thông tin)
-Nông học
-Nuôi trồng thuỷ sản
-Công tác xã hội
-Quàn lý đất đai
-Giáo dục mầm non (CĐ)
-Giáo dục Tiểu học (CĐ)
-Sư phạm toán học (CĐ)
-Sư phạm Tin học (CĐ)
-Sư phạm Vật lý (CĐ)
-Sư phạm Hóa học (CĐ)
-Sư phạm Ngữ văn (CĐ)
-Sư phạm Địa lý (CĐ)
-Sư phạm Âm nhạc (CĐ)
+Giáo dục Mầm non	21
+Giáo dục Tiểu học	19.5
+Giáo dục Chính trị	18
+Giáo dục Thể chất	22
+Sư phạm Toán học	18.5
+Sư phạm Tin học	19
+Sư phạm Vật lý	18
+Sư phạm Hoá học	18
+Sư phạm Sinh học	20.35
+Sư phạm Ngữ văn	19
+Sư phạm Lịch sử	18
+Sư phạm Địa lý	18.5
+Sư phạm Âm nhạc	22
+Sư phạm Mỹ thuật	22
+Sư phạm Tiếng Anh	19.5
+Ngôn ngữ Anh (Biên phiên dịch; Tiếng Anh kinh doanh)	14
+Ngôn ngữ Trung Quốc	18
+Quản lý văn hoá	14
+Việt Nam học (chuyên ngành Hướng dẫn viên du lịch và Quàn lý Nhà hàng - Khách sạn)	17
+Khoa học thư viện	17.7
+Quản trị kinh doanh	14
+Tài chính - Ngân hàng	14
+Kế toán	14
+Khoa học môi trường	14
+Khoa học máy tính (Công nghệ thông tin)	14
+Nông học	14
+Nuôi trồng thuỷ sản	14
+Công tác xã hội	14
+Quàn lý đất đai	20.7
+Giáo dục mầm non (CĐ)	19
+Giáo dục Tiểu học (CĐ)	17.5
+Sư phạm toán học (CĐ)	16
+Sư phạm Tin học (CĐ)	16.4
+Sư phạm Vật lý (CĐ)	16.6
+Sư phạm Hóa học (CĐ)	16.7
+Sư phạm Ngữ văn (CĐ)	18.55
+Sư phạm Địa lý (CĐ)	17.8
+Sư phạm Âm nhạc (CĐ)	20
 
 
 

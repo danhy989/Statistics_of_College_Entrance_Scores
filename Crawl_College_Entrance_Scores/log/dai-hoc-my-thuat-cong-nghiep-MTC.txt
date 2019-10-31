@@ -1,10 +1,10 @@
-Hội hoạ
-Điêu khắc
-Gốm
-Thiết kế công nghiệp
-Thiết kế đồ họa
-Thiết kế thời trang
-Thiết kế nội thất
+Hội hoạ	15.5
+Điêu khắc	15.5
+Gốm	15.5
+Thiết kế công nghiệp	17.25
+Thiết kế đồ họa	19.85
+Thiết kế thời trang	19.25
+Thiết kế nội thất	18.5
 
 
 

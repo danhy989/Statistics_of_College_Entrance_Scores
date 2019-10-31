@@ -1,41 +1,41 @@
-Giáo dục Mầm non
-Giáo dục Tiểu học
-Giáo dục Thể chất
-Sư phạm Toán học
-Sư phạm Vật lý
-Sư phạm Hoá học
-Sư phạm Sinh học
-Sư phạm Ngữ văn
-Sư phạm Lịch sử
-Sư phạm Địa lý
-Sư phạm Tiếng Anh
-Sư phạm khoa học tự nhiên
-Ngôn ngữ Anh
-Kinh tế
-Xã hội học
-Tâm lý học
-Việt Nam học
-Quản trị kinh doanh
-Tài chính Ngân hàng
-Kế toán
-Luật
-Công nghệ thông tin
-Kỹ thuật điện
-Kỹ thuật xây dựng
-Chăn nuôi
-Nông học
-Bảo vệ thực vật
-Lâm học
-Du lịch
-Quản lý tài nguyên và môi trường
-Quản lý đất đai
-Sư phạm toán học (CLC)
-Sư phạm Vật lý (CLC)
-Sư phạm Ngữ văn (CLC)
-Sư phạm Lịch sử (CLC)
-Giáo dục Mầm non
-Giáo dục Tiểu học
-Sư phạm Tiếng Anh
+Giáo dục Mầm non	18
+Giáo dục Tiểu học	19
+Giáo dục Thể chất	18
+Sư phạm Toán học	18
+Sư phạm Vật lý	18
+Sư phạm Hoá học	18
+Sư phạm Sinh học	18
+Sư phạm Ngữ văn	18
+Sư phạm Lịch sử	24
+Sư phạm Địa lý	18
+Sư phạm Tiếng Anh	18
+Sư phạm khoa học tự nhiên	18
+Ngôn ngữ Anh	14
+Kinh tế	14
+Xã hội học	14
+Tâm lý học	14
+Việt Nam học	14
+Quản trị kinh doanh	14
+Tài chính Ngân hàng	14
+Kế toán	14
+Luật	14
+Công nghệ thông tin	14
+Kỹ thuật điện	14
+Kỹ thuật xây dựng	14
+Chăn nuôi	14
+Nông học	14
+Bảo vệ thực vật	14
+Lâm học	14
+Du lịch	14
+Quản lý tài nguyên và môi trường	14
+Quản lý đất đai	14
+Sư phạm toán học (CLC)	24
+Sư phạm Vật lý (CLC)	24
+Sư phạm Ngữ văn (CLC)	24
+Sư phạm Lịch sử (CLC)	24
+Giáo dục Mầm non	16
+Giáo dục Tiểu học	16
+Sư phạm Tiếng Anh	16
 
 
 

@@ -1,8 +1,8 @@
-Y khoa
-Y học dự phòng
-Y học cổ truyền
-Dược học
-Điều dưỡng
+Y khoa	24.6
+Y học dự phòng	18
+Y học cổ truyền	21.7
+Dược học	22.75
+Điều dưỡng	21.25
 
 
 

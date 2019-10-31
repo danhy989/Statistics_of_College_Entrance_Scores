@@ -1,31 +1,31 @@
-Thiết kế đồ họa
-Ngôn ngữ Anh
-Ngôn ngữ Trung Quốc
-Văn học
-Quan hệ quốc tế
-Việt Nam học
-Truyền thông đa phương tiện
-Quản trị kinh doanh
-Tài chính Ngân hàng
-Kế toán
-Hệ thống thông tin quản lý
-Luật
-Luật kinh tế
-Công nghệ sinh học
-Kỹ thuật phần mềm
-An toàn thông tin
-Công nghệ kỹ thuật công trình xây dựng
-Công nghệ kỹ thuật điện, điện tử
-Công nghệ kỹ thuật môi trường
-Công nghệ thực phẩm
-Kiến trúc
-Kỹ thuật xây dựng
-Y khoa
-Dược học
-Điều dưỡng
-Răng - Hàm - Mặt
-Quản trị dịch vụ du lịch và lữ hành
-Quản lý tài nguyên và môi trường
+Thiết kế đồ họa	14
+Ngôn ngữ Anh	14
+Ngôn ngữ Trung Quốc	14
+Văn học	14
+Quan hệ quốc tế	14
+Việt Nam học	14
+Truyền thông đa phương tiện	14
+Quản trị kinh doanh	14
+Tài chính Ngân hàng	14
+Kế toán	14
+Hệ thống thông tin quản lý	14
+Luật	14
+Luật kinh tế	14
+Công nghệ sinh học	14
+Kỹ thuật phần mềm	14
+An toàn thông tin	14
+Công nghệ kỹ thuật công trình xây dựng	14
+Công nghệ kỹ thuật điện, điện tử	14
+Công nghệ kỹ thuật môi trường	14
+Công nghệ thực phẩm	14
+Kiến trúc	15
+Kỹ thuật xây dựng	14
+Y khoa	21
+Dược học	20
+Điều dưỡng	18
+Răng - Hàm - Mặt	21
+Quản trị dịch vụ du lịch và lữ hành	14
+Quản lý tài nguyên và môi trường	14
 
 
 

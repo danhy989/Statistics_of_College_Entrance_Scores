@@ -1,13 +1,13 @@
-Y khoa
-Y Đa khoa Phân hiệu Thanh Hóa
-Y học dự phòng
-Y học cổ truyền
-Điều dưỡng
-Dinh dưỡng
-Răng - Hàm - Mặt
-Kỹ thuật xét nghiệm y học
-Khúc xạ nhãn khoa
-Y tế công cộng
+Y khoa	26.75
+Y Đa khoa Phân hiệu Thanh Hóa	24.3
+Y học dự phòng	21
+Y học cổ truyền	23.3
+Điều dưỡng	22
+Dinh dưỡng	21
+Răng - Hàm - Mặt	26.4
+Kỹ thuật xét nghiệm y học	23.2
+Khúc xạ nhãn khoa	23.4
+Y tế công cộng	19.9
 
 
 

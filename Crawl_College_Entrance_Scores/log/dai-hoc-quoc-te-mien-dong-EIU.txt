@@ -1,10 +1,10 @@
-Quản trị kinh doanh
-Mạng máy tính và truyền thông dữ liệu
-Kỹ thuật phần mềm
-Kỹ thuật cơ điện tử
-Kỹ thuật điện
-Kỹ thuật điều khiển và tự động hoá
-Điều dưỡng
+Quản trị kinh doanh	15
+Mạng máy tính và truyền thông dữ liệu	14
+Kỹ thuật phần mềm	14
+Kỹ thuật cơ điện tử	14
+Kỹ thuật điện	14
+Kỹ thuật điều khiển và tự động hoá	14
+Điều dưỡng	18
 
 
 
