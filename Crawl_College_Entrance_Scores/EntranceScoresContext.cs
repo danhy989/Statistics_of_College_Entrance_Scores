@@ -8,8 +8,7 @@ using System.Threading.Tasks;
 
 namespace Crawl_College_Entrance_Scores
 {
-
-	public class EntranceScoresContext : DbContext
+	public class EntranceScoresContext : DbContext, IDisposable
 	{
 		public EntranceScoresContext()
 		{
@@ -23,6 +22,8 @@ namespace Crawl_College_Entrance_Scores
 		public DbSet<MajorEntity> majorEntities { get; set; }
 		public DbSet<MajorCollege> majorColleges { get; set; }
 		public DbSet<Province> provinces { get; set; }
+
+		public DbSet<User> users { get; set; }
 
 		protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 		{
@@ -44,7 +45,12 @@ namespace Crawl_College_Entrance_Scores
 				.HasForeignKey(p => p.province_id)
 				.HasConstraintName("ForeignKey_Province_CollegeEntity");
 		}
-		
+
+		public void Dispose()
+		{
+			GC.SuppressFinalize(this);
+		}
+
 
 	}
 }

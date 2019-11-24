@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29102.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crawl_College_Entrance_Scores", "Crawl_College_Entrance_Scores\Crawl_College_Entrance_Scores.csproj", "{C4FCEB0F-FD1F-449B-84A0-0C389E1AD922}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Crawl_College_Entrance_Scores", "Crawl_College_Entrance_Scores\Crawl_College_Entrance_Scores.csproj", "{C4FCEB0F-FD1F-449B-84A0-0C389E1AD922}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Statistics_College_Entrance_Scores", "Statistics_College_Entrance_Scores\Statistics_College_Entrance_Scores.csproj", "{70E30DE6-5414-4898-B241-A3CB54BE90CB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C4FCEB0F-FD1F-449B-84A0-0C389E1AD922}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4FCEB0F-FD1F-449B-84A0-0C389E1AD922}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4FCEB0F-FD1F-449B-84A0-0C389E1AD922}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70E30DE6-5414-4898-B241-A3CB54BE90CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70E30DE6-5414-4898-B241-A3CB54BE90CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70E30DE6-5414-4898-B241-A3CB54BE90CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70E30DE6-5414-4898-B241-A3CB54BE90CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

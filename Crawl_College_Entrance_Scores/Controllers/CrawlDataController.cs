@@ -9,11 +9,13 @@ using System.Threading;
 using System.Threading.Tasks;
 using Crawl_College_Entrance_Scores.entity;
 using HtmlAgilityPack;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Crawl_College_Entrance_Scores.Controllers
 {
-    [Route("api/[controller]")]
+	[Authorize]
+	[Route("api/[controller]")]
     [ApiController]
     public class CrawlDataController : ControllerBase
     {
@@ -151,7 +153,7 @@ namespace Crawl_College_Entrance_Scores.Controllers
 		}
 
 
-		[HttpGet("{year}")]
+		[HttpPost("{year}")]
 		public ActionResult<string> Get(int year)
 		{
 			using (var db = new EntranceScoresContext())

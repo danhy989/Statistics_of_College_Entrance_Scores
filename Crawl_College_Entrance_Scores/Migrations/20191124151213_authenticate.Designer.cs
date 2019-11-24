@@ -2,15 +2,17 @@
 using Crawl_College_Entrance_Scores;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 
 namespace Crawl_College_Entrance_Scores.Migrations
 {
     [DbContext(typeof(EntranceScoresContext))]
-    partial class EntranceScoresContextModelSnapshot : ModelSnapshot
+    [Migration("20191124151213_authenticate")]
+    partial class authenticate
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -81,24 +83,6 @@ namespace Crawl_College_Entrance_Scores.Migrations
                     b.HasKey("province_id");
 
                     b.ToTable("provinces");
-                });
-
-            modelBuilder.Entity("Crawl_College_Entrance_Scores.entity.User", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd();
-
-                    b.Property<string>("FirstName");
-
-                    b.Property<string>("LastName");
-
-                    b.Property<string>("Password");
-
-                    b.Property<string>("Username");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("users");
                 });
 
             modelBuilder.Entity("Crawl_College_Entrance_Scores.entity.CollegeEntity", b =>
