@@ -21,8 +21,8 @@ namespace Crawl_College_Entrance_Scores
 
 		public DbSet<CollegeEntity> collegeEntities { get; set; }
 		public DbSet<MajorEntity> majorEntities { get; set; }
-
 		public DbSet<MajorCollege> majorColleges { get; set; }
+		public DbSet<Province> provinces { get; set; }
 
 		protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 		{
@@ -38,6 +38,11 @@ namespace Crawl_College_Entrance_Scores
 		{
 			//Configure default schema
 			modelBuilder.HasDefaultSchema("Entrance_Scores");
+			modelBuilder.Entity<Province>()
+				.HasMany(p => p.collegeEntities)
+				.WithOne(c => c.province)
+				.HasForeignKey(p => p.province_id)
+				.HasConstraintName("ForeignKey_Province_CollegeEntity");
 		}
 		
 

@@ -9,8 +9,8 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace Crawl_College_Entrance_Scores.Migrations
 {
     [DbContext(typeof(EntranceScoresContext))]
-    [Migration("20191031102325_init")]
-    partial class init
+    [Migration("20191113165723_MyFirstMigration")]
+    partial class MyFirstMigration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -28,7 +28,11 @@ namespace Crawl_College_Entrance_Scores.Migrations
 
                     b.Property<string>("name");
 
+                    b.Property<long>("province_id");
+
                     b.HasKey("code");
+
+                    b.HasIndex("province_id");
 
                     b.ToTable("collegeEntities");
                 });
@@ -67,6 +71,27 @@ namespace Crawl_College_Entrance_Scores.Migrations
                     b.HasKey("code");
 
                     b.ToTable("majorEntities");
+                });
+
+            modelBuilder.Entity("Crawl_College_Entrance_Scores.entity.Province", b =>
+                {
+                    b.Property<long>("province_id")
+                        .ValueGeneratedOnAdd();
+
+                    b.Property<string>("name");
+
+                    b.HasKey("province_id");
+
+                    b.ToTable("provinces");
+                });
+
+            modelBuilder.Entity("Crawl_College_Entrance_Scores.entity.CollegeEntity", b =>
+                {
+                    b.HasOne("Crawl_College_Entrance_Scores.entity.Province", "province")
+                        .WithMany("collegeEntities")
+                        .HasForeignKey("province_id")
+                        .HasConstraintName("ForeignKey_Province_CollegeEntity")
+                        .OnDelete(DeleteBehavior.Cascade);
                 });
 
             modelBuilder.Entity("Crawl_College_Entrance_Scores.entity.MajorCollege", b =>

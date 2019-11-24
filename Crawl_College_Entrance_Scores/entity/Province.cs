@@ -7,18 +7,14 @@ using System.Threading.Tasks;
 
 namespace Crawl_College_Entrance_Scores.entity
 {
-	public class CollegeEntity
+	public class Province
 	{
+		[DatabaseGenerated(DatabaseGeneratedOption.Identity)]
 		[Key]
-		public string code { get; set; }
-		public string name { get; set; }
-
 		public long province_id { get; set; }
-
-		public Province province { get; set; }
-
-		public ICollection<MajorCollege> MajorColleges { get; set; }
-
-		public CollegeEntity(){}
+		public string name { get; set; }
+		public ICollection<CollegeEntity> collegeEntities { get; set; }
+		public Province() { }
+		
 	}
 }

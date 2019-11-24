@@ -24,6 +24,12 @@ namespace Crawl_College_Entrance_Scores.Controllers
 
 		private ICollection<CollegeEntity> collegeEntities = new LinkedList<CollegeEntity>();
 
+		private static ICollection<MajorEntity> newMajorEntities = new LinkedList<MajorEntity>();
+
+		private static Dictionary<string, string> newMajorMap = new Dictionary<string, string>();
+
+		private static Boolean isAddNewMajor = false;
+
 		public CrawlDataController()
 		{
 			Console.OutputEncoding = System.Text.Encoding.UTF8;
@@ -50,7 +56,7 @@ namespace Crawl_College_Entrance_Scores.Controllers
 			return regex.Replace(temp, String.Empty).Replace('\u0111', 'd').Replace('\u0110', 'D');
 		}
 
-		private void ProcessCrawling(string url,string collegeCode,int year,EntranceScoresContext db)
+		private async void ProcessCrawling(string url, string collegeCode,int year,EntranceScoresContext db)
 		{
 			string[] log = new string[1000];
 			HtmlAgilityPack.HtmlWeb webSite = new HtmlAgilityPack.HtmlWeb();
@@ -89,37 +95,46 @@ namespace Crawl_College_Entrance_Scores.Controllers
 						{
 							collegeEntity = db.collegeEntities.DefaultIfEmpty().Single(c => c.code.Equals(collegeCode));
 							majorEntity = db.majorEntities.DefaultIfEmpty().Single(c => c.code.Equals(majorCode));
-							if (collegeEntity == null || majorEntity == null)
+
+							if (collegeEntity == null)
 							{
 								continue;
 							}
-							majorCollege.MajorEntity = majorEntity;
-							majorCollege.CollegeEntity = collegeEntity;
-							majorCollege.groupCode = row.SelectNodes("td")[3].InnerText;
-							majorCollege.year = year;
-							majorCollege.score = double.Parse(row.SelectNodes("td")[4].InnerText);
+							if(majorEntity == null)
+							{
+								isAddNewMajor = true;
+								MajorEntity newMajor = new MajorEntity();
+								newMajor.code = majorCode;
+								newMajor.name = row.SelectNodes("td")[2].InnerText;
 
-							majorColleges.Push(majorCollege);
+								//Check exist
+								//newMajorEntities.Add(newMajor);
+								try
+								{
+									newMajorMap.Add(newMajor.code, newMajor.name);
+								}
+								catch(ArgumentException e)
+								{
+									newMajorMap[newMajor.code] = newMajor.name;
+								}
+								
+								continue;
+							}
+
+							if(isAddNewMajor == false)
+							{
+								majorCollege.MajorEntity = majorEntity;
+								majorCollege.CollegeEntity = collegeEntity;
+								majorCollege.groupCode = row.SelectNodes("td")[3].InnerText;
+								majorCollege.year = year;
+								majorCollege.score = double.Parse(row.SelectNodes("td")[4].InnerText);
+
+								majorColleges.Push(majorCollege);
+							}
 						}
 						catch (InvalidOperationException e)
 						{
-							/*Process new major which not be stored database 
-
-								//string newMajorName = row.SelectNodes("td")[2].InnerText;
-								//MajorEntity newMajor = new MajorEntity();
-								//newMajor.code = majorCode;
-								//newMajor.name = newMajorName;
-
-								//majorCollege.MajorEntity = newMajor;
-								//majorCollege.CollegeEntity = collegeEntity;
-								//majorCollege.groupCode = row.SelectNodes("td")[3].InnerText;
-								//majorCollege.year = year;
-								//majorCollege.score = double.Parse(row.SelectNodes("td")[4].InnerText);
-
-								//majorColleges.Push(majorCollege);
-
-							*/
-
+							System.Console.WriteLine(e.Message);
 						}
 						i++;
 					}
@@ -135,18 +150,34 @@ namespace Crawl_College_Entrance_Scores.Controllers
 			
 		}
 
+
 		[HttpGet("{year}")]
 		public ActionResult<string> Get(int year)
 		{
 			using (var db = new EntranceScoresContext())
 			{
-				Parallel.ForEach(collegeEntities, college => Process(college,year,db));
+				//Parallel.ForEach(collegeEntities, college => Process(college,year,db));
 
-				//Add majorCollege to database
-				db.majorColleges.AddRange(majorColleges);
+				foreach (var cl in collegeEntities)
+				{
+					this.Process(cl, year, db);
+				}
+
+				if (isAddNewMajor == false)
+				{
+					//Add majorCollege to database
+					db.majorColleges.AddRange(majorColleges);
+				}
+				else
+				{
+					//Add majorCollege to database
+
+					newMajorEntities = newMajorMap.Select(p => new MajorEntity { code = p.Key, name = p.Value }).ToList();
+
+					db.majorEntities.AddRange(newMajorEntities);
+				}
 
 				db.SaveChanges();
-
 				return "Crawling data from " + year + " OK";
 			}
 		}
