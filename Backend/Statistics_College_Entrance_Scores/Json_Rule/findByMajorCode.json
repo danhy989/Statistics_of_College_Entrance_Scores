@@ -1,0 +1,24 @@
+{
+    "took": 170,
+    "message": null,
+    "body": {
+        "majorCode": "114",
+        "majorName": "Kỹ thuật Hóa học;Công nghệ Thực phẩm;Công nghệ Sinh học;(Nhóm ngành)",
+        "years": [
+            2019
+        ],
+        "colleges": [
+            {
+                "collegeCode": "QSB",
+                "collegeName": "Đại học Bách Khoa - đại học Quốc Gia Tphcm",
+                "scores": [
+                    {
+                        "year": 2019,
+                        "score": 23.75,
+                        "groupCode": "A00, B00, D07"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,222 @@
+{
+    "took": 5395,
+    "message": null,
+    "body": {
+        "collegeCode": "QSC",
+        "collegeName": "Đại học Công Nghệ Thông Tin - đại học Quốc Gia Tphcm",
+        "years": [
+            2019
+        ],
+        "majors": [
+            {
+                "majorCode": "7340122",
+                "majorName": "Thương mại điện tử",
+                "scores": [
+                    {
+                        "year": 2019,
+                        "score": 23.9,
+                        "groupCode": "A00, A01, D01"
+                    }
+                ]
+            },
+            {
+                "majorCode": "7340122_CLCA",
+                "majorName": "Thương mại điện tử (chất lượng cao)",
+                "scores": [
+                    {
+                        "year": 2019,
+                        "score": 21.05,
+                        "groupCode": "A00, A01, D01"
+                    }
+                ]
+            },
+            {
+                "majorCode": "7480101",
+                "majorName": "Khoa học máy tính",
+                "scores": [
+                    {
+                        "year": 2019,
+                        "score": 25.55,
+                        "groupCode": "A00, A01, D01"
+                    }
+                ]
+            },
+            {
+                "majorCode": "7480101_CLCA",
+                "majorName": "Khoa học máy tính (chất lượng cao)",
+                "scores": [
+                    {
+                        "year": 2019,
+                        "score": 22.65,
+                        "groupCode": "A00, A01, D01"
+                    }
+                ]
+            },
+            {
+                "majorCode": "7480102",
+                "majorName": "Mạng máy tính và truyền thông dữ liệu",
+                "scores": [
+                    {
+                        "year": 2019,
+                        "score": 23.2,
+                        "groupCode": "A00, A01, D01"
+                    }
+                ]
+            },
+            {
+                "majorCode": "7480102_CLCA",
+                "majorName": "Mạng máy tính và truyền thông dữ liệu (chất lượng cao)",
+                "scores": [
+                    {
+                        "year": 2019,
+                        "score": 20.0,
+                        "groupCode": "A00, A01, D01"
+                    }
+                ]
+            },
+            {
+                "majorCode": "7480103",
+                "majorName": "Kỹ thuật phần mềm",
+                "scores": [
+                    {
+                        "year": 2019,
+                        "score": 25.3,
+                        "groupCode": "A00, A01, D01"
+                    }
+                ]
+            },
+            {
+                "majorCode": "7480103_CLCA",
+                "majorName": "Kỹ thuật phần mềm (chất lượng cao)",
+                "scores": [
+                    {
+                        "year": 2019,
+                        "score": 23.2,
+                        "groupCode": "A00, A01, D01"
+                    }
+                ]
+            },
+            {
+                "majorCode": "7480104",
+                "majorName": "Hệ thống thông tin",
+                "scores": [
+                    {
+                        "year": 2019,
+                        "score": 23.5,
+                        "groupCode": "A00, A01, D01"
+                    }
+                ]
+            },
+            {
+                "majorCode": "7480104_CLCA",
+                "majorName": "Hệ thống thông tin (chất lượng cao)",
+                "scores": [
+                    {
+                        "year": 2019,
+                        "score": 21.4,
+                        "groupCode": "A00, A01, D01"
+                    }
+                ]
+            },
+            {
+                "majorCode": "7480104_TT",
+                "majorName": "Hệ thống thông tin (tiên tiến)",
+                "scores": [
+                    {
+                        "year": 2019,
+                        "score": 17.8,
+                        "groupCode": "A00, A01, D01"
+                    }
+                ]
+            },
+            {
+                "majorCode": "7480106",
+                "majorName": "Kỹ thuật máy tính",
+                "scores": [
+                    {
+                        "year": 2019,
+                        "score": 23.8,
+                        "groupCode": "A00, A01, D01"
+                    }
+                ]
+            },
+            {
+                "majorCode": "7480106_CLCA",
+                "majorName": "Kỹ thuật máy tính (chất lượng cao)",
+                "scores": [
+                    {
+                        "year": 2019,
+                        "score": 21.0,
+                        "groupCode": "A00, A01, D01"
+                    }
+                ]
+            },
+            {
+                "majorCode": "7480109",
+                "majorName": "Khoa học dữ liệu",
+                "scores": [
+                    {
+                        "year": 2019,
+                        "score": 23.5,
+                        "groupCode": "A00, A01, D01"
+                    }
+                ]
+            },
+            {
+                "majorCode": "7480201",
+                "majorName": "Công nghệ thông tin",
+                "scores": [
+                    {
+                        "year": 2019,
+                        "score": 24.65,
+                        "groupCode": "A00, A01, D01"
+                    }
+                ]
+            },
+            {
+                "majorCode": "7480201_BT",
+                "majorName": "Công nghệ thông tin (Đào tạo tại Phân hiệu ĐHQG-HCM tại Bến Tre)",
+                "scores": [
+                    {
+                        "year": 2019,
+                        "score": 22.9,
+                        "groupCode": "A00, A01, D01"
+                    }
+                ]
+            },
+            {
+                "majorCode": "7480201_CLCN",
+                "majorName": "Công nghệ thông tin (chất lượng cao định hướng Nhật Bản)",
+                "scores": [
+                    {
+                        "year": 2019,
+                        "score": 21.3,
+                        "groupCode": "A00, A01, D01"
+                    }
+                ]
+            },
+            {
+                "majorCode": "7480202_CLCA",
+                "majorName": "An toàn thông tin (chất lượng cao)",
+                "scores": [
+                    {
+                        "year": 2019,
+                        "score": 22.0,
+                        "groupCode": "A00, A01, D01"
+                    }
+                ]
+            },
+            {
+                "majorCode": "7480202",
+                "majorName": "An toàn thông tin",
+                "scores": [
+                    {
+                        "year": 2019,
+                        "score": 24.45,
+                        "groupCode": "A00, A01, D01"
+                    }
+                ]
+            }
+        ]
+    }
+}

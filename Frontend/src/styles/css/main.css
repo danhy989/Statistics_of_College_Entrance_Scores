@@ -1,0 +1,36 @@
+/* colors */
+html,
+body {
+  font-size: 16px;
+}
+
+body {
+  overflow-y: scroll !important;
+}
+
+.sidebar {
+  min-height: 768px;
+  height: 100%;
+  background-color: #dfdfdf;
+  padding: 8px;
+}
+.sidebar a {
+  display: block;
+  color: #212529;
+}
+.sidebar a:hover {
+  color: #1c63ce;
+  text-decoration: none;
+}
+.sidebar .sidebar-item .sidebar-subitem:not(:last-child) {
+  margin-bottom: 0.75rem;
+}
+
+.rbt {
+  display: block;
+  width: 100%;
+}
+
+.score-panel h6 {
+  text-align: center;
+}
