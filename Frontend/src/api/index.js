@@ -1,8 +1,6 @@
 const host = 'http://35.240.228.120:5000';
 const localHost = 'http://localhost:5000';
-
 const basePath = '/api';
-
 const paths = {
     get: {
         college: {

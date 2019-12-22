@@ -31,6 +31,17 @@ body {
   width: 100%;
 }
 
-.score-panel h6 {
-  text-align: center;
+.score-panel h4 {
+  margin-bottom: 1rem;
+}
+.score-panel h5 {
+  margin: 0;
+}
+.score-panel table {
+  margin: 0;
+}
+
+#multiline-custom-typeahead .form-control.rbt-input {
+  min-height: 38px;
+  height: 100%;
 }

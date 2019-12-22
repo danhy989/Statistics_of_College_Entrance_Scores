@@ -154,7 +154,7 @@ class EntranceScore extends React.Component {
                 };
 
                 api.getMajorScoresFromCollege(collegeDTO)
-                    .then(response => this.setState({ scores: response.body }, () => console.log(this.state.scores)))
+                    .then(response => this.setState({ scores: response.body }))
                     .catch(error => console.log(error));
 
             } else if (radioChecked.major && selectedMajor) {
@@ -164,7 +164,7 @@ class EntranceScore extends React.Component {
                 };
 
                 api.getCollegeScoresByMajor(majorDTO)
-                    .then(response => this.setState({ scores: response.body }, () => console.log(this.state.scores)))
+                    .then(response => this.setState({ scores: response.body }))
                     .catch(error => console.log(error));
             }
         }
@@ -197,8 +197,13 @@ class EntranceScore extends React.Component {
         return (
             <div>
                 <div className="container">
+                    <div className="row">
+                        <div className="col-12 p-4">
+                            <h3 className="m-0">Tra cứu điểm</h3>
+                        </div>
+                    </div>
                     <div className="row" >
-                        <div className="col-12 p-3">
+                        <div className="col-12 p-4">
                             <div style={{ margin: '-8px' }}>
                                 <form>
                                     <div className="form-row p-2">
@@ -272,7 +277,7 @@ class EntranceScore extends React.Component {
                         </div>
                     </div>
                     <div className="row">
-                        <div className="col-12">
+                        <div className="col-12 p-4">
                             <ScorePanel scores={this.state.scores} />
                         </div>
                     </div>

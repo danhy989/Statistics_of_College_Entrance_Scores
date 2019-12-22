@@ -1,5 +1,6 @@
 import React from 'react';
 import { Bar, Line } from 'react-chartjs-2';
+import 'chartjs-plugin-datalabels';
 
 export const LineGraph = ({ data, options }) => {
     if (data) {
@@ -7,7 +8,7 @@ export const LineGraph = ({ data, options }) => {
             <div>
                 <Line data={data} options={options} />
             </div>
-        )
+        );
     }
     return null;
 };
@@ -18,7 +19,7 @@ export const BarChart = ({ data, options }) => {
             <div>
                 <Bar data={data} options={options} />
             </div>
-        )
+        );
     }
     return null;
 };

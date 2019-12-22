@@ -63,22 +63,34 @@ export class MajorScoreOverYears extends React.Component {
             const collegeCode = selectedString.substring(0, separatorPosition);
             const selectedCollege = this.state.fetchedColleges.find(item => item.code === collegeCode);
 
-            //fetch majors here
+            //fetch latest majors of the selected college
+            api.getMajorScoresFromCollege({
+                collegeCode: selectedCollege.code,
+                years: [2019]
+            })
+                .then(response => {
+                    const fetchedMajors = response.body.majors[0].majors.map(
+                        ({ majorCode: code, majorName: name, groupCode }) => ({ code, name, groupCode })
+                    );
 
-            this.setState({
-                selectDisabled: {
-                    college: false,
-                    major: false
-                },
-                selectedCollege
-            });
+                    this.setState({
+                        selectDisabled: {
+                            college: false,
+                            major: false
+                        },
+                        selectedCollege,
+                        fetchedMajors
+                    });
+                })
+                .catch(error => console.log(error));
         } else {
             this.setState({
                 selectDisabled: {
                     college: false,
                     major: true
                 },
-                selectedCollege: null
+                selectedCollege: null,
+                fetchedMajors: []
             });
         }
     }
@@ -99,22 +111,17 @@ export class MajorScoreOverYears extends React.Component {
     }
 
     handleSubmit() {
-        const majorCollegeDTO = {
-            collegeId: 'QSC',
-            majorId: '7480103'
-        };
-
-        api.getMajorScoreOverYears(majorCollegeDTO)
-            .then(response => this.processData(response))
-            .catch(error => console.log(error));
-
-        /* const { selectedCollege, selectedMajor } = this.state;
+        const { selectedCollege, selectedMajor } = this.state;
         if (selectedCollege && selectedMajor) {
             const majorCollegeDTO = {
                 collegeId: selectedCollege.code,
                 majorId: selectedMajor.code
             };
-        } */
+
+            api.getMajorScoreOverYears(majorCollegeDTO)
+                .then(response => this.processData(response))
+                .catch(error => console.log(error));
+        }
     }
 
     processData(raw) {
@@ -132,7 +139,7 @@ export class MajorScoreOverYears extends React.Component {
                         borderColor: 'rgba(0, 0, 0, 1)',
                         borderWidth: 1,
                         data: scores.map(item => item.score),
-                        lineTension: 0
+                        lineTension: 0.1
                     }
                 ]
             }
@@ -154,8 +161,13 @@ export class MajorScoreOverYears extends React.Component {
         return (
             <div>
                 <div className="container">
+                    <div className="row">
+                        <div className="col-12 p-4">
+                            <h3 className="m-0">Điểm chuẩn ngành qua các năm</h3>
+                        </div>
+                    </div>
                     <div className="row" >
-                        <div className="col-12 p-3">
+                        <div className="col-12 p-4">
                             <div style={{ margin: '-8px' }}>
                                 <form>
                                     <div className="form-row p-2">
@@ -202,7 +214,7 @@ export class MajorScoreOverYears extends React.Component {
                         </div>
                     </div>
                     <div className="row">
-                        <div className="col-12">
+                        <div className="col-12 p-4">
                             <div>
                                 <LineGraph
                                     data={this.state.chartData.data}
@@ -225,6 +237,15 @@ export class MajorScoreOverYears extends React.Component {
                                                         }
                                                     }
                                                 ]
+                                            },
+                                            plugins: {
+                                                datalabels: {
+                                                    display: true,
+                                                    color: 'rgba(0, 0, 0, 1)',
+                                                    anchor: 'end',
+                                                    align: '-45',
+                                                    offset: '-2'
+                                                }
                                             }
                                         }
                                     }
@@ -237,34 +258,6 @@ export class MajorScoreOverYears extends React.Component {
         );
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 export class CompareScoreBetweenColleges extends React.Component {
     constructor(props) {
@@ -281,6 +274,7 @@ export class CompareScoreBetweenColleges extends React.Component {
 
         this.handleMajorInputChange = this.handleMajorInputChange.bind(this);
         this.handleSelectMajor = this.handleSelectMajor.bind(this);
+        this.handleSelectCollege = this.handleSelectCollege.bind(this);
         this.handleSelectYear = this.handleSelectYear.bind(this);
         this.handleSubmit = this.handleSubmit.bind(this);
 
@@ -328,22 +322,34 @@ export class CompareScoreBetweenColleges extends React.Component {
             const majorCode = selectedString.substring(0, separatorPosition);
             const selectedMajor = this.state.fetchedMajors.find(item => item.code === majorCode);
 
-            //fetch colleges here
+            //fetch colleges that have the selected major
+            api.getCollegeScoresByMajor({
+                majorCode: selectedMajor.code,
+                years: [2019]
+            })
+                .then(response => {
+                    const fetchedColleges = response.body.colleges[0].colleges.map(
+                        ({ collegeCode: code, collegeName: name, groupCode }) => ({ code, name, groupCode })
+                    );
 
-            this.setState({
-                selectDisabled: {
-                    college: false,
-                    major: false
-                },
-                selectedMajor
-            });
+                    this.setState({
+                        selectDisabled: {
+                            college: false,
+                            major: false
+                        },
+                        selectedMajor,
+                        fetchedColleges
+                    });
+                })
+                .catch(error => console.log(error));
         } else {
             this.setState({
                 selectDisabled: {
                     college: true,
                     major: false
                 },
-                selectedMajor: null
+                selectedMajor: null,
+                fetchedColleges: []
             });
         }
     }
@@ -369,26 +375,42 @@ export class CompareScoreBetweenColleges extends React.Component {
     }
 
     handleSubmit() {
-        const compareDTO = {
-            majorCode: '7480201',
-            collegeCodes: ['QSC', 'QST'],
-            years: [2016]
-        };
-
-        api.compareMajorScoreBetweenColleges(compareDTO)
-            .then(response => console.log(response.body))
-            .catch(error => console.log(error));
-
-        /* const { selectedMajor, selectedYear } = this.state;
-        if (selectedCollege && selectedMajor) {
-            const majorCollegeDTO = {
-                collegeId: selectedCollege.code,
-                majorId: selectedMajor.code
+        const { selectedMajor, selectedColleges, selectedYear } = this.state;
+        if (selectedMajor && selectedColleges.length >= 2 && selectedYear) {
+            const compareDTO = {
+                majorCode: selectedMajor.code,
+                collegeCodes: selectedColleges.map(item => item.code),
+                year: selectedYear
             };
-        } */
+
+            api.compareMajorScoreBetweenColleges(compareDTO)
+                .then(response => this.processData(response))
+                .catch(error => console.log(error));
+        }
     }
 
-    processData(raw) { }
+    processData(raw) {
+        const { majorName, year, colleges: scores } = raw.body;
+
+        const chartData = {
+            majorName,
+            year,
+            data: {
+                labels: scores.map(item => item.collegeName),
+                datasets: [
+                    {
+                        label: 'Điểm chuẩn',
+                        backgroundColor: 'rgba(75, 192, 192, 1)',
+                        borderColor: 'rgba(0, 0, 0, 1)',
+                        borderWidth: 1,
+                        data: scores.map(item => item.score)
+                    }
+                ]
+            }
+        };
+
+        this.setState({ chartData });
+    }
 
     componentDidMount() {
         api.getAllMajors()
@@ -410,8 +432,13 @@ export class CompareScoreBetweenColleges extends React.Component {
         return (
             <div>
                 <div className="container">
+                    <div className="row">
+                        <div className="col-12 p-4">
+                            <h3 className="m-0">So sánh điểm chuẩn giữa các trường</h3>
+                        </div>
+                    </div>
                     <div className="row" >
-                        <div className="col-12 p-3">
+                        <div className="col-12 p-4">
                             <div style={{ margin: '-8px' }}>
                                 <form>
                                     <div className="form-row p-2">
@@ -433,7 +460,7 @@ export class CompareScoreBetweenColleges extends React.Component {
                                         <div className="form-group col-4 d-flex align-items-center my-0">
                                             Chọn trường ĐH-CĐ:
                                         </div>
-                                        <div className="form-group col-8 d-flex align-items-center my-0">
+                                        <div className="form-group col-8 d-flex align-items-center my-0" id="multiline-custom-typeahead">
                                             <CustomTypeahead
                                                 id={this.controlProps.selectCollege}
                                                 options={this.state.fetchedColleges.map(({ code, name }) => code + this.nameSeparator + name)}
@@ -471,7 +498,7 @@ export class CompareScoreBetweenColleges extends React.Component {
                         </div>
                     </div>
                     <div className="row">
-                        <div className="col-12">
+                        <div className="col-12 p-4">
                             <div>
                                 <BarChart
                                     data={this.state.chartData.data}
@@ -494,6 +521,15 @@ export class CompareScoreBetweenColleges extends React.Component {
                                                         }
                                                     }
                                                 ]
+                                            },
+                                            plugins: {
+                                                datalabels: {
+                                                    display: true,
+                                                    color: 'rgba(0, 0, 0, 1)',
+                                                    anchor: 'end',
+                                                    align: 'top',
+                                                    offset: '0'
+                                                }
                                             }
                                         }
                                     }

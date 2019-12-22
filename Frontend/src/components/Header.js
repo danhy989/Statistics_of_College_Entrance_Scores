@@ -1,5 +1,6 @@
 import React from 'react';
 import { Container, Row, Col, Navbar, Nav } from 'react-bootstrap';
+import FontAwesome from 'react-fontawesome';
 
 const Header = () => {
     return (
@@ -8,9 +9,12 @@ const Header = () => {
                 <Row>
                     <Col className="p-0">
                         <Navbar expand="lg" bg="dark" variant="dark">
+                            <Navbar.Brand href="/">Tra cứu điểm chuẩn</Navbar.Brand>
                             <Nav className="ml-auto mr-3">
-                                <Nav.Link href="/home">Abc</Nav.Link>
-                                <Nav.Link href="/home">Xyz</Nav.Link>
+                                <Nav.Link href="https://github.com/danhy989/Statistics_of_College_Entrance_Scores" target="_blank">
+                                    GitHub
+                                    <FontAwesome name="external-link" className="pl-1" />
+                                </Nav.Link>
                             </Nav>
                         </Navbar>
                     </Col>
