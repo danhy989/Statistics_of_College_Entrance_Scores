@@ -2,7 +2,10 @@ import React from 'react';
 import { LineGraph, BarChart } from './Chart';
 import CustomTypeahead from './CustomTypeahead';
 import Select from './Select';
+import MessageBox from './MessageBox';
 import api from '../api';
+import { CURRENT_YEAR, MAX_FETCH_ITEMS } from '../values';
+import { isArrayTruthy } from '../helpers';
 
 export class MajorScoreOverYears extends React.Component {
     constructor(props) {
@@ -20,6 +23,7 @@ export class MajorScoreOverYears extends React.Component {
         this.handleSelectCollege = this.handleSelectCollege.bind(this);
         this.handleSelectMajor = this.handleSelectMajor.bind(this);
         this.handleSubmit = this.handleSubmit.bind(this);
+        this.handleMessageBoxClose = this.handleMessageBoxClose.bind(this);
 
         // Initial state for the component
         this.state = {
@@ -35,8 +39,39 @@ export class MajorScoreOverYears extends React.Component {
                 collegeName: '',
                 majorName: '',
                 data: null
+            },
+            errorMessageBox: {
+                show: false,
+                message: ''
             }
         };
+    }
+
+    processData(raw) {
+        const { collegeName, majorName, scores } = raw.body;
+        return {
+            collegeName,
+            majorName,
+            data: {
+                labels: scores.map(item => item.year),
+                datasets: [
+                    {
+                        label: 'Điểm chuẩn',
+                        backgroundColor: 'rgba(0, 0, 0, 0.1)',
+                        borderColor: 'rgba(0, 0, 0, 1)',
+                        borderWidth: 1,
+                        data: scores.map(item => item.score),
+                        lineTension: 0.1
+                    }
+                ]
+            }
+        };
+    }
+
+    toggleMessageBox(show, message) {
+        this.setState({
+            errorMessageBox: { show, message }
+        });
     }
 
     handleCollegeInputChange(input) {
@@ -46,7 +81,7 @@ export class MajorScoreOverYears extends React.Component {
                 if (input.length >= 3) {
                     api.findCollegesByName(input)
                         .then(response => {
-                            const fetchedColleges = response.body.slice(0, 15);
+                            const fetchedColleges = response.body.slice(0, MAX_FETCH_ITEMS);
                             this.setState({ fetchedColleges });
                         })
                         .catch(error => console.log(error));
@@ -66,7 +101,7 @@ export class MajorScoreOverYears extends React.Component {
             //fetch latest majors of the selected college
             api.getMajorScoresFromCollege({
                 collegeCode: selectedCollege.code,
-                years: [2019]
+                years: [CURRENT_YEAR]
             })
                 .then(response => {
                     const fetchedMajors = response.body.majors[0].majors.map(
@@ -90,7 +125,8 @@ export class MajorScoreOverYears extends React.Component {
                     major: true
                 },
                 selectedCollege: null,
-                fetchedMajors: []
+                fetchedMajors: [],
+                selectedMajor: null
             });
         }
     }
@@ -112,46 +148,39 @@ export class MajorScoreOverYears extends React.Component {
 
     handleSubmit() {
         const { selectedCollege, selectedMajor } = this.state;
-        if (selectedCollege && selectedMajor) {
-            const majorCollegeDTO = {
-                collegeId: selectedCollege.code,
-                majorId: selectedMajor.code
-            };
 
-            api.getMajorScoreOverYears(majorCollegeDTO)
-                .then(response => this.processData(response))
-                .catch(error => console.log(error));
+        if (!selectedCollege) {
+            this.toggleMessageBox(true, 'Vui lòng chọn một trường.');
+            return;
         }
-    }
 
-    processData(raw) {
-        const { collegeName, majorName, scores } = raw.body;
+        if (!selectedMajor) {
+            this.toggleMessageBox(true, 'Vui lòng chọn một ngành của trường đã chọn.');
+            return;
+        }
 
-        const chartData = {
-            collegeName,
-            majorName,
-            data: {
-                labels: scores.map(item => item.year),
-                datasets: [
-                    {
-                        label: 'Điểm chuẩn',
-                        backgroundColor: 'rgba(0, 0, 0, 0.1)',
-                        borderColor: 'rgba(0, 0, 0, 1)',
-                        borderWidth: 1,
-                        data: scores.map(item => item.score),
-                        lineTension: 0.1
-                    }
-                ]
-            }
+        const majorCollegeDTO = {
+            collegeId: selectedCollege.code,
+            majorId: selectedMajor.code
         };
 
-        this.setState({ chartData });
+        api.getMajorScoreOverYears(majorCollegeDTO)
+            .then(response => {
+                const chartData = this.processData(response);
+                this.setState({ chartData });
+            })
+            .catch(error => console.log(error));
+
+    }
+
+    handleMessageBoxClose() {
+        this.toggleMessageBox(false, '');
     }
 
     componentDidMount() {
         api.getAllColleges()
             .then(response => {
-                const fetchedColleges = response.body.slice(0, 10);
+                const fetchedColleges = response.body.slice(0, MAX_FETCH_ITEMS);
                 this.setState({ fetchedColleges });
             })
             .catch(error => console.log(error));
@@ -218,42 +247,45 @@ export class MajorScoreOverYears extends React.Component {
                             <div>
                                 <LineGraph
                                     data={this.state.chartData.data}
-                                    options={
-                                        {
-                                            title: {
-                                                display: true,
-                                                text: `Điểm chuẩn ngành ${this.state.chartData.majorName} của trường ${this.state.chartData.collegeName} qua các năm`,
-                                                fontSize: 18
-                                            },
-                                            legend: {
-                                                display: false
-                                            },
-                                            scales: {
-                                                yAxes: [
-                                                    {
-                                                        ticks: {
-                                                            suggestedMin: 0,
-                                                            suggestedMax: 30
-                                                        }
+                                    options={{
+                                        title: {
+                                            display: true,
+                                            text: `Điểm chuẩn ngành ${this.state.chartData.majorName} của trường ${this.state.chartData.collegeName} qua các năm`,
+                                            fontSize: 18
+                                        },
+                                        legend: {
+                                            display: false
+                                        },
+                                        scales: {
+                                            yAxes: [
+                                                {
+                                                    ticks: {
+                                                        suggestedMin: 0,
+                                                        suggestedMax: 30
                                                     }
-                                                ]
-                                            },
-                                            plugins: {
-                                                datalabels: {
-                                                    display: true,
-                                                    color: 'rgba(0, 0, 0, 1)',
-                                                    anchor: 'end',
-                                                    align: '-45',
-                                                    offset: '-2'
                                                 }
+                                            ]
+                                        },
+                                        plugins: {
+                                            datalabels: {
+                                                display: true,
+                                                color: 'rgba(0, 0, 0, 1)',
+                                                anchor: 'end',
+                                                align: '-45',
+                                                offset: '-1'
                                             }
                                         }
-                                    }
+                                    }}
                                 />
                             </div>
                         </div>
                     </div>
                 </div>
+                <MessageBox
+                    show={this.state.errorMessageBox.show}
+                    message={this.state.errorMessageBox.message}
+                    handleClose={this.handleMessageBoxClose}
+                />
             </div>
         );
     }
@@ -277,6 +309,7 @@ export class CompareScoreBetweenColleges extends React.Component {
         this.handleSelectCollege = this.handleSelectCollege.bind(this);
         this.handleSelectYear = this.handleSelectYear.bind(this);
         this.handleSubmit = this.handleSubmit.bind(this);
+        this.handleMessageBoxClose = this.handleMessageBoxClose.bind(this);
 
         // Initial state for the component
         this.state = {
@@ -294,8 +327,38 @@ export class CompareScoreBetweenColleges extends React.Component {
                 majorName: '',
                 year: '',
                 data: null
+            },
+            errorMessageBox: {
+                show: false,
+                message: ''
             }
         };
+    }
+
+    processData(raw) {
+        const { majorName, year, colleges: scores } = raw.body;
+        return {
+            majorName,
+            year,
+            data: {
+                labels: scores.map(item => item.collegeName),
+                datasets: [
+                    {
+                        label: 'Điểm chuẩn',
+                        backgroundColor: 'rgba(75, 192, 192, 1)',
+                        borderColor: 'rgba(0, 0, 0, 1)',
+                        borderWidth: 1,
+                        data: scores.map(item => item.score)
+                    }
+                ]
+            }
+        };
+    }
+
+    toggleMessageBox(show, message) {
+        this.setState({
+            errorMessageBox: { show, message }
+        });
     }
 
     handleMajorInputChange(input) {
@@ -305,7 +368,7 @@ export class CompareScoreBetweenColleges extends React.Component {
                 if (input.length >= 3) {
                     api.findMajorsByName(input)
                         .then(response => {
-                            const fetchedMajors = response.body.slice(0, 15);
+                            const fetchedMajors = response.body.slice(0, MAX_FETCH_ITEMS);
                             this.setState({ fetchedMajors });
                         })
                         .catch(error => console.log(error));
@@ -325,7 +388,7 @@ export class CompareScoreBetweenColleges extends React.Component {
             //fetch colleges that have the selected major
             api.getCollegeScoresByMajor({
                 majorCode: selectedMajor.code,
-                years: [2019]
+                years: [CURRENT_YEAR]
             })
                 .then(response => {
                     const fetchedColleges = response.body.colleges[0].colleges.map(
@@ -349,7 +412,8 @@ export class CompareScoreBetweenColleges extends React.Component {
                     major: false
                 },
                 selectedMajor: null,
-                fetchedColleges: []
+                fetchedColleges: [],
+                selectedColleges: []
             });
         }
     }
@@ -358,11 +422,12 @@ export class CompareScoreBetweenColleges extends React.Component {
         let selectedColleges;
 
         if (collegeArray.length) {
-            selectedColleges = collegeArray.map(selectedString => {
+            const mappedArray = collegeArray.map(selectedString => {
                 const separatorPosition = selectedString.indexOf(this.nameSeparator);
                 const collegeCode = selectedString.substring(0, separatorPosition);
                 return this.state.fetchedColleges.find(item => item.code === collegeCode);
             });
+            selectedColleges = isArrayTruthy(mappedArray) ? mappedArray : [];
         } else {
             selectedColleges = [];
         }
@@ -376,53 +441,54 @@ export class CompareScoreBetweenColleges extends React.Component {
 
     handleSubmit() {
         const { selectedMajor, selectedColleges, selectedYear } = this.state;
-        if (selectedMajor && selectedColleges.length >= 2 && selectedYear) {
-            const compareDTO = {
-                majorCode: selectedMajor.code,
-                collegeCodes: selectedColleges.map(item => item.code),
-                year: selectedYear
-            };
 
-            api.compareMajorScoreBetweenColleges(compareDTO)
-                .then(response => this.processData(response))
-                .catch(error => console.log(error));
+        if (!selectedMajor) {
+            this.toggleMessageBox(true, 'Vui lòng chọn một ngành.');
+            return;
         }
-    }
 
-    processData(raw) {
-        const { majorName, year, colleges: scores } = raw.body;
+        if (selectedColleges.length < 2) {
+            this.toggleMessageBox(
+                true,
+                'Vui lòng chọn ít nhất hai trường có đào tạo ngành đã chọn và loại bỏ những trường không đào tạo ngành này (nếu có).'
+            );
+            return;
+        }
 
-        const chartData = {
-            majorName,
-            year,
-            data: {
-                labels: scores.map(item => item.collegeName),
-                datasets: [
-                    {
-                        label: 'Điểm chuẩn',
-                        backgroundColor: 'rgba(75, 192, 192, 1)',
-                        borderColor: 'rgba(0, 0, 0, 1)',
-                        borderWidth: 1,
-                        data: scores.map(item => item.score)
-                    }
-                ]
-            }
+        if (!selectedYear) {
+            this.toggleMessageBox(true, 'Vui lòng chọn một năm.');
+            return;
+        }
+
+        const compareDTO = {
+            majorCode: selectedMajor.code,
+            collegeCodes: selectedColleges.map(item => item.code),
+            year: selectedYear
         };
 
-        this.setState({ chartData });
+        api.compareMajorScoreBetweenColleges(compareDTO)
+            .then(response => {
+                const chartData = this.processData(response);
+                this.setState({ chartData });
+            })
+            .catch(error => console.log(error));
+    }
+
+    handleMessageBoxClose() {
+        this.toggleMessageBox(false, '');
     }
 
     componentDidMount() {
         api.getAllMajors()
             .then(response => {
-                const fetchedMajors = response.body.slice(0, 10);
+                const fetchedMajors = response.body.slice(0, MAX_FETCH_ITEMS);
                 this.setState({ fetchedMajors });
             })
             .catch(error => console.log(error));
 
         api.getYears()
             .then(response => {
-                let fetchedYears = response.body;
+                const fetchedYears = response.body;
                 this.setState({ fetchedYears, selectedYear: fetchedYears[0] });
             })
             .catch(error => console.log(error));
@@ -502,42 +568,45 @@ export class CompareScoreBetweenColleges extends React.Component {
                             <div>
                                 <BarChart
                                     data={this.state.chartData.data}
-                                    options={
-                                        {
-                                            title: {
-                                                display: true,
-                                                text: `Điểm chuẩn ngành ${this.state.chartData.majorName} giữa các trường năm ${this.state.chartData.year}`,
-                                                fontSize: 18
-                                            },
-                                            legend: {
-                                                display: false
-                                            },
-                                            scales: {
-                                                yAxes: [
-                                                    {
-                                                        ticks: {
-                                                            suggestedMin: 0,
-                                                            suggestedMax: 30
-                                                        }
+                                    options={{
+                                        title: {
+                                            display: true,
+                                            text: `Điểm chuẩn ngành ${this.state.chartData.majorName} giữa các trường năm ${this.state.chartData.year}`,
+                                            fontSize: 18
+                                        },
+                                        legend: {
+                                            display: false
+                                        },
+                                        scales: {
+                                            yAxes: [
+                                                {
+                                                    ticks: {
+                                                        suggestedMin: 0,
+                                                        suggestedMax: 30
                                                     }
-                                                ]
-                                            },
-                                            plugins: {
-                                                datalabels: {
-                                                    display: true,
-                                                    color: 'rgba(0, 0, 0, 1)',
-                                                    anchor: 'end',
-                                                    align: 'top',
-                                                    offset: '0'
                                                 }
+                                            ]
+                                        },
+                                        plugins: {
+                                            datalabels: {
+                                                display: true,
+                                                color: 'rgba(0, 0, 0, 1)',
+                                                anchor: 'end',
+                                                align: 'top',
+                                                offset: '0'
                                             }
                                         }
-                                    }
+                                    }}
                                 />
                             </div>
                         </div>
                     </div>
                 </div>
+                <MessageBox
+                    show={this.state.errorMessageBox.show}
+                    message={this.state.errorMessageBox.message}
+                    handleClose={this.handleMessageBoxClose}
+                />
             </div>
         );
     }

@@ -29,7 +29,7 @@ namespace Statistics_College_Entrance_Scores.Repository
 
         public async Task<IEnumerable<Province>> GetAll()
         {
-            return await Task.Run(() => _context.provinces);
+            return await Task.Run(() => _context.provinces.Where(c => c.province_id != 0));
         }
 
         public async Task<List<Province>> FindByName(string name)

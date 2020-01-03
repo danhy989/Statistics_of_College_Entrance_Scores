@@ -8,7 +8,7 @@ import ContentPanel from './ContentPanel';
 
 import EntranceScore from './EntranceScore';
 import { MajorScoreOverYears, CompareScoreBetweenColleges } from './Stats';
-// import Predict from './Predict';
+import Predict from './Predict';
 
 const App = () => {
     return (
@@ -20,11 +20,11 @@ const App = () => {
                         <Row>
                             <Sidebar>
                                 <Sidebar.Item link="/score" title="Tra cứu điểm" />
-                                <Sidebar.Item link="/predict" title="Dự đoán" />
                                 <Sidebar.Item title="Thống kê" eventKey="0">
                                     <Sidebar.Subitem link="/stats/major-score-over-years" title="Điểm chuẩn ngành qua các năm" />
                                     <Sidebar.Subitem link="/stats/compare-score-between-colleges" title="So sánh điểm chuẩn giữa các trường" />
                                 </Sidebar.Item>
+                                <Sidebar.Item link="/predict" title="Dự đoán" />
                             </Sidebar>
 
                             <ContentPanel>
@@ -32,7 +32,7 @@ const App = () => {
                                 <Route path="/score" component={EntranceScore} />
                                 <Route path="/stats/major-score-over-years" component={MajorScoreOverYears} />
                                 <Route path="/stats/compare-score-between-colleges" component={CompareScoreBetweenColleges} />
-                                {/* <Route path="/predict" component={Predict} /> */}
+                                <Route path="/predict" component={Predict} />
                             </ContentPanel>
                         </Row>
                     </Container>

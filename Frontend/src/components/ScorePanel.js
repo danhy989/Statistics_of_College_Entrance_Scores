@@ -69,7 +69,7 @@ class ScorePanel extends React.Component {
         const { majorCode, majorName, colleges: years } = this.props.scores;
         return (
             <div>
-                <h4>Điểm chuẩn của ngành/nhóm ngành {majorName} (Mã ngành: {majorCode})</h4>
+                <h4>Điểm chuẩn của ngành {majorName} (Mã ngành: {majorCode})</h4>
                 <Accordion defaultActiveKey="0">
                     {years.map(
                         ({ year, colleges }, index) => (

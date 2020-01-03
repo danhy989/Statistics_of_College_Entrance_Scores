@@ -12,12 +12,16 @@ namespace Statistics_College_Entrance_Scores.Dto
                
         }
 
-        public JsonGuessScore(string collegeCode,string collegeName,string majorCode,string majorName,List<JsonScore> jsonScores)
+        public JsonGuessScore(string collegeCode, 
+            string collegeName, string majorCode,
+            string majorName, string groupCode, 
+            List<JsonScore> jsonScores)
         {
             this.collegeCode = collegeCode;
             this.collegeName = collegeName;
             this.majorCode = majorCode;
             this.majorName = majorName;
+            this.groupCode = groupCode;
             this.jsonScores = jsonScores;
         }
 
@@ -25,6 +29,7 @@ namespace Statistics_College_Entrance_Scores.Dto
         public string collegeName { get; set; }
         public string majorCode { get; set; }
         public string majorName { get; set; }
+        public string groupCode { get; set; }
         public List<JsonScore> jsonScores { get; set; }
     }
 

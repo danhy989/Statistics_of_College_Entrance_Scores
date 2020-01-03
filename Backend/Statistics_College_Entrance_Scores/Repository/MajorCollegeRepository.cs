@@ -5,6 +5,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using MathNet.Numerics;
+using System.Text.RegularExpressions;
+using Statistics_College_Entrance_Scores.Common;
 
 namespace Statistics_College_Entrance_Scores.Repository
 {
@@ -14,13 +16,16 @@ namespace Statistics_College_Entrance_Scores.Repository
         Task<List<MajorCollege>> GetMajorCollegesByCollegeCodeAndYear(string code, int year);
         List<MajorCollege> findScoreByCollegeCompared(string majorCode, IList<string> collegeCodes, int year);
         double[] GetPastYearsTrainData(string collegeCode,string majorCode);
+        double[] GetPastYearsTrainData(string collegeCode, string majorCode,string groupCode);
         List<CollegeEntity> GetCollegeByGroupCode(string groupCode);
         List<MajorEntity> GetMajorByGroupCode(string groupCode);
-        double[] GetScores(string majorCode, string collegeCode, double[] years);
+        double[] GetScores(string majorCode, string collegeCode, string groupCode ,double[] years);
         int[] GetYears();
         Task<List<MajorEntity>> FindMajorAndCollegeByName(string name);
 		Task<MajorCollege> GetMajorCollegesByCollegeCodeAndMajorAndYear(string collegeId, string majorId, double y);
-	}
+        List<MajorCollege> GetMajorCollegesLikeGroupCode(string collegeCode, string majorCode, string groupCode);
+        string[] getGroupCodeBy(string collegeCode, string majorCode);
+    }
     public class MajorCollegeRepository : IMajorCollegeRepository
     {
         private readonly EntranceScoresContext _context;
@@ -72,12 +77,21 @@ namespace Statistics_College_Entrance_Scores.Repository
             return years;
         }
 
-        public double[] GetScores(string majorCode, string collegeCode, double[] years)
+        public double[] GetScores(string majorCode, string collegeCode, string groupCode, double[] years)
         {
-            var rs = this._context.majorColleges.Where(
-                c => c.MajorEntityId.Equals(majorCode) &&
-                c.CollegeEntityId.Equals(collegeCode) && c.year >= years[0] &&
-                c.year <= years[years.Length - 1]).OrderBy(c => c.year).Select(s => s.score).ToArray();
+            double[] rs = new double[years.Length];
+            var majorColleges = this.GetMajorCollegesLikeGroupCode(collegeCode, majorCode, groupCode.Trim());
+            for(int i=0;i<majorColleges.Count;i++)
+            {
+                try
+                {
+                    rs[i] = majorColleges[i].score;
+                }catch(IndexOutOfRangeException e) {
+                    throw new IndexOutOfRangeException();
+                }
+               
+            }   
+
             return rs;
         }
 
@@ -118,6 +132,57 @@ namespace Statistics_College_Entrance_Scores.Repository
         {
             return await Task.Run(() => _context.majorColleges.Where(rs => rs.CollegeEntityId.Equals(collegeId)
             && rs.MajorEntityId.Equals(majorId) && rs.year.Equals(Convert.ToInt32(y))).FirstOrDefault());
+        }
+
+        public List<MajorCollege> GetMajorCollegesLikeGroupCode(string collegeCode, string majorCode, string groupCode)
+        {
+            string sqlLike = RegexHelper.getRegexLikeGroupCode(groupCode);
+
+            string sql = "select * from \"Entrance_Scores\".\"majorColleges\" f " +
+                  "where \"CollegeEntityId\" = '" + collegeCode + "' " +
+                  "AND \"MajorEntityId\" = '" + majorCode + "' " +
+                  "AND " +
+                  sqlLike;
+            RawSqlString rawSqlString = new RawSqlString(sql);
+
+            var rs =  _context.majorColleges
+               .FromSql(rawSqlString)
+               .ToList();
+            return rs;
+        }
+
+        public double[] GetPastYearsTrainData(string collegeCode, string majorCode, string groupCode)
+        {
+            string sqlLike = RegexHelper.getRegexLikeGroupCode(groupCode);
+            string sql = "select year from \"Entrance_Scores\".\"majorColleges\" f " +
+                  "where \"CollegeEntityId\" = '" + collegeCode + "' " +
+                  "AND \"MajorEntityId\" = '" + majorCode + "' " +
+                  "AND " +
+                  sqlLike + " " +
+                  "GROUP BY year order by  year";
+            RawSqlString rawSqlString = new RawSqlString(sql);
+
+            var rs = _context.majorColleges
+               .FromSql(rawSqlString).Select(c => Convert.ToDouble(c.year)).ToArray();
+            return rs;
+        }
+
+        public string[] getGroupCodeBy(string collegeCode, string majorCode)
+        {
+            string sql = "select \"groupCode\" from \"Entrance_Scores\".\"majorColleges\" f " +
+                  "where \"CollegeEntityId\" = '" + collegeCode + "' " +
+                  "AND \"MajorEntityId\" = '" + majorCode + "' " +
+                  "GROUP BY \"groupCode\"";
+            RawSqlString rawSqlString = new RawSqlString(sql);
+            var rs = _context.majorColleges
+               .FromSql(rawSqlString).Select(c=> c.groupCode).ToArray();
+            var result = new string[rs.Length];
+            for(int i=0;i<rs.Length;i++)
+            {
+                rs[i] = rs[i].Replace(";",",");
+                result[i] = rs[i];
+            }
+            return rs;
         }
     }
 }

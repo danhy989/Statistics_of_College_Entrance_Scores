@@ -46,11 +46,17 @@ namespace Statistics_College_Entrance_Scores.Controllers
 				return BadRequest(MessagesResponse.MESSAGE_BAD_REQUEST_GUESS);
 			}
 
-			var rs = this._guessService.guessMajorScoreById(guessScoreDTO.majorCode, guessScoreDTO.collegeCode, guessScoreDTO.years);
-
-            watch.Stop();
-            var took = watch.ElapsedMilliseconds;
-            return Ok(new JsonResponse(took, null, rs));
+			try
+			{
+				var rs = this._guessService.guessMajorScoreById(guessScoreDTO.majorCode, guessScoreDTO.collegeCode, guessScoreDTO.groupCode, guessScoreDTO.years);
+				watch.Stop();
+				var took = watch.ElapsedMilliseconds;
+				return Ok(new JsonResponse(took, null, rs));
+			}
+			catch(ArgumentNullException e)
+			{
+				return NotFound(new JsonResponse(0, null, e.ParamName));
+			}
         }
 
 	}

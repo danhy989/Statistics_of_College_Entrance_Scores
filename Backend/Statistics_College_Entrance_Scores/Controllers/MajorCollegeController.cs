@@ -62,6 +62,36 @@ namespace Statistics_College_Entrance_Scores.Controllers
             return Ok(new JsonResponse(took, null, rs));
         }
 
+        [HttpGet("groupcode/{college}/{major}")]
+        public IActionResult getGroupCodeBy([FromRoute(Name = "college")] string collegeCode, [FromRoute(Name = "major")] string majorCode)
+        {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+            var watch = System.Diagnostics.Stopwatch.StartNew();
+            var rs = this._majorCollegeService.getGroupCodeBy(collegeCode,majorCode);
+            watch.Stop();
+            var took = watch.ElapsedMilliseconds;
+            if (rs == null)
+            {
+                return NotFound(new JsonResponse(took, MessagesResponse.MESSAGE_NOT_FOUND, null));
+            }
+            return Ok(new JsonResponse(took, null, rs));
+        }
 
+        [HttpGet("groupcode")]
+        public IActionResult GetAllGroupCodes()
+        {
+            var watch = System.Diagnostics.Stopwatch.StartNew();
+            var rs = this._majorCollegeService.GetGroupCode();
+            watch.Stop();
+            var took = watch.ElapsedMilliseconds;
+            if (rs == null)
+            {
+                return NotFound(new JsonResponse(took, MessagesResponse.MESSAGE_NOT_FOUND, null));
+            }
+            return Ok(new JsonResponse(took, null, rs));
+        }
     }
 }

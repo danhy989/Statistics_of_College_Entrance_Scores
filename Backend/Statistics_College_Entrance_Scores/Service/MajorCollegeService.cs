@@ -12,9 +12,13 @@ namespace Statistics_College_Entrance_Scores.Service
         int[] GetYears();
         List<MajorEntity> FindMajorAndCollegeByName(string name);
 		JsonMajorCollege getScoreThroughYears(string collegeId, string majorId);
-	}
+        HashSet<string> getGroupCodeBy(string collegeCode, string majorCode);
+        string[] GetGroupCode();
+    }
     public class MajorCollegeService : IMajorCollegeService
     {
+        private string[] GROUP_CODE = { "A", "A1", "B", "C", "D", "D1", "D2","D3", "D4", "D5", "D6", "H",
+                        "M", "N","N1", "S", "T", "K", "R", "V" };
         private readonly IMajorCollegeRepository _majorCollegeRepository;
         private readonly IMajorRepository _majorRepository;
         private readonly ICollegeRepository _collegeRepository;
@@ -68,6 +72,25 @@ namespace Statistics_College_Entrance_Scores.Service
             jsonMajorCollege.majorName = majorName;
             jsonMajorCollege.scores = jsonScores;
             return jsonMajorCollege;
+        }
+       
+        public HashSet<string> getGroupCodeBy(string collegeCode, string majorCode)
+        {
+            var rs = this._majorCollegeRepository.getGroupCodeBy(collegeCode,majorCode);
+            HashSet<string> listRsSet = new HashSet<string>();
+            for(int i = 0; i < rs.Length; i++)
+            {
+                char[] spearator = { ',', ' '};
+                string[] strlist = rs[i].Split(spearator, StringSplitOptions.RemoveEmptyEntries);
+                listRsSet.UnionWith(strlist);
+            }
+            return listRsSet;
+        }
+
+        public string[] GetGroupCode()
+        {
+            return this.GROUP_CODE;
+
         }
     }
 }
